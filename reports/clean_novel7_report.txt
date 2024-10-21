@@ -1,0 +1,6109 @@
+Novel: clean_novel7
+Predicted Protagonist: Hercule Poirot
+Predicted Antagonist: Claude Darrell
+--------------------------------------------------
+Major Scenes:
+  Chapter: CHAPTER 1 (Chapter 1)
+  Position in Chapter: 0.00%
+  Scene Sentence: CHAPTER 1
+ THE UNEXPECTED GUEST
+
+
+
+
+
+I have met people who enjoy a channel crossing; men who can sit calmly
+
+in their deck-chairs and, on arrival, wait until the boat is moored,
+
+then gather their belongings together without fuss and disembark.
+
+  Chapter: CHAPTER 1 (Chapter 1)
+  Position in Chapter: 3.16%
+  Scene Sentence: I had prospered there, and my wife and I had
+
+both enjoyed the free and easy life of the South American continent,
+
+nevertheless it was with a lump in my throat that I watched the
+
+familiar shore draw nearer and nearer.
+
+  Chapter: CHAPTER 1 (Chapter 1)
+  Position in Chapter: 3.95%
+  Scene Sentence: I should be there
+
+some months--time enough to look up old friends, and one old friend
+
+in particular.
+
+  Chapter: CHAPTER 1 (Chapter 1)
+  Position in Chapter: 5.14%
+  Scene Sentence: My last letter from the Argentine had given no hint of my intended
+
+voyage--indeed, that had been decided upon hurriedly as a result
+
+of certain business complications--and I spent many amused moments
+
+picturing to myself his delight and stupefaction on beholding me.
+
+  Chapter: CHAPTER 1 (Chapter 1)
+  Position in Chapter: 7.51%
+  Scene Sentence: "No, my friend Hastings," he would say; "we leave that to Giraud and
+
+his friends.
+
+  Chapter: CHAPTER 1 (Chapter 1)
+  Position in Chapter: 8.70%
+  Scene Sentence: Sitting at ease in our own arm-chairs we
+
+see the things that these others overlook, and we do not jump to the
+
+conclusion like the worthy Japp."
+
+  Chapter: CHAPTER 1 (Chapter 1)
+  Position in Chapter: 9.09%
+  Scene Sentence: No; there was little fear of finding Hercule Poirot far afield.
+
+  Chapter: CHAPTER 1 (Chapter 1)
+  Position in Chapter: 15.42%
+  Scene Sentence: I'd love to put up here again with you."
+
+  Chapter: CHAPTER 1 (Chapter 1)
+  Position in Chapter: 21.74%
+  Scene Sentence: the
+
+surprise of the good Hastings when he beholds me!"
+
+  Chapter: CHAPTER 1 (Chapter 1)
+  Position in Chapter: 24.11%
+  Scene Sentence: "Speak not of it to me, my friend.
+
+  Chapter: CHAPTER 1 (Chapter 1)
+  Position in Chapter: 25.69%
+  Scene Sentence: Do you know who is the
+
+richest man in the world?
+
+  Chapter: CHAPTER 1 (Chapter 1)
+  Position in Chapter: 26.09%
+  Scene Sentence: Richer even than Rockefeller?
+
+  Chapter: CHAPTER 1 (Chapter 1)
+  Position in Chapter: 32.02%
+  Scene Sentence: And there was a second
+
+attraction--_you_, my friend.
+
+  Chapter: CHAPTER 1 (Chapter 1)
+  Position in Chapter: 33.20%
+  Scene Sentence: I am
+
+beginning to weary of this unending solving of foolish problems.
+
+  Chapter: CHAPTER 1 (Chapter 1)
+  Position in Chapter: 41.90%
+  Scene Sentence: Nothing but a matter of life or
+
+death could detain me now."
+
+  Chapter: CHAPTER 1 (Chapter 1)
+  Position in Chapter: 43.08%
+  Scene Sentence: I quoted the old saw with a slight laugh, and then, in the pause that
+
+succeeded it, we both started as a sound came from the inner room.
+
+  Chapter: CHAPTER 1 (Chapter 1)
+  Position in Chapter: 46.25%
+  Scene Sentence: "Your memory is excellent, Hastings.
+
+  Chapter: CHAPTER 1 (Chapter 1)
+  Position in Chapter: 48.22%
+  Scene Sentence: I had risen to my feet and was striding in the direction of the door
+
+when the sound of a fumbling at the handle from the other side arrested
+
+me.
+
+  Chapter: CHAPTER 1 (Chapter 1)
+  Position in Chapter: 56.13%
+  Scene Sentence: The doctor was in luckily; and as his house was only just round the
+
+corner, few minutes elapsed before he came bustling in.
+
+  Chapter: CHAPTER 1 (Chapter 1)
+  Position in Chapter: 59.29%
+  Scene Sentence: The doctor immediately snorted with contempt.
+
+  Chapter: CHAPTER 1 (Chapter 1)
+  Position in Chapter: 62.85%
+  Scene Sentence: This suggestion did not cause the doctor to snort quite as violently as
+
+my last one had done.
+
+  Chapter: CHAPTER 1 (Chapter 1)
+  Position in Chapter: 66.40%
+  Scene Sentence: It's an interesting case--very interesting.
+
+  Chapter: CHAPTER 1 (Chapter 1)
+  Position in Chapter: 69.57%
+  Scene Sentence: He's
+
+suffering from complete exhaustion.
+
+  Chapter: CHAPTER 1 (Chapter 1)
+  Position in Chapter: 70.36%
+  Scene Sentence: I'll have a word with that excellent Mrs. Funnyface of yours,
+
+and tell her to keep an eye on him."
+
+  Chapter: CHAPTER 1 (Chapter 1)
+  Position in Chapter: 75.49%
+  Scene Sentence: "I'll do my best, Poirot," I assured him. "
+
+  Chapter: CHAPTER 1 (Chapter 1)
+  Position in Chapter: 76.68%
+  Scene Sentence: His rejoinder struck me as being a shade doubtful.
+
+  Chapter: CHAPTER 1 (Chapter 1)
+  Position in Chapter: 82.21%
+  Scene Sentence: It may be conjectured, therefore, that
+
+he is an American subject, and that he represents the power of wealth.
+
+  Chapter: CHAPTER 1 (Chapter 1)
+  Position in Chapter: 82.61%
+  Scene Sentence: There seems no doubt that Number Three is a woman, and her nationality
+
+French.
+
+  Chapter: CHAPTER 1 (Chapter 1)
+  Position in Chapter: 85.38%
+  Scene Sentence: Some overmastering terror
+
+seemed to be gaining the day; the features were distorted and twisted.
+
+  Chapter: CHAPTER 1 (Chapter 1)
+  Position in Chapter: 86.17%
+  Scene Sentence: Then, with a final convulsive
+
+movement, he fell back in a dead faint.
+
+  Chapter: CHAPTER 1 (Chapter 1)
+  Position in Chapter: 94.47%
+  Scene Sentence: But I have
+
+been an imbecile.
+
+  Chapter: CHAPTER 1 (Chapter 1)
+  Position in Chapter: 95.26%
+  Scene Sentence: It is undoubtedly the blessed
+
+saints who stopped the train.
+
+  Chapter: CHAPTER 1 (Chapter 1)
+  Position in Chapter: 98.42%
+  Scene Sentence: "It is, my friend, that I have seen the light."
+
+  Chapter: CHAPTER 1 (Chapter 1)
+  Position in Chapter: 99.21%
+  Scene Sentence: "It should be," said Poirot, "but I fear--I very much fear that it is
+
+not.
+
+  Chapter: CHAPTER 2 (Chapter 2)
+  Position in Chapter: 1.09%
+  Scene Sentence: Then, and not till then,
+
+did Poirot deign to satisfy my curiosity.
+
+  Chapter: CHAPTER 2 (Chapter 2)
+  Position in Chapter: 4.35%
+  Scene Sentence: Very cleverly.
+
+  Chapter: CHAPTER 2 (Chapter 2)
+  Position in Chapter: 4.89%
+  Scene Sentence: Both the place and the method were chosen with
+
+great knowledge and acumen.
+
+  Chapter: CHAPTER 2 (Chapter 2)
+  Position in Chapter: 7.61%
+  Scene Sentence: Pray the good God we arrive back in time, Hastings."
+
+  Chapter: CHAPTER 2 (Chapter 2)
+  Position in Chapter: 8.15%
+  Scene Sentence: "You think there is danger to our visitor?"
+
+  Chapter: CHAPTER 2 (Chapter 2)
+  Position in Chapter: 9.78%
+  Scene Sentence: Brushing aside her ecstasies of
+
+astonishment on beholding Poirot, we asked for information.
+
+  Chapter: CHAPTER 2 (Chapter 2)
+  Position in Chapter: 11.41%
+  Scene Sentence: With a sigh of relief we went up to the rooms.
+
+  Chapter: CHAPTER 2 (Chapter 2)
+  Position in Chapter: 12.50%
+  Scene Sentence: Then he called me, his voice
+
+strangely agitated.
+
+  Chapter: CHAPTER 2 (Chapter 2)
+  Position in Chapter: 14.13%
+  Scene Sentence: The man was lying as we had left him, but
+
+he was dead, and had been dead some time.
+
+  Chapter: CHAPTER 2 (Chapter 2)
+  Position in Chapter: 16.30%
+  Scene Sentence: "He's dead right enough, poor chap.
+
+  Chapter: CHAPTER 2 (Chapter 2)
+  Position in Chapter: 17.93%
+  Scene Sentence: What was the cause of
+
+death, doctor?"
+
+  Chapter: CHAPTER 2 (Chapter 2)
+  Position in Chapter: 21.74%
+  Scene Sentence: Been dead about two hours, I should
+
+say.
+
+  Chapter: CHAPTER 2 (Chapter 2)
+  Position in Chapter: 23.91%
+  Scene Sentence: Finally,
+
+somewhat to my surprise, he rang up our old friend Inspector Japp, and
+
+asked him if he could possibly come round.
+
+  Chapter: CHAPTER 2 (Chapter 2)
+  Position in Chapter: 27.17%
+  Scene Sentence: "'Morning, gentlemen," he said cheerfully. "
+
+  Chapter: CHAPTER 2 (Chapter 2)
+  Position in Chapter: 32.07%
+  Scene Sentence: Well, I dare say it's best for all parties."
+
+  Chapter: CHAPTER 2 (Chapter 2)
+  Position in Chapter: 39.67%
+  Scene Sentence: The keeper permitted himself to laugh.
+
+  Chapter: CHAPTER 2 (Chapter 2)
+  Position in Chapter: 40.22%
+  Scene Sentence: "If he was sane, what would he be doing in a lunatic asylum?
+
+  Chapter: CHAPTER 2 (Chapter 2)
+  Position in Chapter: 43.48%
+  Scene Sentence: Well, gentlemen, I had best go off now and make
+
+arrangements under the circumstances.
+
+  Chapter: CHAPTER 2 (Chapter 2)
+  Position in Chapter: 48.91%
+  Scene Sentence: "My good Japp, I want to know if you have ever seen this man before."
+
+  Chapter: CHAPTER 2 (Chapter 2)
+  Position in Chapter: 51.09%
+  Scene Sentence: Why, God bless my soul, it's Mayerling!"
+
+  Chapter: CHAPTER 2 (Chapter 2)
+  Position in Chapter: 64.13%
+  Scene Sentence: He bent over the dead man, examining the corners of the mouth minutely.
+
+  Chapter: CHAPTER 2 (Chapter 2)
+  Position in Chapter: 66.30%
+  Scene Sentence: "Good heavens!"
+
+  Chapter: CHAPTER 2 (Chapter 2)
+  Position in Chapter: 69.57%
+  Scene Sentence: Then the murderer went away
+
+again, first opening all the windows.
+
+  Chapter: CHAPTER 2 (Chapter 2)
+  Position in Chapter: 70.11%
+  Scene Sentence: Hydrocyanic acid is exceedingly
+
+volatile, but it has a pronounced smell of bitter almonds.
+
+  Chapter: CHAPTER 2 (Chapter 2)
+  Position in Chapter: 70.65%
+  Scene Sentence: With no
+
+trace of the smell to guide them, and no suspicion of foul play, death
+
+would be put down to some natural cause by the doctors.
+
+  Chapter: CHAPTER 2 (Chapter 2)
+  Position in Chapter: 77.72%
+  Scene Sentence: Some idea of a false scent
+
+by making the crime appear to have taken place at four o'clock?"
+
+  Chapter: CHAPTER 2 (Chapter 2)
+  Position in Chapter: 95.65%
+  Scene Sentence: He will
+
+be none of those things by this time, and for the rest, he has
+
+nondescript eyes, nondescript ears, and a perfect set of false teeth.
+
+  Chapter: CHAPTER 2 (Chapter 2)
+  Position in Chapter: 98.37%
+  Scene Sentence: "It is a duel to the death, _mon ami_.
+
+  Chapter: CHAPTER 2 (Chapter 2)
+  Position in Chapter: 99.46%
+  Scene Sentence: They have won the first trick; but they have
+
+failed in their plan to get me out of the way, and in the future they
+
+have to reckon with Hercule Poirot!"
+
+  Chapter: CHAPTER 3 (Chapter 3)
+  Position in Chapter: 0.38%
+  Scene Sentence: As far as I could see, he had no reason to suspect
+
+that we had penetrated his disguise.
+
+  Chapter: CHAPTER 3 (Chapter 3)
+  Position in Chapter: 1.14%
+  Scene Sentence: "_Mon ami_," he said, "if you wish you may wait in to put salt on
+
+the little bird's tail, but for me I do not waste my time so."
+
+  Chapter: CHAPTER 3 (Chapter 3)
+  Position in Chapter: 3.80%
+  Scene Sentence: True, we have a body, but we have
+
+no proof even that the man was murdered--prussic acid, when inhaled,
+
+leaves no trace.
+
+  Chapter: CHAPTER 3 (Chapter 3)
+  Position in Chapter: 4.94%
+  Scene Sentence: Perhaps he wanted to make quite
+
+sure that Mayerling was dead, but more likely, I think, he came to see
+
+Hercule Poirot, and to have speech with the adversary whom alone he
+
+must fear."
+
+  Chapter: CHAPTER 3 (Chapter 3)
+  Position in Chapter: 5.32%
+  Scene Sentence: Poirot's reasoning appeared to me typically egotistical, but I forbore
+
+to argue.
+
+  Chapter: CHAPTER 3 (Chapter 3)
+  Position in Chapter: 6.46%
+  Scene Sentence: I suppose you will explain
+
+things clearly there, and let the police have a full description of
+
+Number Four."
+
+  Chapter: CHAPTER 3 (Chapter 3)
+  Position in Chapter: 7.22%
+  Scene Sentence: Can we produce anything to impress a coroner's jury
+
+of your solid Britishers?
+
+  Chapter: CHAPTER 3 (Chapter 3)
+  Position in Chapter: 7.98%
+  Scene Sentence: No; we shall allow them to call it 'Accidental Death,' and may
+
+be, although I have not much hope, our clever murderer will pat himself
+
+on the back that he deceived Hercule Poirot in the first round."
+
+  Chapter: CHAPTER 3 (Chapter 3)
+  Position in Chapter: 11.41%
+  Scene Sentence: Poirot loves being mysterious.
+
+  Chapter: CHAPTER 3 (Chapter 3)
+  Position in Chapter: 14.07%
+  Scene Sentence: To all intents and
+
+purposes, he is a retired Civil Servant of mediocre intellect, with
+
+a house full of Chinese curios with which he bores his friends and
+
+acquaintances.
+
+  Chapter: CHAPTER 3 (Chapter 3)
+  Position in Chapter: 14.45%
+  Scene Sentence: Nevertheless, I am assured by those who should know that
+
+the only man capable of giving me the information I seek is this same
+
+John Ingles."
+
+  Chapter: CHAPTER 3 (Chapter 3)
+  Position in Chapter: 15.21%
+  Scene Sentence: Personally, I did not notice a laurel
+
+bush of any kind, so deduced that it had been named according to the
+
+usual obscure nomenclature of the suburbs.
+
+  Chapter: CHAPTER 3 (Chapter 3)
+  Position in Chapter: 16.35%
+  Scene Sentence: He rose to greet us, setting aside an open
+
+letter which he had held in his hand.
+
+  Chapter: CHAPTER 3 (Chapter 3)
+  Position in Chapter: 17.49%
+  Scene Sentence: Halsey tells me that you want some information
+
+and that I may be useful to you in the matter."
+
+  Chapter: CHAPTER 3 (Chapter 3)
+  Position in Chapter: 20.91%
+  Scene Sentence: He's a great man in his way--mandarin class and
+
+all that, you know--but that's not the crux of the matter.
+
+  Chapter: CHAPTER 3 (Chapter 3)
+  Position in Chapter: 22.43%
+  Scene Sentence: The world-wide unrest, the labour troubles that beset
+
+every nation, and the revolutions that break out in some.
+
+  Chapter: CHAPTER 3 (Chapter 3)
+  Position in Chapter: 23.57%
+  Scene Sentence: I have no definite proof
+
+that would count with you, but I am quite convinced that this brain
+
+was Li Chang Yen's."
+
+  Chapter: CHAPTER 3 (Chapter 3)
+  Position in Chapter: 25.86%
+  Scene Sentence: "What exactly he hopes to get out of it all I cannot pretend to say
+
+for certain," went on Mr. Ingles; "but I assume his disease is one
+
+that has attacked great brains from the time of Akbar and Alexander to
+
+Napoleon--a lust for power and personal supremacy.
+
+  Chapter: CHAPTER 3 (Chapter 3)
+  Position in Chapter: 26.24%
+  Scene Sentence: Up to modern times
+
+armed force was necessary for conquest, but in this century of unrest
+
+a man like Li Chang Yen can use other means.
+
+  Chapter: CHAPTER 3 (Chapter 3)
+  Position in Chapter: 29.66%
+  Scene Sentence: They are marionettes who dance to the wires pulled by
+
+a master hand, and that hand is Li Chang Yen's.
+
+  Chapter: CHAPTER 3 (Chapter 3)
+  Position in Chapter: 32.70%
+  Scene Sentence: "Four men have tried in the last four years," he said slowly; "men of
+
+character, and honesty, and brain power.
+
+  Chapter: CHAPTER 3 (Chapter 3)
+  Position in Chapter: 34.60%
+  Scene Sentence: "Well, they are dead.
+
+  Chapter: CHAPTER 3 (Chapter 3)
+  Position in Chapter: 34.98%
+  Scene Sentence: One wrote an article, and mentioned Li Chang
+
+Yen's name in connection with the riots in Pekin, and within two days
+
+he was stabbed in the street.
+
+  Chapter: CHAPTER 3 (Chapter 3)
+  Position in Chapter: 35.36%
+  Scene Sentence: His murderer was never caught.
+
+  Chapter: CHAPTER 3 (Chapter 3)
+  Position in Chapter: 36.12%
+  Scene Sentence: In a speech or an article,
+
+or in conversation, each linked Li Chang Yen's name with rioting or
+
+revolution, and within a week of his indiscretion each was dead.
+
+  Chapter: CHAPTER 3 (Chapter 3)
+  Position in Chapter: 36.50%
+  Scene Sentence: One
+
+was poisoned; one died of cholera, an isolated case--not part of an
+
+epidemic; and one was found dead in his bed.
+
+  Chapter: CHAPTER 3 (Chapter 3)
+  Position in Chapter: 36.88%
+  Scene Sentence: The cause of the last
+
+death was never determined, but I was told by a doctor who saw the
+
+corpse that it was burnt and shrivelled as though a wave of electrical
+
+energy of incredible power had passed through it."
+
+  Chapter: CHAPTER 3 (Chapter 3)
+  Position in Chapter: 39.16%
+  Scene Sentence: And once I found a man who would talk, a
+
+brilliant young Chinese chemist who was a protégé of Li Chang Yen's.
+
+  Chapter: CHAPTER 3 (Chapter 3)
+  Position in Chapter: 40.30%
+  Scene Sentence: His nerve had completely
+
+broken, and he was in the most pitiable state of terror.
+
+  Chapter: CHAPTER 3 (Chapter 3)
+  Position in Chapter: 42.21%
+  Scene Sentence: I woke that night to find my house in flames,
+
+and was lucky to escape with my life.
+
+  Chapter: CHAPTER 3 (Chapter 3)
+  Position in Chapter: 42.59%
+  Scene Sentence: Investigation showed that a fire
+
+of amazing intensity had broken out on the top floor, and the remains
+
+of my young chemist friend were charred to a cinder."
+
+  Chapter: CHAPTER 3 (Chapter 3)
+  Position in Chapter: 42.97%
+  Scene Sentence: I could see from the earnestness with which he had been speaking that
+
+Mr. Ingles was a man mounted on his hobby horse, and evidently he, too,
+
+realised that he had been carried away, for he laughed apologetically.
+
+  Chapter: CHAPTER 3 (Chapter 3)
+  Position in Chapter: 47.53%
+  Scene Sentence: My informant died.
+
+  Chapter: CHAPTER 3 (Chapter 3)
+  Position in Chapter: 50.57%
+  Scene Sentence: He returned with a letter in his hand.
+
+  Chapter: CHAPTER 3 (Chapter 3)
+  Position in Chapter: 52.47%
+  Scene Sentence: He read it aloud:--
+
+
+
+    "DEAR SIR,--You may not remember me, but you did me a good
+
+    turn once in Shanghai.
+
+  Chapter: CHAPTER 3 (Chapter 3)
+  Position in Chapter: 54.37%
+  Scene Sentence: It's life or death.
+
+  Chapter: CHAPTER 3 (Chapter 3)
+  Position in Chapter: 56.27%
+  Scene Sentence: I'm afraid I regarded
+
+it as rather a crude method of relieving me of a couple of hundred
+
+which I can ill spare.
+
+  Chapter: CHAPTER 3 (Chapter 3)
+  Position in Chapter: 57.79%
+  Scene Sentence: "Dear me, this is very interesting.
+
+  Chapter: CHAPTER 3 (Chapter 3)
+  Position in Chapter: 67.68%
+  Scene Sentence: "Yes, sir; murdered this morning.
+
+  Chapter: CHAPTER 3 (Chapter 3)
+  Position in Chapter: 71.86%
+  Scene Sentence: She was only
+
+away twenty minutes--between ten and half-past--and the crime must
+
+have been done then.
+
+  Chapter: CHAPTER 3 (Chapter 3)
+  Position in Chapter: 73.38%
+  Scene Sentence: Then
+
+Betsy comes in, goes into the living-room, sees what's happened, and
+
+lets out a screech to wake the dead.
+
+  Chapter: CHAPTER 3 (Chapter 3)
+  Position in Chapter: 74.14%
+  Scene Sentence: Some
+
+one got in whilst those two were out, and did the poor old man in.
+
+  Chapter: CHAPTER 3 (Chapter 3)
+  Position in Chapter: 74.52%
+  Scene Sentence: But
+
+it struck me at once that he must be a pretty cool customer.
+
+  Chapter: CHAPTER 3 (Chapter 3)
+  Position in Chapter: 80.23%
+  Scene Sentence: First knocked him silly, the murderer did, and then
+
+cut his throat.
+
+  Chapter: CHAPTER 3 (Chapter 3)
+  Position in Chapter: 84.03%
+  Scene Sentence: "Not at all," said Mr. Ingles, with a faint smile; "the adjective is
+
+perfectly understood."
+
+  Chapter: CHAPTER 3 (Chapter 3)
+  Position in Chapter: 88.21%
+  Scene Sentence: The Inspector paused triumphantly.
+
+  Chapter: CHAPTER 3 (Chapter 3)
+  Position in Chapter: 88.97%
+  Scene Sentence: "I think," said Poirot, "that it appears a very clear case--of a
+
+surprising clearness, in fact.
+
+  Chapter: CHAPTER 3 (Chapter 3)
+  Position in Chapter: 90.87%
+  Scene Sentence: Well, Inspector, I
+
+congratulate you.
+
+  Chapter: CHAPTER 3 (Chapter 3)
+  Position in Chapter: 91.25%
+  Scene Sentence: We may look at the scene of the crime.
+
+  Chapter: CHAPTER 3 (Chapter 3)
+  Position in Chapter: 93.16%
+  Scene Sentence: Yes, yes, very interesting, very
+
+ingenious."
+
+  Chapter: CHAPTER 3 (Chapter 3)
+  Position in Chapter: 98.86%
+  Scene Sentence: He could have stolen
+
+the jade and made off with it instead of committing a brutal and quite
+
+purposeless murder.
+
+  Chapter: CHAPTER 4 (Chapter 4)
+  Position in Chapter: 0.00%
+  Scene Sentence: CHAPTER 4
+ THE IMPORTANCE OF A LEG OF MUTTON
+
+
+
+
+
+The inspector drew a key from his pocket and unlocked the door of
+
+Granite Bungalow.
+
+  Chapter: CHAPTER 4 (Chapter 4)
+  Position in Chapter: 0.87%
+  Scene Sentence: A woman came up out of the gloom and spoke to the Inspector, and he
+
+turned aside.
+
+  Chapter: CHAPTER 4 (Chapter 4)
+  Position in Chapter: 3.46%
+  Scene Sentence: We went into the living-room, and the sound of the Inspector's
+
+footsteps died away outside.
+
+  Chapter: CHAPTER 4 (Chapter 4)
+  Position in Chapter: 4.76%
+  Scene Sentence: I, on the other
+
+hand, watched him with breathless interest.
+
+  Chapter: CHAPTER 4 (Chapter 4)
+  Position in Chapter: 5.19%
+  Scene Sentence: The floor was covered with
+
+a dark-green linoleum which was ideal for showing up footprints.
+
+  Chapter: CHAPTER 4 (Chapter 4)
+  Position in Chapter: 7.36%
+  Scene Sentence: Traces of carpet slippers and 'number nine'
+
+boots, you observe, but all very confused.
+
+  Chapter: CHAPTER 4 (Chapter 4)
+  Position in Chapter: 7.79%
+  Scene Sentence: Then two sets of tracks
+
+leading to and from the kitchen; whoever the murderer was, he came in
+
+that way.
+
+  Chapter: CHAPTER 4 (Chapter 4)
+  Position in Chapter: 9.52%
+  Scene Sentence: Yes, both made by the same man, Robert
+
+Grant.
+
+  Chapter: CHAPTER 4 (Chapter 4)
+  Position in Chapter: 9.96%
+  Scene Sentence: He came in that way, killed the old man, and went back to the
+
+kitchen.
+
+  Chapter: CHAPTER 4 (Chapter 4)
+  Position in Chapter: 12.12%
+  Scene Sentence: "Perhaps he killed the old man the second time he went in?"
+
+  Chapter: CHAPTER 4 (Chapter 4)
+  Position in Chapter: 14.72%
+  Scene Sentence: "Well, he's given himself away pretty hopelessly."
+
+  Chapter: CHAPTER 4 (Chapter 4)
+  Position in Chapter: 16.02%
+  Scene Sentence: It offends my little gray cells.
+
+  Chapter: CHAPTER 4 (Chapter 4)
+  Position in Chapter: 19.05%
+  Scene Sentence: She might have killed him
+
+and then gone out.
+
+  Chapter: CHAPTER 4 (Chapter 4)
+  Position in Chapter: 19.91%
+  Scene Sentence: "Very good, Hastings.
+
+  Chapter: CHAPTER 4 (Chapter 4)
+  Position in Chapter: 20.78%
+  Scene Sentence: I had already thought of it and rejected it.
+
+  Chapter: CHAPTER 4 (Chapter 4)
+  Position in Chapter: 25.97%
+  Scene Sentence: In his hand he was brandishing a leg of mutton!
+
+  Chapter: CHAPTER 4 (Chapter 4)
+  Position in Chapter: 31.60%
+  Scene Sentence: Did he seriously think
+
+these slivers of ice were crystals of a deadly poison?
+
+  Chapter: CHAPTER 4 (Chapter 4)
+  Position in Chapter: 32.47%
+  Scene Sentence: "It's frozen meat," I explained gently. "
+
+  Chapter: CHAPTER 4 (Chapter 4)
+  Position in Chapter: 34.20%
+  Scene Sentence: "How marvellous is my friend Hastings!
+
+  Chapter: CHAPTER 4 (Chapter 4)
+  Position in Chapter: 35.50%
+  Scene Sentence: That is my
+
+friend Hastings."
+
+  Chapter: CHAPTER 4 (Chapter 4)
+  Position in Chapter: 36.80%
+  Scene Sentence: "Here comes our friend the Inspector.
+
+  Chapter: CHAPTER 4 (Chapter 4)
+  Position in Chapter: 40.26%
+  Scene Sentence: A bad day of the week.
+
+  Chapter: CHAPTER 4 (Chapter 4)
+  Position in Chapter: 40.69%
+  Scene Sentence: To commit a murder on a
+
+Monday is a mistake."
+
+  Chapter: CHAPTER 4 (Chapter 4)
+  Position in Chapter: 54.55%
+  Scene Sentence: "The murderer was, I should fancy, a youngish man.
+
+  Chapter: CHAPTER 4 (Chapter 4)
+  Position in Chapter: 55.41%
+  Scene Sentence: He went
+
+in, committed the murder, came out, and drove away again.
+
+  Chapter: CHAPTER 4 (Chapter 4)
+  Position in Chapter: 57.14%
+  Scene Sentence: "Not if it was dark, perhaps; but the crime was committed in broad
+
+daylight."
+
+  Chapter: CHAPTER 4 (Chapter 4)
+  Position in Chapter: 57.58%
+  Scene Sentence: Poirot merely smiled.
+
+  Chapter: CHAPTER 4 (Chapter 4)
+  Position in Chapter: 59.74%
+  Scene Sentence: The Inspector touched his forehead significantly with a grin at me.
+
+  Chapter: CHAPTER 4 (Chapter 4)
+  Position in Chapter: 60.17%
+  Scene Sentence: I
+
+was utterly bewildered, but I had faith in Poirot.
+
+  Chapter: CHAPTER 4 (Chapter 4)
+  Position in Chapter: 62.77%
+  Scene Sentence: The prisoner was a man of medium height, with a somewhat unpleasing
+
+cast of features.
+
+  Chapter: CHAPTER 4 (Chapter 4)
+  Position in Chapter: 63.64%
+  Scene Sentence: "Honest to God, I never did it," he whined. "
+
+  Chapter: CHAPTER 4 (Chapter 4)
+  Position in Chapter: 64.94%
+  Scene Sentence: I went straight to my rooms when I came in, like I said.
+
+  Chapter: CHAPTER 4 (Chapter 4)
+  Position in Chapter: 67.10%
+  Scene Sentence: "But, guv'nor--"
+
+
+
+"You _did_ go into the room--you _did_ know your master was
+
+dead; and you were just preparing to make a bolt of it when the good
+
+Betsy made her terrible discovery."
+
+  Chapter: CHAPTER 4 (Chapter 4)
+  Position in Chapter: 69.70%
+  Scene Sentence: I came
+
+in, and went straight to the master--and there he was, dead on the
+
+floor and blood all round.
+
+  Chapter: CHAPTER 4 (Chapter 4)
+  Position in Chapter: 72.29%
+  Scene Sentence: You had
+
+heard your master say that they were valuable, and you felt you might
+
+as well go the whole hog.
+
+  Chapter: CHAPTER 4 (Chapter 4)
+  Position in Chapter: 78.79%
+  Scene Sentence: "Not exactly a parson, but looked like one.
+
+  Chapter: CHAPTER 4 (Chapter 4)
+  Position in Chapter: 79.65%
+  Scene Sentence: Got a broken front tooth.
+
+  Chapter: CHAPTER 4 (Chapter 4)
+  Position in Chapter: 80.95%
+  Scene Sentence: Said he hoped I was repentant, and that he'd find me a good
+
+post.
+
+  Chapter: CHAPTER 4 (Chapter 4)
+  Position in Chapter: 83.98%
+  Scene Sentence: Grant looked very astonished.
+
+  Chapter: CHAPTER 4 (Chapter 4)
+  Position in Chapter: 87.45%
+  Scene Sentence: Whalley was killed by order of the
+
+Big Four--but not by Grant.
+
+  Chapter: CHAPTER 4 (Chapter 4)
+  Position in Chapter: 87.88%
+  Scene Sentence: A very clever man got Grant the post
+
+and deliberately planned to make him the scapegoat--an easy matter
+
+with Grant's prison record.
+
+  Chapter: CHAPTER 4 (Chapter 4)
+  Position in Chapter: 92.21%
+  Scene Sentence: That is where the cleverness of Number Four, I am convinced, comes
+
+in.
+
+  Chapter: CHAPTER 4 (Chapter 4)
+  Position in Chapter: 96.97%
+  Scene Sentence: "Yes, he is clever, Number Four."
+
+  Chapter: CHAPTER 4 (Chapter 4)
+  Position in Chapter: 97.40%
+  Scene Sentence: "As clever as Hercule Poirot?"
+
+  Chapter: CHAPTER 4 (Chapter 4)
+  Position in Chapter: 98.27%
+  Scene Sentence: My friend threw me a glance of dignified reproach.
+
+  Chapter: CHAPTER 4 (Chapter 4)
+  Position in Chapter: 99.13%
+  Scene Sentence: Have I not saved an innocent man from being
+
+sent to the gallows?
+
+  Chapter: CHAPTER 5 (Chapter 5)
+  Position in Chapter: 0.00%
+  Scene Sentence: CHAPTER 5
+ DISAPPEARANCE OF A SCIENTIST
+
+
+
+
+
+Personally, I don't think that, even when a jury had acquitted Robert
+
+Grant, alias Biggs, of the murder of Jonathan Whalley, Inspector
+
+Meadows was entirely convinced of his innocence.
+
+  Chapter: CHAPTER 5 (Chapter 5)
+  Position in Chapter: 2.33%
+  Scene Sentence: The only impression he seemed to have left on her
+
+mind was that he was clean-shaven, of medium height, and looked exactly
+
+like a butcher's man.
+
+  Chapter: CHAPTER 5 (Chapter 5)
+  Position in Chapter: 6.98%
+  Scene Sentence: Certainly I was compelled to admit that the man who had visited us from
+
+Hanwell had fitted in exactly with my idea of what an Asylum attendant
+
+should look like.
+
+  Chapter: CHAPTER 5 (Chapter 5)
+  Position in Chapter: 12.21%
+  Scene Sentence: Poirot smiled.
+
+  Chapter: CHAPTER 5 (Chapter 5)
+  Position in Chapter: 13.95%
+  Scene Sentence: Perhaps," he added, as a knock sounded on
+
+the door, "you have here your chance; it may be our friend who enters."
+
+  Chapter: CHAPTER 5 (Chapter 5)
+  Position in Chapter: 15.70%
+  Scene Sentence: Allow me to introduce
+
+Captain Kent of the United States Secret Service."
+
+  Chapter: CHAPTER 5 (Chapter 5)
+  Position in Chapter: 18.60%
+  Scene Sentence: The captain
+
+took a deep draught, and expressed appreciation.
+
+  Chapter: CHAPTER 5 (Chapter 5)
+  Position in Chapter: 21.51%
+  Scene Sentence: I didn't take
+
+much stock in the matter, but I remembered what he said, and when the
+
+captain here came over with rather a curious story, I said at once,
+
+'We'll go round to Moosior Poirot's.'"
+
+  Chapter: CHAPTER 5 (Chapter 5)
+  Position in Chapter: 22.67%
+  Scene Sentence: "You may remember reading, M. Poirot, that a number of torpedo
+
+boats and destroyers were sunk by being dashed upon the rocks off
+
+the American coast.
+
+  Chapter: CHAPTER 5 (Chapter 5)
+  Position in Chapter: 23.26%
+  Scene Sentence: It was just after the Japanese earthquake, and
+
+the explanation given was that the disaster was the result of a
+
+tidal wave.
+
+  Chapter: CHAPTER 5 (Chapter 5)
+  Position in Chapter: 24.42%
+  Scene Sentence: They appeared to refer
+
+to some organisation called the 'Big Four,' and gave an incomplete
+
+description of some powerful wireless installation--a concentration
+
+of wireless energy far beyond anything so far attempted, and capable
+
+of focusing a beam of great intensity upon some given spot.
+
+  Chapter: CHAPTER 5 (Chapter 5)
+  Position in Chapter: 34.88%
+  Scene Sentence: His wife came to us in a great state.
+
+  Chapter: CHAPTER 5 (Chapter 5)
+  Position in Chapter: 41.28%
+  Scene Sentence: But you know what it means when a man
+
+disappears over there.
+
+  Chapter: CHAPTER 5 (Chapter 5)
+  Position in Chapter: 41.86%
+  Scene Sentence: Either it's Apache work, and that's the end
+
+of it--or else it's voluntary disappearance--and that's a great deal
+
+the commoner of the two, I can tell you.
+
+  Chapter: CHAPTER 5 (Chapter 5)
+  Position in Chapter: 43.02%
+  Scene Sentence: Sick of home life.
+
+  Chapter: CHAPTER 5 (Chapter 5)
+  Position in Chapter: 43.60%
+  Scene Sentence: Halliday and his wife had had a tiff before he
+
+started, which all helps to make it a pretty clear case."
+
+  Chapter: CHAPTER 5 (Chapter 5)
+  Position in Chapter: 54.07%
+  Scene Sentence: Poirot nodded, as he arranged the glasses in a neat row on the tray.
+
+  Chapter: CHAPTER 5 (Chapter 5)
+  Position in Chapter: 54.65%
+  Scene Sentence: His love of order was as great as ever.
+
+  Chapter: CHAPTER 5 (Chapter 5)
+  Position in Chapter: 57.56%
+  Scene Sentence: The American burst out laughing, but broke off at the sight of Poirot's
+
+serious face.
+
+  Chapter: CHAPTER 5 (Chapter 5)
+  Position in Chapter: 59.30%
+  Scene Sentence: Who are
+
+these men who send a portion of your navy to destruction simply as a
+
+trial of their power?
+
+  Chapter: CHAPTER 5 (Chapter 5)
+  Position in Chapter: 59.88%
+  Scene Sentence: For that was all it was, Monsieur, a test of this
+
+new force of magnetical attraction which they hold."
+
+  Chapter: CHAPTER 5 (Chapter 5)
+  Position in Chapter: 62.79%
+  Scene Sentence: "Yes, my good friend.
+
+  Chapter: CHAPTER 5 (Chapter 5)
+  Position in Chapter: 65.12%
+  Scene Sentence: With her was her little girl, a beautiful child of
+
+five.
+
+  Chapter: CHAPTER 5 (Chapter 5)
+  Position in Chapter: 66.86%
+  Scene Sentence: Monsieur Poirot, I am so glad, so thankful.
+
+  Chapter: CHAPTER 5 (Chapter 5)
+  Position in Chapter: 73.26%
+  Scene Sentence: All those things they take _au
+
+grand sérieux.
+
+  Chapter: CHAPTER 5 (Chapter 5)
+  Position in Chapter: 75.58%
+  Scene Sentence: Poirot nodded at the mention of the famous French woman chemist, who
+
+had eclipsed even Madame Curie in the brilliance of her achievements.
+
+  Chapter: CHAPTER 5 (Chapter 5)
+  Position in Chapter: 77.91%
+  Scene Sentence: His manner was
+
+normal and pleasant.
+
+  Chapter: CHAPTER 5 (Chapter 5)
+  Position in Chapter: 79.65%
+  Scene Sentence: There, also, his manner was perfectly
+
+normal.
+
+  Chapter: CHAPTER 5 (Chapter 5)
+  Position in Chapter: 88.37%
+  Scene Sentence: He is not likely to have fallen a victim to any Apache assault
+
+at that hour.
+
+  Chapter: CHAPTER 5 (Chapter 5)
+  Position in Chapter: 90.70%
+  Scene Sentence: If we knew that, we should know a great deal.
+
+  Chapter: CHAPTER 5 (Chapter 5)
+  Position in Chapter: 97.67%
+  Scene Sentence: He turned to leave the room, but paused with his hand on the door.
+
+  Chapter: CHAPTER 6 (Chapter 6)
+  Position in Chapter: 1.15%
+  Scene Sentence: I run
+
+up and down, all over the ground, like our old friend 'the human
+
+foxhound.'"
+
+  Chapter: CHAPTER 6 (Chapter 6)
+  Position in Chapter: 1.53%
+  Scene Sentence: "Perhaps you'll meet him in Paris," I said, knowing that he referred
+
+to a certain Giraud, one of the most trusted detectives of the Sureté,
+
+whom he had met on a previous occasion.
+
+  Chapter: CHAPTER 6 (Chapter 6)
+  Position in Chapter: 2.67%
+  Scene Sentence: He loved me not, that one."
+
+  Chapter: CHAPTER 6 (Chapter 6)
+  Position in Chapter: 4.58%
+  Scene Sentence: But, as you know well, difficulties
+
+rejoice the heart of Hercule Poirot."
+
+  Chapter: CHAPTER 6 (Chapter 6)
+  Position in Chapter: 9.54%
+  Scene Sentence: She had a long pale face,
+
+and wonderful dark eyes that burnt with a light almost fanatical.
+
+  Chapter: CHAPTER 6 (Chapter 6)
+  Position in Chapter: 10.31%
+  Scene Sentence: One
+
+cheek was disfigured by a scar, and I remembered that her husband and
+
+co-worker had been killed in an explosion in the laboratory three years
+
+before, and that she herself had been terribly burned.
+
+  Chapter: CHAPTER 6 (Chapter 6)
+  Position in Chapter: 11.83%
+  Scene Sentence: I think
+
+it hardly likely that I can help you, since I have not been able to
+
+help them."
+
+  Chapter: CHAPTER 6 (Chapter 6)
+  Position in Chapter: 15.27%
+  Scene Sentence: "His ideas were somewhat fantastic, were they not?"
+
+  Chapter: CHAPTER 6 (Chapter 6)
+  Position in Chapter: 17.18%
+  Scene Sentence: "Perfectly practicable.
+
+  Chapter: CHAPTER 6 (Chapter 6)
+  Position in Chapter: 24.81%
+  Scene Sentence: Monsieur Henri, an old and trusted friend."
+
+  Chapter: CHAPTER 6 (Chapter 6)
+  Position in Chapter: 40.46%
+  Scene Sentence: But clumsy, all the same--for I had no
+
+suspicion--at least hardly any suspicion.
+
+  Chapter: CHAPTER 6 (Chapter 6)
+  Position in Chapter: 40.84%
+  Scene Sentence: Yes, but for my quick
+
+eyes, the eyes of a cat, Hercule Poirot might now be crushed out of
+
+existence--a terrible calamity for the world.
+
+  Chapter: CHAPTER 6 (Chapter 6)
+  Position in Chapter: 46.56%
+  Scene Sentence: A man comes in,
+
+sufficiently like Halliday---we may trust Number Four for that--asks
+
+for letters, goes upstairs, packs a small suit-case, and slips out the
+
+next morning.
+
+  Chapter: CHAPTER 6 (Chapter 6)
+  Position in Chapter: 46.95%
+  Scene Sentence: Nobody saw Halliday all that evening--no, because he
+
+was already in the hands of his enemies.
+
+  Chapter: CHAPTER 6 (Chapter 6)
+  Position in Chapter: 49.62%
+  Scene Sentence: You love
+
+footprints, do you not?
+
+  Chapter: CHAPTER 6 (Chapter 6)
+  Position in Chapter: 55.34%
+  Scene Sentence: "Good gracious, Poirot," I cried, "are you pretending to see all this?"
+
+  Chapter: CHAPTER 6 (Chapter 6)
+  Position in Chapter: 57.25%
+  Scene Sentence: Poirot gave a curious smile.
+
+  Chapter: CHAPTER 6 (Chapter 6)
+  Position in Chapter: 60.69%
+  Scene Sentence: Would you be so kind as to ask her to speak to us
+
+for a moment."
+
+  Chapter: CHAPTER 6 (Chapter 6)
+  Position in Chapter: 65.65%
+  Scene Sentence: "As soon as I caught sight of you in the hall, I feared the worst," she
+
+observed plaintively.
+
+  Chapter: CHAPTER 6 (Chapter 6)
+  Position in Chapter: 67.56%
+  Scene Sentence: You are a terrible man.
+
+  Chapter: CHAPTER 6 (Chapter 6)
+  Position in Chapter: 68.32%
+  Scene Sentence: Now, I suppose, you will tell our wonderful Madame
+
+Olivier about me, and hunt me from Paris?
+
+  Chapter: CHAPTER 6 (Chapter 6)
+  Position in Chapter: 68.70%
+  Scene Sentence: We poor Russians, we must
+
+live, you know."
+
+  Chapter: CHAPTER 6 (Chapter 6)
+  Position in Chapter: 72.14%
+  Scene Sentence: Freedom for me--and M. Halliday, alive and
+
+well, for you."
+
+  Chapter: CHAPTER 6 (Chapter 6)
+  Position in Chapter: 77.86%
+  Scene Sentence: She replaced the receiver, and came towards us, smiling.
+
+  Chapter: CHAPTER 6 (Chapter 6)
+  Position in Chapter: 82.06%
+  Scene Sentence: He seems very ill.
+
+  Chapter: CHAPTER 6 (Chapter 6)
+  Position in Chapter: 82.82%
+  Scene Sentence: "That is all right," said Poirot, "he is a friend of mine."
+
+  Chapter: CHAPTER 6 (Chapter 6)
+  Position in Chapter: 88.55%
+  Scene Sentence: I have been through hell--hell.... Those fiends
+
+are devils incarnate.
+
+  Chapter: CHAPTER 6 (Chapter 6)
+  Position in Chapter: 90.84%
+  Scene Sentence: "Thank God for that.
+
+  Chapter: CHAPTER 6 (Chapter 6)
+  Position in Chapter: 91.22%
+  Scene Sentence: I can hardly believe that I am free once more."
+
+  Chapter: CHAPTER 6 (Chapter 6)
+  Position in Chapter: 97.33%
+  Scene Sentence: The Big Four win again.
+
+  Chapter: CHAPTER 6 (Chapter 6)
+  Position in Chapter: 97.71%
+  Scene Sentence: What
+
+is that you are holding in your hand, Hastings?"
+
+  Chapter: CHAPTER 7 (Chapter 7)
+  Position in Chapter: 0.00%
+  Scene Sentence: CHAPTER 7
+ THE RADIUM THIEVES
+
+
+
+
+
+On the night of his release, Halliday slept in the room next to ours at
+
+the hotel, and all night long I heard him moaning and protesting in his
+
+sleep.
+
+  Chapter: CHAPTER 7 (Chapter 7)
+  Position in Chapter: 0.27%
+  Scene Sentence: Undoubtedly his experience in the villa had broken his nerve,
+
+and in the morning we failed completely to extract any information from
+
+him.
+
+  Chapter: CHAPTER 7 (Chapter 7)
+  Position in Chapter: 1.09%
+  Scene Sentence: I was all for energetic proceedings of some
+
+kind or other, and Poirot's quiescence annoyed me.
+
+  Chapter: CHAPTER 7 (Chapter 7)
+  Position in Chapter: 1.64%
+  Scene Sentence: "Admirable, _mon ami_, admirable!
+
+  Chapter: CHAPTER 7 (Chapter 7)
+  Position in Chapter: 3.55%
+  Scene Sentence: Poirot smiled.
+
+  Chapter: CHAPTER 7 (Chapter 7)
+  Position in Chapter: 5.19%
+  Scene Sentence: See now, in England you all comprehend
+
+and adore _la boxe_.
+
+  Chapter: CHAPTER 7 (Chapter 7)
+  Position in Chapter: 5.46%
+  Scene Sentence: If one man does not make a move, the other
+
+must, and by permitting the adversary to make the attack one learns
+
+something about him.
+
+  Chapter: CHAPTER 7 (Chapter 7)
+  Position in Chapter: 6.56%
+  Scene Sentence: "I have no doubt whatever of it.
+
+  Chapter: CHAPTER 7 (Chapter 7)
+  Position in Chapter: 9.56%
+  Scene Sentence: Smiling, he advanced to the table and sat down by it.
+
+  Chapter: CHAPTER 7 (Chapter 7)
+  Position in Chapter: 10.38%
+  Scene Sentence: Will you
+
+kindly state your business?"
+
+  Chapter: CHAPTER 7 (Chapter 7)
+  Position in Chapter: 12.30%
+  Scene Sentence: "It depends, monsieur, upon who these friends of yours are."
+
+  Chapter: CHAPTER 7 (Chapter 7)
+  Position in Chapter: 13.66%
+  Scene Sentence: And what do your
+
+friends suggest?"
+
+  Chapter: CHAPTER 7 (Chapter 7)
+  Position in Chapter: 14.21%
+  Scene Sentence: "A peaceful programme," said Poirot. "
+
+  Chapter: CHAPTER 7 (Chapter 7)
+  Position in Chapter: 15.30%
+  Scene Sentence: So would all
+
+the friends and admirers of the great M. Hercule Poirot.
+
+  Chapter: CHAPTER 7 (Chapter 7)
+  Position in Chapter: 15.57%
+  Scene Sentence: But regrets,
+
+however poignant, do not bring a man to life again."
+
+  Chapter: CHAPTER 7 (Chapter 7)
+  Position in Chapter: 17.21%
+  Scene Sentence: "That is merely as a guarantee of our good faith," he said. "
+
+  Chapter: CHAPTER 7 (Chapter 7)
+  Position in Chapter: 18.31%
+  Scene Sentence: Subdue your so
+
+beautiful and honest nature and sit down.
+
+  Chapter: CHAPTER 7 (Chapter 7)
+  Position in Chapter: 18.85%
+  Scene Sentence: What is to prevent me ringing up the police and giving you into
+
+their custody, whilst my friend here prevents you from escaping?"
+
+  Chapter: CHAPTER 7 (Chapter 7)
+  Position in Chapter: 21.04%
+  Scene Sentence: "But you distrust the obvious, eh?"
+
+  Chapter: CHAPTER 7 (Chapter 7)
+  Position in Chapter: 21.31%
+  Scene Sentence: said our visitor, smiling.
+
+  Chapter: CHAPTER 7 (Chapter 7)
+  Position in Chapter: 30.87%
+  Scene Sentence: "I'm awfully sorry, Poirot," I murmured, rather crestfallen. "
+
+  Chapter: CHAPTER 7 (Chapter 7)
+  Position in Chapter: 33.06%
+  Scene Sentence: It was a slim pocket-book of brown leather, and had evidently fallen
+
+from our visitor's pocket during his struggle with me.
+
+  Chapter: CHAPTER 7 (Chapter 7)
+  Position in Chapter: 33.61%
+  Scene Sentence: It was a half sheet of
+
+note-paper on which a few words were scrawled in pencil but they were
+
+words of supreme importance.
+
+  Chapter: CHAPTER 7 (Chapter 7)
+  Position in Chapter: 38.25%
+  Scene Sentence: "My friend, I have been asking myself the reason of this morning's
+
+visit.
+
+  Chapter: CHAPTER 7 (Chapter 7)
+  Position in Chapter: 38.52%
+  Scene Sentence: Did our visitor really hope to succeed in bribing me?
+
+  Chapter: CHAPTER 7 (Chapter 7)
+  Position in Chapter: 38.80%
+  Scene Sentence: Or,
+
+alternatively, in frightening me into abandoning my task?
+
+  Chapter: CHAPTER 7 (Chapter 7)
+  Position in Chapter: 39.62%
+  Scene Sentence: And now I see the whole
+
+plan--very neat--very pretty--the ostensible reason to bribe or
+
+frighten me--the necessary struggle which he took no pains to
+
+avoid, and which should make the dropped pocket-book natural and
+
+reasonable--and finally--the pitfall!
+
+  Chapter: CHAPTER 7 (Chapter 7)
+  Position in Chapter: 42.08%
+  Scene Sentence: If they wanted to decoy me away, surely
+
+night time would be better?
+
+  Chapter: CHAPTER 7 (Chapter 7)
+  Position in Chapter: 46.45%
+  Scene Sentence: I was struck anew with the
+
+wonderful power of this woman, with her long nun's face and burning
+
+eyes--this brilliant successor of Becquerel and the Curies.
+
+  Chapter: CHAPTER 7 (Chapter 7)
+  Position in Chapter: 48.36%
+  Scene Sentence: Last night the laboratory was broken into,
+
+and several valuable papers and memoranda were stolen.
+
+  Chapter: CHAPTER 7 (Chapter 7)
+  Position in Chapter: 50.00%
+  Scene Sentence: What you say amazes me."
+
+  Chapter: CHAPTER 7 (Chapter 7)
+  Position in Chapter: 51.37%
+  Scene Sentence: You
+
+think Inez--"
+
+
+
+"Yes, I have no doubt that it was upon her information that they acted.
+
+  Chapter: CHAPTER 7 (Chapter 7)
+  Position in Chapter: 52.46%
+  Scene Sentence: "Something much more precious than that, monsieur."
+
+  Chapter: CHAPTER 7 (Chapter 7)
+  Position in Chapter: 54.92%
+  Scene Sentence: "In its leaden case in the big safe--the safe purposely appears to
+
+be of an old and worn-out pattern, but it is really a triumph of the
+
+safe-maker's art.
+
+  Chapter: CHAPTER 7 (Chapter 7)
+  Position in Chapter: 55.19%
+  Scene Sentence: That is probably why the thieves were unable to open
+
+it."
+
+  Chapter: CHAPTER 7 (Chapter 7)
+  Position in Chapter: 56.28%
+  Scene Sentence: Poirot's eyes brightened.
+
+  Chapter: CHAPTER 7 (Chapter 7)
+  Position in Chapter: 56.83%
+  Scene Sentence: Good--then our friends will
+
+come back.
+
+  Chapter: CHAPTER 7 (Chapter 7)
+  Position in Chapter: 57.38%
+  Scene Sentence: But rest assured, I
+
+will save your radium for you.
+
+  Chapter: CHAPTER 7 (Chapter 7)
+  Position in Chapter: 59.29%
+  Scene Sentence: To-night, go to bed as usual, have no fears,
+
+and leave all to me.
+
+  Chapter: CHAPTER 7 (Chapter 7)
+  Position in Chapter: 59.84%
+  Scene Sentence: Poirot left the villa rubbing his hands in great satisfaction.
+
+  Chapter: CHAPTER 7 (Chapter 7)
+  Position in Chapter: 64.48%
+  Scene Sentence: "My dear friend, have you never remarked the little handle--the
+
+_signal d'arrêt_--penalty for improper use, 100 francs, I think?"
+
+  Chapter: CHAPTER 7 (Chapter 7)
+  Position in Chapter: 65.30%
+  Scene Sentence: "Or rather a friend of mine, Pierre Combeau, will do so.
+
+  Chapter: CHAPTER 7 (Chapter 7)
+  Position in Chapter: 66.12%
+  Scene Sentence: Pierre Combeau, an old crony of
+
+Poirot's, and who evidently knew my little friend's methods pretty
+
+well, fell in with the arrangements.
+
+  Chapter: CHAPTER 7 (Chapter 7)
+  Position in Chapter: 66.67%
+  Scene Sentence: Combeau "made a scene" in
+
+the most approved French fashion and Poirot and I were able to leave
+
+the train without any one being interested in our departure.
+
+  Chapter: CHAPTER 7 (Chapter 7)
+  Position in Chapter: 68.58%
+  Scene Sentence: The whole place appeared to be
+
+perfectly deserted.
+
+  Chapter: CHAPTER 7 (Chapter 7)
+  Position in Chapter: 69.40%
+  Scene Sentence: "Possibly they may not come until to-morrow night, but they know
+
+perfectly well that there are only two nights on which the radium will
+
+be there."
+
+  Chapter: CHAPTER 7 (Chapter 7)
+  Position in Chapter: 72.68%
+  Scene Sentence: I felt
+
+an unpleasant sensation down my spine.
+
+  Chapter: CHAPTER 7 (Chapter 7)
+  Position in Chapter: 73.22%
+  Scene Sentence: However, to my amazement, I saw that from the inside of the safe
+
+steps led down beneath the floor.
+
+  Chapter: CHAPTER 7 (Chapter 7)
+  Position in Chapter: 74.04%
+  Scene Sentence: She was clearly in command of the situation by her gestures of
+
+authority.
+
+  Chapter: CHAPTER 7 (Chapter 7)
+  Position in Chapter: 74.59%
+  Scene Sentence: I had no doubt who she was.
+
+  Chapter: CHAPTER 7 (Chapter 7)
+  Position in Chapter: 75.68%
+  Scene Sentence: "M. Poirot," she said, in a low mocking tone. "
+
+  Chapter: CHAPTER 7 (Chapter 7)
+  Position in Chapter: 75.96%
+  Scene Sentence: The great, the
+
+wonderful, the unique M. Poirot.
+
+  Chapter: CHAPTER 7 (Chapter 7)
+  Position in Chapter: 77.60%
+  Scene Sentence: She was
+
+mad--mad--with the madness of genius!
+
+  Chapter: CHAPTER 7 (Chapter 7)
+  Position in Chapter: 79.23%
+  Scene Sentence: Never before, or since, have I felt so near death.
+
+  Chapter: CHAPTER 7 (Chapter 7)
+  Position in Chapter: 79.51%
+  Scene Sentence: Poirot was
+
+magnificent.
+
+  Chapter: CHAPTER 7 (Chapter 7)
+  Position in Chapter: 79.78%
+  Scene Sentence: He neither flinched nor paled, just stared at her with
+
+unabated interest.
+
+  Chapter: CHAPTER 7 (Chapter 7)
+  Position in Chapter: 81.97%
+  Scene Sentence: she laughed. "
+
+  Chapter: CHAPTER 7 (Chapter 7)
+  Position in Chapter: 82.51%
+  Scene Sentence: You are clever, M. Hercule Poirot, I know that.
+
+  Chapter: CHAPTER 7 (Chapter 7)
+  Position in Chapter: 84.15%
+  Scene Sentence: She,
+
+too, was arrested.
+
+  Chapter: CHAPTER 7 (Chapter 7)
+  Position in Chapter: 85.25%
+  Scene Sentence: The South American
+
+Indians use it as an arrow poison.
+
+  Chapter: CHAPTER 7 (Chapter 7)
+  Position in Chapter: 85.52%
+  Scene Sentence: A scratch with it means death.
+
+  Chapter: CHAPTER 7 (Chapter 7)
+  Position in Chapter: 87.70%
+  Scene Sentence: Therefore, I beg of you, release my friend Hastings from
+
+his bonds.
+
+  Chapter: CHAPTER 7 (Chapter 7)
+  Position in Chapter: 88.25%
+  Scene Sentence: Make no mistake, I beg of you."
+
+  Chapter: CHAPTER 7 (Chapter 7)
+  Position in Chapter: 88.52%
+  Scene Sentence: Slowly, with shaking hands, and rage and hate convulsing her face,
+
+she bent down and did his bidding.
+
+  Chapter: CHAPTER 7 (Chapter 7)
+  Position in Chapter: 88.80%
+  Scene Sentence: I was free.
+
+  Chapter: CHAPTER 7 (Chapter 7)
+  Position in Chapter: 90.71%
+  Scene Sentence: With a little luck we may hope
+
+to find the way out unobstructed."
+
+  Chapter: CHAPTER 7 (Chapter 7)
+  Position in Chapter: 91.53%
+  Scene Sentence: "Hercule Poirot is not killed so easily, madame.
+
+  Chapter: CHAPTER 7 (Chapter 7)
+  Position in Chapter: 92.08%
+  Scene Sentence: The gag prevented her from replying, but the murderous gleam in her
+
+eyes frightened me.
+
+  Chapter: CHAPTER 7 (Chapter 7)
+  Position in Chapter: 93.72%
+  Scene Sentence: I am a triple imbecile,
+
+a miserable animal, thirty-six times an idiot.
+
+  Chapter: CHAPTER 7 (Chapter 7)
+  Position in Chapter: 95.63%
+  Scene Sentence: Yes, Hastings, we know now who Number Three is--the woman who is
+
+probably the greatest scientist in the world!
+
+  Chapter: CHAPTER 7 (Chapter 7)
+  Position in Chapter: 98.09%
+  Scene Sentence: We are lucky if she does not denounce
+
+_us_."
+
+  Chapter: CHAPTER 8 (Chapter 8)
+  Position in Chapter: 0.66%
+  Scene Sentence: He read one of them with
+
+a curious smile, and then handed it to me.
+
+  Chapter: CHAPTER 8 (Chapter 8)
+  Position in Chapter: 1.32%
+  Scene Sentence: I turned first to the signature, "Abe Ryland," and recalled Poirot's
+
+words: "the richest man in the world."
+
+  Chapter: CHAPTER 8 (Chapter 8)
+  Position in Chapter: 3.62%
+  Scene Sentence: Remember the words of Mayerling, the man
+
+who took refuge here--only to die by the hands of his enemies. '
+
+  Chapter: CHAPTER 8 (Chapter 8)
+  Position in Chapter: 5.26%
+  Scene Sentence: "Your bright intellect has grasped the idea, Hastings.
+
+  Chapter: CHAPTER 8 (Chapter 8)
+  Position in Chapter: 5.92%
+  Scene Sentence: The tone in which you said multi-millionaire was eloquent--but let
+
+me impress upon you one fact--this thing is being run by men at the
+
+top--and Mr. Ryland has the reputation of being no beauty in his
+
+business dealings.
+
+  Chapter: CHAPTER 8 (Chapter 8)
+  Position in Chapter: 6.25%
+  Scene Sentence: An able, unscrupulous man, a man who has all the
+
+wealth that he needs, and is out for unlimited power."
+
+  Chapter: CHAPTER 8 (Chapter 8)
+  Position in Chapter: 8.55%
+  Scene Sentence: Let me but place Number Two
+
+definitely as Abe Ryland, and we draw nearer to our goal."
+
+  Chapter: CHAPTER 8 (Chapter 8)
+  Position in Chapter: 9.87%
+  Scene Sentence: Two days later, Poirot returned to our rooms in a state of boundless
+
+excitement.
+
+  Chapter: CHAPTER 8 (Chapter 8)
+  Position in Chapter: 10.53%
+  Scene Sentence: "My friend, an occasion stupendous, unprecedented, never to be
+
+repeated, has presented itself!
+
+  Chapter: CHAPTER 8 (Chapter 8)
+  Position in Chapter: 10.86%
+  Scene Sentence: But there is danger, grave danger.
+
+  Chapter: CHAPTER 8 (Chapter 8)
+  Position in Chapter: 11.51%
+  Scene Sentence: If Poirot was trying to frighten me, he was going the wrong way to
+
+work, and so I told him.
+
+  Chapter: CHAPTER 8 (Chapter 8)
+  Position in Chapter: 16.12%
+  Scene Sentence: I investigated for him a little matter which
+
+might have caused a grave scandal.
+
+  Chapter: CHAPTER 8 (Chapter 8)
+  Position in Chapter: 16.45%
+  Scene Sentence: All was solved with discretion and
+
+delicacy, and now, as you would say, he perches upon my hand like the
+
+little bird and pecks the crumbs."
+
+  Chapter: CHAPTER 8 (Chapter 8)
+  Position in Chapter: 17.76%
+  Scene Sentence: When I looked at myself in the glass half an hour afterwards,
+
+I was amazed.
+
+  Chapter: CHAPTER 8 (Chapter 8)
+  Position in Chapter: 24.01%
+  Scene Sentence: I said that I thought I could satisfy him in that respect.
+
+  Chapter: CHAPTER 8 (Chapter 8)
+  Position in Chapter: 25.00%
+  Scene Sentence: quite easily," I replied, smiling.
+
+  Chapter: CHAPTER 8 (Chapter 8)
+  Position in Chapter: 26.32%
+  Scene Sentence: My duties gave me no difficulty whatever.
+
+  Chapter: CHAPTER 8 (Chapter 8)
+  Position in Chapter: 27.30%
+  Scene Sentence: I saw very little of Mr. Appleby, the American
+
+secretary, but he seemed a pleasant, normal young American, very
+
+efficient in his work.
+
+  Chapter: CHAPTER 8 (Chapter 8)
+  Position in Chapter: 27.96%
+  Scene Sentence: She was a pretty girl of about twenty-three or four, with auburn
+
+hair and brown eyes that could look mischievous enough upon occasion,
+
+though they were usually cast demurely down.
+
+  Chapter: CHAPTER 8 (Chapter 8)
+  Position in Chapter: 28.29%
+  Scene Sentence: I had an idea that she
+
+both disliked and distrusted her employer, though, of course, she was
+
+careful never to hint at anything of the kind, but the time came when I
+
+was unexpectedly taken into her confidence.
+
+  Chapter: CHAPTER 8 (Chapter 8)
+  Position in Chapter: 29.61%
+  Scene Sentence: The housemaids I dismissed as
+
+unimportant; I scrutinised James, the second footman, very carefully;
+
+but it was clear that he was an under-footman and an under-footman
+
+only.
+
+  Chapter: CHAPTER 8 (Chapter 8)
+  Position in Chapter: 30.92%
+  Scene Sentence: I had been at Hatton Chase three weeks, and not an incident of any kind
+
+had arisen which I could lay my finger on in support of our theory.
+
+  Chapter: CHAPTER 8 (Chapter 8)
+  Position in Chapter: 31.58%
+  Scene Sentence: Mr. Ryland was a
+
+man of overpowering force and personality, but I was coming to believe
+
+that Poirot had made a mistake when he associated him with that dread
+
+organisation.
+
+  Chapter: CHAPTER 8 (Chapter 8)
+  Position in Chapter: 32.24%
+  Scene Sentence: "Wonderful little man, they say.
+
+  Chapter: CHAPTER 8 (Chapter 8)
+  Position in Chapter: 35.20%
+  Scene Sentence: I liked the girl very
+
+much, she was so unaffected and so natural.
+
+  Chapter: CHAPTER 8 (Chapter 8)
+  Position in Chapter: 36.84%
+  Scene Sentence: I know it's a wonderful job to have got, in a way.
+
+  Chapter: CHAPTER 8 (Chapter 8)
+  Position in Chapter: 37.50%
+  Scene Sentence: But I can't stand abuse,
+
+Major Neville.
+
+  Chapter: CHAPTER 8 (Chapter 8)
+  Position in Chapter: 39.14%
+  Scene Sentence: "Of course, he's always rather irritable and short tempered.
+
+  Chapter: CHAPTER 8 (Chapter 8)
+  Position in Chapter: 40.46%
+  Scene Sentence: He really looked as though he could have
+
+murdered me!
+
+  Chapter: CHAPTER 8 (Chapter 8)
+  Position in Chapter: 41.45%
+  Scene Sentence: I said, keenly interested.
+
+  Chapter: CHAPTER 8 (Chapter 8)
+  Position in Chapter: 42.43%
+  Scene Sentence: Now there are certain letters that come, written on blue
+
+paper, and with a tiny 4 marked on the corner--I beg your pardon, did
+
+you speak?"
+
+  Chapter: CHAPTER 8 (Chapter 8)
+  Position in Chapter: 42.76%
+  Scene Sentence: I had been unable to repress a stifled exclamation, but I hurriedly
+
+shook my head, and begged her to continue.
+
+  Chapter: CHAPTER 8 (Chapter 8)
+  Position in Chapter: 43.75%
+  Scene Sentence: But there was an unusually
+
+heavy mail yesterday morning, and I was opening the letters in a
+
+terrific hurry.
+
+  Chapter: CHAPTER 8 (Chapter 8)
+  Position in Chapter: 44.74%
+  Scene Sentence: To my utter
+
+amazement he flew into the most awful rage.
+
+  Chapter: CHAPTER 8 (Chapter 8)
+  Position in Chapter: 48.03%
+  Scene Sentence: She paused a minute and then repeated slowly, whilst I noted
+
+down the words unobtrusively, the following:--
+
+
+
+    "DEAR SIR,--The essential thing now, I should say, is to
+
+    see the property.
+
+  Chapter: CHAPTER 8 (Chapter 8)
+  Position in Chapter: 49.67%
+  Scene Sentence: But
+
+really, I do feel that a man who can get into a rage over such a trifle
+
+is, well, dangerous.
+
+  Chapter: CHAPTER 8 (Chapter 8)
+  Position in Chapter: 50.66%
+  Scene Sentence: I soothed the girl down, pointed out to her that Mr. Ryland had
+
+probably been suffering from the enemy of his race--dyspepsia.
+
+  Chapter: CHAPTER 8 (Chapter 8)
+  Position in Chapter: 50.99%
+  Scene Sentence: In
+
+the end I sent her away quite comforted.
+
+  Chapter: CHAPTER 8 (Chapter 8)
+  Position in Chapter: 51.32%
+  Scene Sentence: But I was not so easily
+
+satisfied myself.
+
+  Chapter: CHAPTER 8 (Chapter 8)
+  Position in Chapter: 52.30%
+  Scene Sentence: Did it concern some
+
+business deal which Ryland was undertaking, and was he anxious that no
+
+details about it should leak out until it was carried through?
+
+  Chapter: CHAPTER 8 (Chapter 8)
+  Position in Chapter: 54.93%
+  Scene Sentence: The solution of the figures was easy.
+
+  Chapter: CHAPTER 8 (Chapter 8)
+  Position in Chapter: 56.58%
+  Scene Sentence: It would be
+
+such a feather in my cap, for once, to have the pleasure of crowing
+
+over Poirot.
+
+  Chapter: CHAPTER 8 (Chapter 8)
+  Position in Chapter: 57.24%
+  Scene Sentence: This was a big business--I
+
+had no right to play a lone hand, and perhaps jeopardise our chances of
+
+success.
+
+  Chapter: CHAPTER 8 (Chapter 8)
+  Position in Chapter: 57.57%
+  Scene Sentence: For the first time, we had stolen a march upon our enemies.
+
+  Chapter: CHAPTER 8 (Chapter 8)
+  Position in Chapter: 57.89%
+  Scene Sentence: We
+
+must make good this time--and, disguise the fact as I might, Poirot had
+
+the better brain of the two.
+
+  Chapter: CHAPTER 8 (Chapter 8)
+  Position in Chapter: 58.55%
+  Scene Sentence: If he liked to leave it to me, well and good, but I gave
+
+him detailed instructions how to reach the quarry from the station in
+
+case he should deem it wise to be present himself.
+
+  Chapter: CHAPTER 8 (Chapter 8)
+  Position in Chapter: 59.54%
+  Scene Sentence: I was in a glow of excitement the following evening.
+
+  Chapter: CHAPTER 8 (Chapter 8)
+  Position in Chapter: 60.53%
+  Scene Sentence: I was,
+
+however, confident that I would be dismissed well before eleven o'clock.
+
+  Chapter: CHAPTER 8 (Chapter 8)
+  Position in Chapter: 67.11%
+  Scene Sentence: He was seated in the shadow of the rock, so that I could not see his
+
+face, but the menace in his voice was unpleasant.
+
+  Chapter: CHAPTER 8 (Chapter 8)
+  Position in Chapter: 68.42%
+  Scene Sentence: Raging inwardly, I was conducted to a spot in the shadows, where the
+
+unseen George (whom I suspected of being the impeccable Deaves), gagged
+
+and bound me securely.
+
+  Chapter: CHAPTER 8 (Chapter 8)
+  Position in Chapter: 71.05%
+  Scene Sentence: Say, that friend of yours doesn't keep his dates
+
+very punctually."
+
+  Chapter: CHAPTER 8 (Chapter 8)
+  Position in Chapter: 71.38%
+  Scene Sentence: A wave of horror swept over me.
+
+  Chapter: CHAPTER 8 (Chapter 8)
+  Position in Chapter: 72.37%
+  Scene Sentence: And I was powerless to warn him.
+
+  Chapter: CHAPTER 8 (Chapter 8)
+  Position in Chapter: 74.34%
+  Scene Sentence: I writhed in impotent agony.
+
+  Chapter: CHAPTER 8 (Chapter 8)
+  Position in Chapter: 77.30%
+  Scene Sentence: "My friend?
+
+  Chapter: CHAPTER 8 (Chapter 8)
+  Position in Chapter: 78.29%
+  Scene Sentence: He laughed.
+
+  Chapter: CHAPTER 8 (Chapter 8)
+  Position in Chapter: 79.61%
+  Scene Sentence: "I comprehend that there is a trap--yes," said Poirot gently. "
+
+  Chapter: CHAPTER 8 (Chapter 8)
+  Position in Chapter: 79.93%
+  Scene Sentence: But you
+
+are in error, monsieur.
+
+  Chapter: CHAPTER 8 (Chapter 8)
+  Position in Chapter: 81.25%
+  Scene Sentence: "If you fire, you commit murder watched by ten pairs of eyes, and you
+
+will be hanged for it.
+
+  Chapter: CHAPTER 8 (Chapter 8)
+  Position in Chapter: 82.24%
+  Scene Sentence: He uttered a curious whistle, and as though by magic, the place was
+
+alive with men.
+
+  Chapter: CHAPTER 8 (Chapter 8)
+  Position in Chapter: 83.22%
+  Scene Sentence: Once clear of the quarry he embraced me with vigour.
+
+  Chapter: CHAPTER 8 (Chapter 8)
+  Position in Chapter: 83.88%
+  Scene Sentence: It is magnificent.
+
+  Chapter: CHAPTER 8 (Chapter 8)
+  Position in Chapter: 84.21%
+  Scene Sentence: Often have I blamed
+
+myself for letting you go."
+
+  Chapter: CHAPTER 8 (Chapter 8)
+  Position in Chapter: 84.54%
+  Scene Sentence: "I'm perfectly all right," I said, disengaging myself. "
+
+  Chapter: CHAPTER 8 (Chapter 8)
+  Position in Chapter: 87.50%
+  Scene Sentence: "As I have frequently told you, Hastings, you have a nature so
+
+beautiful and so honest that unless you are yourself deceived, it is
+
+impossible for you to deceive others.
+
+  Chapter: CHAPTER 8 (Chapter 8)
+  Position in Chapter: 87.83%
+  Scene Sentence: Good, then, you are spotted
+
+from the first, and they do what I had counted on their doing--a
+
+mathematical certainty to any one who uses his gray cells properly--use
+
+you as a decoy.
+
+  Chapter: CHAPTER 8 (Chapter 8)
+  Position in Chapter: 89.80%
+  Scene Sentence: yes, my friend, Miss Martin was in the plot--very
+
+much so.
+
+  Chapter: CHAPTER 8 (Chapter 8)
+  Position in Chapter: 92.11%
+  Scene Sentence: I was just out of my bath and indulging in pleasurable thoughts of
+
+breakfast when I heard Japp's voice in the sitting-room.
+
+  Chapter: CHAPTER 8 (Chapter 8)
+  Position in Chapter: 92.76%
+  Scene Sentence: "A pretty mare's nest you've got us into this time," Japp was saying.
+
+  Chapter: CHAPTER 8 (Chapter 8)
+  Position in Chapter: 93.09%
+  Scene Sentence: "It's too bad of you, M. Poirot.
+
+  Chapter: CHAPTER 8 (Chapter 8)
+  Position in Chapter: 94.41%
+  Scene Sentence: "There were we, taking all this Black Hand stuff seriously--and all the
+
+time it was the footman."
+
+  Chapter: CHAPTER 8 (Chapter 8)
+  Position in Chapter: 95.72%
+  Scene Sentence: Seems he laid 'em a wager in
+
+the servants' hall that he could get taken for the old man by his
+
+nibs--that's you, Captain Hastings--and would hand him out a lot of spy
+
+stuff about a Big Four gang."
+
+  Chapter: CHAPTER 8 (Chapter 8)
+  Position in Chapter: 99.01%
+  Scene Sentence: The masquerading on the part of the footman was to
+
+ensure a way of retreat in case of emergencies.
+
+  Chapter: CHAPTER 9 (Chapter 9)
+  Position in Chapter: 0.00%
+  Scene Sentence: CHAPTER 9
+ THE YELLOW JASMINE MYSTERY
+
+
+
+
+
+It was all very well for Poirot to say that we were acquiring
+
+information all the time and gaining an insight into our adversaries'
+
+minds--I felt myself that I required some more tangible success than
+
+this.
+
+  Chapter: CHAPTER 9 (Chapter 9)
+  Position in Chapter: 0.68%
+  Scene Sentence: Since we had come into contact with the Big Four, they had committed
+
+two murders, abducted Halliday, and had been within an ace of killing
+
+Poirot and myself; whereas so far we had hardly scored a point in the
+
+game.
+
+  Chapter: CHAPTER 9 (Chapter 9)
+  Position in Chapter: 2.05%
+  Scene Sentence: "So far, Hastings," he said, "they laugh.
+
+  Chapter: CHAPTER 9 (Chapter 9)
+  Position in Chapter: 2.74%
+  Scene Sentence: That is true, but you have a
+
+proverb, have you not: 'He laughs best who laughs at the end'?
+
+  Chapter: CHAPTER 9 (Chapter 9)
+  Position in Chapter: 4.11%
+  Scene Sentence: "You must remember, too," he added, "that we deal with no ordinary
+
+criminal, but with the second greatest brain in the world."
+
+  Chapter: CHAPTER 9 (Chapter 9)
+  Position in Chapter: 5.48%
+  Scene Sentence: I
+
+knew the answer, at least I knew what Poirot's answer would be, and
+
+instead I tried without success to elicit some information as to what
+
+steps he was taking to track down the enemy.
+
+  Chapter: CHAPTER 9 (Chapter 9)
+  Position in Chapter: 8.22%
+  Scene Sentence: This attitude of his was remarkably profitable to our friend, Inspector
+
+Japp.
+
+  Chapter: CHAPTER 9 (Chapter 9)
+  Position in Chapter: 8.90%
+  Scene Sentence: Undeniably he gained much kudos for solving several problems
+
+in which his success was really due to a half-contemptuous hint from
+
+Poirot.
+
+  Chapter: CHAPTER 9 (Chapter 9)
+  Position in Chapter: 9.59%
+  Scene Sentence: In return for such service Japp supplied full details of any case which
+
+he thought might interest the little Belgian, and when he was put in
+
+charge of what the newspaper called "The Yellow Jasmine Mystery," he
+
+wired Poirot, asking him whether he would care to come down and look
+
+into the case.
+
+  Chapter: CHAPTER 9 (Chapter 9)
+  Position in Chapter: 14.38%
+  Scene Sentence: said Poirot delightedly.
+
+  Chapter: CHAPTER 9 (Chapter 9)
+  Position in Chapter: 15.75%
+  Scene Sentence: "No, no; you misunderstand me, Hastings.
+
+  Chapter: CHAPTER 9 (Chapter 9)
+  Position in Chapter: 16.44%
+  Scene Sentence: Granting that Mr. Paynter died
+
+as the result of a particularly terrible accident, there are still a
+
+number of mysterious circumstances to be explained."
+
+  Chapter: CHAPTER 9 (Chapter 9)
+  Position in Chapter: 20.55%
+  Scene Sentence: A man of fifty-five, rich,
+
+cultured, and somewhat of a globetrotter.
+
+  Chapter: CHAPTER 9 (Chapter 9)
+  Position in Chapter: 25.34%
+  Scene Sentence: "Mr. Paynter kept up a fair staff at Croftlands--six servants as well
+
+as his own Chinese body servant--Ah Ling."
+
+  Chapter: CHAPTER 9 (Chapter 9)
+  Position in Chapter: 28.08%
+  Scene Sentence: What passed between them was not then known, but before Doctor Quentin
+
+left, he asked to see the housekeeper, and mentioned that he had given
+
+Mr. Paynter a hypodermic injection as his heart was in a very weak
+
+state, recommended that he should not be disturbed, and then proceeded
+
+to ask some rather curious questions about the servants--how long they
+
+had been there, from whom they had come, etc.
+
+  Chapter: CHAPTER 9 (Chapter 9)
+  Position in Chapter: 29.45%
+  Scene Sentence: A terrible discovery was made on
+
+the following morning.
+
+  Chapter: CHAPTER 9 (Chapter 9)
+  Position in Chapter: 30.14%
+  Scene Sentence: One of the housemaids, on descending, was met
+
+by a sickening odour of burned flesh which seemed to come from her
+
+master's study.
+
+  Chapter: CHAPTER 9 (Chapter 9)
+  Position in Chapter: 31.51%
+  Scene Sentence: With the assistance of Gerald Paynter and the Chinaman that was soon
+
+broken in, but a terrible sight greeted them.
+
+  Chapter: CHAPTER 9 (Chapter 9)
+  Position in Chapter: 32.19%
+  Scene Sentence: Mr. Paynter had fallen
+
+forward into the gas fire, and his face and head were charred beyond
+
+recognition.
+
+  Chapter: CHAPTER 9 (Chapter 9)
+  Position in Chapter: 32.88%
+  Scene Sentence: "Of course, at the moment, no suspicion was aroused as to its being
+
+anything but a ghastly accident.
+
+  Chapter: CHAPTER 9 (Chapter 9)
+  Position in Chapter: 33.56%
+  Scene Sentence: If blame attached to any one, it was
+
+to Doctor Quentin for giving his patient a narcotic and leaving him in
+
+such a dangerous position.
+
+  Chapter: CHAPTER 9 (Chapter 9)
+  Position in Chapter: 34.93%
+  Scene Sentence: "There was a newspaper on the floor, lying where it had slipped from
+
+the old man's knees.
+
+  Chapter: CHAPTER 9 (Chapter 9)
+  Position in Chapter: 36.30%
+  Scene Sentence: A writing-table stood close
+
+to the chair in which Mr. Paynter had been sitting, and the forefinger
+
+of the victim's right hand was ink-stained up to the second joint.
+
+  Chapter: CHAPTER 9 (Chapter 9)
+  Position in Chapter: 36.99%
+  Scene Sentence: It
+
+was clear that, too weak to hold a pen, Mr. Paynter had dipped his
+
+finger in the ink-pot and managed to scrawl these two words across
+
+the surface of the newspaper he held--but the words themselves seemed
+
+utterly fantastic: _Yellow Jasmine_--just that and nothing more.
+
+  Chapter: CHAPTER 9 (Chapter 9)
+  Position in Chapter: 40.41%
+  Scene Sentence: Well, doubtless, since
+
+you say so, it must be so."
+
+  Chapter: CHAPTER 9 (Chapter 9)
+  Position in Chapter: 41.10%
+  Scene Sentence: I regarded him dubiously, but I could detect no mockery in his eye.
+
+  Chapter: CHAPTER 9 (Chapter 9)
+  Position in Chapter: 44.52%
+  Scene Sentence: Then it was felt that his carelessness was the direct cause of the
+
+accident.
+
+  Chapter: CHAPTER 9 (Chapter 9)
+  Position in Chapter: 49.32%
+  Scene Sentence: Making an excuse to get rid of Ah
+
+Ling for a few minutes, he had turned the contents of his plate into a
+
+bowl, and he now handed it over to the doctor with injunctions to find
+
+out if there were really anything wrong with it.
+
+  Chapter: CHAPTER 9 (Chapter 9)
+  Position in Chapter: 50.00%
+  Scene Sentence: "In spite of his statement that he was not feeling ill, the doctor
+
+noted that the shock of his suspicions had evidently affected him,
+
+and that his heart was feeling it.
+
+  Chapter: CHAPTER 9 (Chapter 9)
+  Position in Chapter: 51.37%
+  Scene Sentence: "That, I think, completes the case--except for _the_ crux of the
+
+whole thing--the fact that the uneaten curry, duly analysed, was found
+
+to contain enough powdered opium to have killed two men!"
+
+  Chapter: CHAPTER 9 (Chapter 9)
+  Position in Chapter: 54.79%
+  Scene Sentence: It _might_ be an accident--the fact that
+
+some one attempted to poison him the same night might be merely a
+
+coincidence."
+
+  Chapter: CHAPTER 9 (Chapter 9)
+  Position in Chapter: 63.01%
+  Scene Sentence: Who poisoned it?
+
+  Chapter: CHAPTER 9 (Chapter 9)
+  Position in Chapter: 65.75%
+  Scene Sentence: But why should he wish to kill
+
+his master?
+
+  Chapter: CHAPTER 9 (Chapter 9)
+  Position in Chapter: 73.29%
+  Scene Sentence: And he would take care to be out, so as not to have to
+
+partake of the dish."
+
+  Chapter: CHAPTER 9 (Chapter 9)
+  Position in Chapter: 73.97%
+  Scene Sentence: I think my reasoning rather impressed Poirot.
+
+  Chapter: CHAPTER 9 (Chapter 9)
+  Position in Chapter: 74.66%
+  Scene Sentence: He looked at me with a
+
+more respectful attention than he had given me so far.
+
+  Chapter: CHAPTER 9 (Chapter 9)
+  Position in Chapter: 76.03%
+  Scene Sentence: Sees the
+
+light in his uncle's study, enters, and, finding his plan has failed,
+
+thrusts the old man down into the fire."
+
+  Chapter: CHAPTER 9 (Chapter 9)
+  Position in Chapter: 80.14%
+  Scene Sentence: "Assuming murder, the question at once arises, why choose that
+
+particular method?
+
+  Chapter: CHAPTER 9 (Chapter 9)
+  Position in Chapter: 86.99%
+  Scene Sentence: I said, rather disappointed. "
+
+  Chapter: CHAPTER 9 (Chapter 9)
+  Position in Chapter: 92.47%
+  Scene Sentence: Here it is--brush me down, I pray you, my friend, and then I will
+
+perform the same service for you."
+
+  Chapter: CHAPTER 9 (Chapter 9)
+  Position in Chapter: 93.84%
+  Scene Sentence: I have been in danger of
+
+that.
+
+  Chapter: CHAPTER 9 (Chapter 9)
+  Position in Chapter: 95.89%
+  Scene Sentence: "Good gracious, Poirot," I cried, laughing.
+
+  Chapter: CHAPTER 9 (Chapter 9)
+  Position in Chapter: 97.26%
+  Scene Sentence: I see the hand of the Big Four everywhere.
+
+  Chapter: CHAPTER 10 (Chapter 10)
+  Position in Chapter: 0.00%
+  Scene Sentence: CHAPTER 10
+ WE INVESTIGATE AT CROFTLANDS
+
+
+
+
+
+The Scotland Yard Inspector was, indeed, waiting on the platform, and
+
+greeted us warmly.
+
+  Chapter: CHAPTER 10 (Chapter 10)
+  Position in Chapter: 3.32%
+  Scene Sentence: "Must have been balmy to go writing that, poor old cove," he remarked.
+
+  Chapter: CHAPTER 10 (Chapter 10)
+  Position in Chapter: 4.15%
+  Scene Sentence: Poirot was smiling at him.
+
+  Chapter: CHAPTER 10 (Chapter 10)
+  Position in Chapter: 4.98%
+  Scene Sentence: he asked; "accident or murder?"
+
+  Chapter: CHAPTER 10 (Chapter 10)
+  Position in Chapter: 5.81%
+  Scene Sentence: "Well, if it weren't for that curry business, I'd be for accident every
+
+time.
+
+  Chapter: CHAPTER 10 (Chapter 10)
+  Position in Chapter: 6.22%
+  Scene Sentence: There's no sense in holding a live man's head in the fire--why,
+
+he'd scream the house down."
+
+  Chapter: CHAPTER 10 (Chapter 10)
+  Position in Chapter: 7.88%
+  Scene Sentence: Triple
+
+imbecile!
+
+  Chapter: CHAPTER 10 (Chapter 10)
+  Position in Chapter: 8.30%
+  Scene Sentence: You are a cleverer man than I am, Japp."
+
+  Chapter: CHAPTER 10 (Chapter 10)
+  Position in Chapter: 8.71%
+  Scene Sentence: Japp was rather taken aback by the compliment--Poirot being usually
+
+given to exclusive self praise.
+
+  Chapter: CHAPTER 10 (Chapter 10)
+  Position in Chapter: 9.54%
+  Scene Sentence: He led the way through the house to the room where the tragedy had
+
+occurred--Mr. Paynter's study.
+
+  Chapter: CHAPTER 10 (Chapter 10)
+  Position in Chapter: 14.52%
+  Scene Sentence: If he could, it would make a great difference.
+
+  Chapter: CHAPTER 10 (Chapter 10)
+  Position in Chapter: 14.94%
+  Scene Sentence: If the man
+
+_was_ murdered, some one entered the room either through the door
+
+or the window--if through the door, it was an inside job; if through
+
+the window, it might have been any one.
+
+  Chapter: CHAPTER 10 (Chapter 10)
+  Position in Chapter: 18.67%
+  Scene Sentence: Poirot was looking round him, frowning unhappily.
+
+  Chapter: CHAPTER 10 (Chapter 10)
+  Position in Chapter: 20.33%
+  Scene Sentence: "Young Gerald Paynter had a pretty good motive," remarked Japp grimly.
+
+  Chapter: CHAPTER 10 (Chapter 10)
+  Position in Chapter: 22.41%
+  Scene Sentence: Instead he smiled knowingly.
+
+  Chapter: CHAPTER 10 (Chapter 10)
+  Position in Chapter: 24.48%
+  Scene Sentence: Japp burst out laughing.
+
+  Chapter: CHAPTER 10 (Chapter 10)
+  Position in Chapter: 25.31%
+  Scene Sentence: Yes, I'd bet on the Chink, I'll admit
+
+it now.
+
+  Chapter: CHAPTER 10 (Chapter 10)
+  Position in Chapter: 26.97%
+  Scene Sentence: Some heathen revenge or other, I
+
+suppose."
+
+  Chapter: CHAPTER 10 (Chapter 10)
+  Position in Chapter: 33.20%
+  Scene Sentence: "_The Hidden Hand in China_, I think it was called."
+
+  Chapter: CHAPTER 10 (Chapter 10)
+  Position in Chapter: 36.93%
+  Scene Sentence: "You know who kill him?"
+
+  Chapter: CHAPTER 10 (Chapter 10)
+  Position in Chapter: 44.81%
+  Scene Sentence: For
+
+one moment his face was a mask of terror.
+
+  Chapter: CHAPTER 10 (Chapter 10)
+  Position in Chapter: 46.89%
+  Scene Sentence: Paynter was a great traveller.
+
+  Chapter: CHAPTER 10 (Chapter 10)
+  Position in Chapter: 47.30%
+  Scene Sentence: In his book there was doubtless some
+
+vital information concerning the doings of Number One, Li Chang Yen,
+
+the head and brains of the Big Four."
+
+  Chapter: CHAPTER 10 (Chapter 10)
+  Position in Chapter: 53.94%
+  Scene Sentence: "But he found you again with very little trouble, did he not?
+
+  Chapter: CHAPTER 10 (Chapter 10)
+  Position in Chapter: 54.36%
+  Scene Sentence: In spite
+
+of all the years that had passed?"
+
+  Chapter: CHAPTER 10 (Chapter 10)
+  Position in Chapter: 54.77%
+  Scene Sentence: "Yes, it was quite a bit of luck my seeing the lawyer's advertisement."
+
+  Chapter: CHAPTER 10 (Chapter 10)
+  Position in Chapter: 56.85%
+  Scene Sentence: He seemed an intelligent man.
+
+  Chapter: CHAPTER 10 (Chapter 10)
+  Position in Chapter: 61.41%
+  Scene Sentence: By the way, I suppose
+
+Japp can be trusted to keep an eye on him?" (
+
+  Chapter: CHAPTER 10 (Chapter 10)
+  Position in Chapter: 62.24%
+  Scene Sentence: The emissaries of
+
+the Big Four are pretty spry."
+
+  Chapter: CHAPTER 10 (Chapter 10)
+  Position in Chapter: 64.32%
+  Scene Sentence: "You old fox," I laughed. "
+
+  Chapter: CHAPTER 10 (Chapter 10)
+  Position in Chapter: 69.71%
+  Scene Sentence: but my
+
+psychology has been weak.
+
+  Chapter: CHAPTER 10 (Chapter 10)
+  Position in Chapter: 73.03%
+  Scene Sentence: "My friend, it struck me that it would be well to inquire into the
+
+subject.
+
+  Chapter: CHAPTER 10 (Chapter 10)
+  Position in Chapter: 77.18%
+  Scene Sentence: Death is due to paralysis of the respiratory centre.'
+
+  Chapter: CHAPTER 10 (Chapter 10)
+  Position in Chapter: 78.01%
+  Scene Sentence: At the beginning I had an inkling of the truth when
+
+Japp made his remark about a live man being forced into the fire.
+
+  Chapter: CHAPTER 10 (Chapter 10)
+  Position in Chapter: 78.42%
+  Scene Sentence: I
+
+realised then that it was a dead man who was burned."
+
+  Chapter: CHAPTER 10 (Chapter 10)
+  Position in Chapter: 79.67%
+  Scene Sentence: "My friend, if you were to shoot a man, or stab a man after he were
+
+dead, or even knock him on the head, it would be apparent that the
+
+injuries were inflicted after death.
+
+  Chapter: CHAPTER 10 (Chapter 10)
+  Position in Chapter: 80.08%
+  Scene Sentence: But with his head charred to a
+
+cinder, no one is going to hunt about for obscure causes of death, and
+
+a man who has apparently just escaped being poisoned at dinner, is not
+
+likely to be poisoned just afterwards. _
+
+  Chapter: CHAPTER 10 (Chapter 10)
+  Position in Chapter: 80.50%
+  Scene Sentence: Who_ is lying, that is
+
+always the question?
+
+  Chapter: CHAPTER 10 (Chapter 10)
+  Position in Chapter: 90.04%
+  Scene Sentence: There was no trace of powdered opium
+
+in the curry served to Mr. Paynter, but acting in obedience to the
+
+suspicions Dr. Quentin had aroused, the old man eats none of it,
+
+and preserves it to give to his medical attendant, whom he summons
+
+according to plan.
+
+  Chapter: CHAPTER 10 (Chapter 10)
+  Position in Chapter: 90.46%
+  Scene Sentence: Dr. Quentin arrives, takes charge of the curry,
+
+_and gives Mr. Paynter an injection_--of strychnine, he says,
+
+but really of yellow jasmine--a poisonous dose.
+
+  Chapter: CHAPTER 10 (Chapter 10)
+  Position in Chapter: 92.12%
+  Scene Sentence: Paynter knew what drug he
+
+had been given, and strove to accuse the Big Four of his murder.
+
+  Chapter: CHAPTER 10 (Chapter 10)
+  Position in Chapter: 93.36%
+  Scene Sentence: Suspicion at once is divided
+
+between accident and the guilt of Ah Ling owing to the poison in the
+
+curry."
+
+  Chapter: CHAPTER 10 (Chapter 10)
+  Position in Chapter: 96.68%
+  Scene Sentence: cried Poirot anxiously.
+
+  Chapter: CHAPTER 11 (Chapter 11)
+  Position in Chapter: 0.00%
+  Scene Sentence: CHAPTER 11
+ A CHESS PROBLEM
+
+
+
+
+
+Poirot and I often dined at a small restaurant in Soho.
+
+  Chapter: CHAPTER 11 (Chapter 11)
+  Position in Chapter: 0.21%
+  Scene Sentence: We were there
+
+one evening, when we observed a friend at an adjacent table.
+
+  Chapter: CHAPTER 11 (Chapter 11)
+  Position in Chapter: 3.39%
+  Scene Sentence: To what end they are tending, no
+
+one knows, but there has never been another such criminal organisation.
+
+  Chapter: CHAPTER 11 (Chapter 11)
+  Position in Chapter: 4.66%
+  Scene Sentence: Take any interest in chess?"
+
+  Chapter: CHAPTER 11 (Chapter 11)
+  Position in Chapter: 5.30%
+  Scene Sentence: Match between two players
+
+of world-wide reputation, and one died during the game?"
+
+  Chapter: CHAPTER 11 (Chapter 11)
+  Position in Chapter: 5.72%
+  Scene Sentence: Dr. Savaronoff, the Russian champion, was one
+
+of the players, and the other, who succumbed to heart failure, was the
+
+brilliant young American, Gilmour Wilson."
+
+  Chapter: CHAPTER 11 (Chapter 11)
+  Position in Chapter: 6.14%
+  Scene Sentence: Savaronoff beat Rubenstein and became Russian champion
+
+some years ago.
+
+  Chapter: CHAPTER 11 (Chapter 11)
+  Position in Chapter: 7.84%
+  Scene Sentence: His death is quite inexplicable."
+
+  Chapter: CHAPTER 11 (Chapter 11)
+  Position in Chapter: 8.69%
+  Scene Sentence: I don't think even a Russian would
+
+murder another man in order not to be beaten at chess--and anyway, from
+
+all I can make out, the boot was likely to be on the other leg.
+
+  Chapter: CHAPTER 11 (Chapter 11)
+  Position in Chapter: 9.75%
+  Scene Sentence: Why should Wilson
+
+be poisoned?
+
+  Chapter: CHAPTER 11 (Chapter 11)
+  Position in Chapter: 9.96%
+  Scene Sentence: For, I assume, of course, that it is poison you suspect."
+
+  Chapter: CHAPTER 11 (Chapter 11)
+  Position in Chapter: 10.38%
+  Scene Sentence: Heart failure means your heart stops beating--that's all
+
+there is to that.
+
+  Chapter: CHAPTER 11 (Chapter 11)
+  Position in Chapter: 11.23%
+  Scene Sentence: Wilson's death was extraordinarily sudden.
+
+  Chapter: CHAPTER 11 (Chapter 11)
+  Position in Chapter: 11.65%
+  Scene Sentence: "There are very few poisons would act in such a fashion," objected
+
+Poirot.
+
+  Chapter: CHAPTER 11 (Chapter 11)
+  Position in Chapter: 12.29%
+  Scene Sentence: But why should any one
+
+want Gilmour Wilson out of the way--that's what I'd like to know?
+
+  Chapter: CHAPTER 11 (Chapter 11)
+  Position in Chapter: 13.14%
+  Scene Sentence: "Not at all," said Poirot, smiling. "
+
+  Chapter: CHAPTER 11 (Chapter 11)
+  Position in Chapter: 14.62%
+  Scene Sentence: He was even reported killed.
+
+  Chapter: CHAPTER 11 (Chapter 11)
+  Position in Chapter: 15.04%
+  Scene Sentence: His sufferings were so great that he is now a changed man.
+
+  Chapter: CHAPTER 11 (Chapter 11)
+  Position in Chapter: 15.25%
+  Scene Sentence: His friends
+
+and acquaintances declare they would hardly have recognised him.
+
+  Chapter: CHAPTER 11 (Chapter 11)
+  Position in Chapter: 15.47%
+  Scene Sentence: His
+
+hair is white, and his whole aspect that of a man terribly aged.
+
+  Chapter: CHAPTER 11 (Chapter 11)
+  Position in Chapter: 16.10%
+  Scene Sentence: Certainly he
+
+was very unwilling to agree to this chess contest.
+
+  Chapter: CHAPTER 11 (Chapter 11)
+  Position in Chapter: 19.92%
+  Scene Sentence: "My poor Japp, your task is not an easy one."
+
+  Chapter: CHAPTER 11 (Chapter 11)
+  Position in Chapter: 20.34%
+  Scene Sentence: "Has it occurred to you that, in the meantime, supposing your
+
+assumption that Savaronoff was the intended victim to be correct, the
+
+murderer may try again?"
+
+  Chapter: CHAPTER 11 (Chapter 11)
+  Position in Chapter: 21.40%
+  Scene Sentence: "Care to come round to the mortuary and see Wilson's body before the
+
+doctors start on it?
+
+  Chapter: CHAPTER 11 (Chapter 11)
+  Position in Chapter: 21.61%
+  Scene Sentence: Who knows, his tie-pin may be askew, and that may
+
+give you a valuable clue that will solve the mystery."
+
+  Chapter: CHAPTER 11 (Chapter 11)
+  Position in Chapter: 22.46%
+  Scene Sentence: that is much more
+
+pleasing to the eye.
+
+  Chapter: CHAPTER 11 (Chapter 11)
+  Position in Chapter: 23.09%
+  Scene Sentence: It was so long since he had shown any interest over any
+
+outside case that I was quite rejoiced to see him back in his old form.
+
+  Chapter: CHAPTER 11 (Chapter 11)
+  Position in Chapter: 23.31%
+  Scene Sentence: For my own part, I felt a deep pity as I looked down upon the
+
+motionless form and convulsed face of the hapless young American who
+
+had come by his death in such a strange way.
+
+  Chapter: CHAPTER 11 (Chapter 11)
+  Position in Chapter: 24.15%
+  Scene Sentence: Poirot's attention shifted to the contents of the dead man's pockets
+
+which a constable spread out for our inspection.
+
+  Chapter: CHAPTER 11 (Chapter 11)
+  Position in Chapter: 24.58%
+  Scene Sentence: But one object standing by itself filled Poirot
+
+with interest.
+
+  Chapter: CHAPTER 11 (Chapter 11)
+  Position in Chapter: 25.64%
+  Scene Sentence: "No, clasped in his hand.
+
+  Chapter: CHAPTER 11 (Chapter 11)
+  Position in Chapter: 26.27%
+  Scene Sentence: It's part
+
+of a very beautiful set of carved ivory chessmen."
+
+  Chapter: CHAPTER 11 (Chapter 11)
+  Position in Chapter: 28.60%
+  Scene Sentence: "Quite right," I said, laughing.
+
+  Chapter: CHAPTER 11 (Chapter 11)
+  Position in Chapter: 31.14%
+  Scene Sentence: I like to play you the
+
+trick, see you."
+
+  Chapter: CHAPTER 11 (Chapter 11)
+  Position in Chapter: 31.99%
+  Scene Sentence: It's a pretty name."
+
+  Chapter: CHAPTER 11 (Chapter 11)
+  Position in Chapter: 32.20%
+  Scene Sentence: Poirot stopped, and threw me a look of despair.
+
+  Chapter: CHAPTER 11 (Chapter 11)
+  Position in Chapter: 32.42%
+  Scene Sentence: "Always looking for romance!
+
+  Chapter: CHAPTER 11 (Chapter 11)
+  Position in Chapter: 34.53%
+  Scene Sentence: One or two wonderful ikons hung upon the
+
+walls, and exquisite Persian rugs lay upon the floor.
+
+  Chapter: CHAPTER 11 (Chapter 11)
+  Position in Chapter: 35.17%
+  Scene Sentence: Beautiful as the
+
+rug was, it hardly seemed to me to necessitate such close attention.
+
+  Chapter: CHAPTER 11 (Chapter 11)
+  Position in Chapter: 35.38%
+  Scene Sentence: "Is it such a very wonderful specimen?"
+
+  Chapter: CHAPTER 11 (Chapter 11)
+  Position in Chapter: 36.65%
+  Scene Sentence: But it
+
+_is_ a beautiful specimen, far too beautiful to have a large nail
+
+wantonly driven through the middle of it.
+
+  Chapter: CHAPTER 11 (Chapter 11)
+  Position in Chapter: 38.14%
+  Scene Sentence: Her voice, when she spoke, was rich and sonorous,
+
+and completely un-English.
+
+  Chapter: CHAPTER 11 (Chapter 11)
+  Position in Chapter: 38.35%
+  Scene Sentence: "I fear my uncle will be unable to see you.
+
+  Chapter: CHAPTER 11 (Chapter 11)
+  Position in Chapter: 38.56%
+  Scene Sentence: He is a great invalid."
+
+  Chapter: CHAPTER 11 (Chapter 11)
+  Position in Chapter: 38.77%
+  Scene Sentence: "That is a pity, but perhaps you will kindly help me instead.
+
+  Chapter: CHAPTER 11 (Chapter 11)
+  Position in Chapter: 39.62%
+  Scene Sentence: "I am making some inquiries about that sad affair the night before
+
+last--the death of M. Gilmour Wilson.
+
+  Chapter: CHAPTER 11 (Chapter 11)
+  Position in Chapter: 40.47%
+  Scene Sentence: "The police are not so sure that it was--heart failure, mademoiselle."
+
+  Chapter: CHAPTER 11 (Chapter 11)
+  Position in Chapter: 40.68%
+  Scene Sentence: The girl gave a terrified gesture.
+
+  Chapter: CHAPTER 11 (Chapter 11)
+  Position in Chapter: 41.95%
+  Scene Sentence: "Yes, the poison was meant for my uncle."
+
+  Chapter: CHAPTER 11 (Chapter 11)
+  Position in Chapter: 44.28%
+  Scene Sentence: But this much I do know, he is in fear of something.
+
+  Chapter: CHAPTER 11 (Chapter 11)
+  Position in Chapter: 44.49%
+  Scene Sentence: We have many
+
+secret societies in Russia, and one day I overheard something which
+
+made me think it was of just such a society he went in fear.
+
+  Chapter: CHAPTER 11 (Chapter 11)
+  Position in Chapter: 45.13%
+  Scene Sentence: His eyes positively bulged with
+
+astonishment.
+
+  Chapter: CHAPTER 11 (Chapter 11)
+  Position in Chapter: 46.61%
+  Scene Sentence: And, by mistake, they killed
+
+the American, Wilson."
+
+  Chapter: CHAPTER 11 (Chapter 11)
+  Position in Chapter: 47.25%
+  Scene Sentence: An astonishing
+
+coincidence, mademoiselle, your uncle is still in danger.
+
+  Chapter: CHAPTER 11 (Chapter 11)
+  Position in Chapter: 47.46%
+  Scene Sentence: I must save
+
+him.
+
+  Chapter: CHAPTER 11 (Chapter 11)
+  Position in Chapter: 47.67%
+  Scene Sentence: Now recount to me exactly the events of that fatal evening.
+
+  Chapter: CHAPTER 11 (Chapter 11)
+  Position in Chapter: 53.81%
+  Scene Sentence: A great chess player must have a great brain, I knew.
+
+  Chapter: CHAPTER 11 (Chapter 11)
+  Position in Chapter: 54.03%
+  Scene Sentence: I could
+
+easily understand Dr. Savaronoff being the second greatest player in
+
+the world.
+
+  Chapter: CHAPTER 11 (Chapter 11)
+  Position in Chapter: 58.05%
+  Scene Sentence: Dr. Savaronoff smiled a little.
+
+  Chapter: CHAPTER 11 (Chapter 11)
+  Position in Chapter: 58.90%
+  Scene Sentence: "And how long had you been playing when the tragedy happened?"
+
+  Chapter: CHAPTER 11 (Chapter 11)
+  Position in Chapter: 59.53%
+  Scene Sentence: He flung out his last question as though it was
+
+of absolutely no importance, but I knew better.
+
+  Chapter: CHAPTER 11 (Chapter 11)
+  Position in Chapter: 60.38%
+  Scene Sentence: I will disturb you no longer."
+
+  Chapter: CHAPTER 11 (Chapter 11)
+  Position in Chapter: 63.77%
+  Scene Sentence: He listened with what seemed to be close interest.
+
+  Chapter: CHAPTER 11 (Chapter 11)
+  Position in Chapter: 64.19%
+  Scene Sentence: "Very excellent, very searching, Hastings," said Poirot, as he
+
+inserted his key in the door and preceded me up the stairs. "
+
+  Chapter: CHAPTER 11 (Chapter 11)
+  Position in Chapter: 66.10%
+  Scene Sentence: No traces of poison had been found, and there was nothing to
+
+show how the man came by his death.
+
+  Chapter: CHAPTER 11 (Chapter 11)
+  Position in Chapter: 66.95%
+  Scene Sentence: Mon ami_,
+
+when you do that successfully, you do not call it guessing."
+
+  Chapter: CHAPTER 11 (Chapter 11)
+  Position in Chapter: 68.01%
+  Scene Sentence: Poirot put his hand into his pocket and pulled out--a white bishop.
+
+  Chapter: CHAPTER 11 (Chapter 11)
+  Position in Chapter: 68.86%
+  Scene Sentence: I took its fellow from the box of chessmen Mademoiselle
+
+Daviloff kindly permitted me to examine.
+
+  Chapter: CHAPTER 11 (Chapter 11)
+  Position in Chapter: 69.28%
+  Scene Sentence: He sounded the final "s" with a great hiss.
+
+  Chapter: CHAPTER 11 (Chapter 11)
+  Position in Chapter: 71.40%
+  Scene Sentence: With infinite care he weighed the two chessmen, then turned to me with
+
+a face alight with triumph.
+
+  Chapter: CHAPTER 11 (Chapter 11)
+  Position in Chapter: 73.73%
+  Scene Sentence: Yes, yes, it is as I say."
+
+  Chapter: CHAPTER 11 (Chapter 11)
+  Position in Chapter: 75.00%
+  Scene Sentence: The table was prepared beforehand and set upon a
+
+certain spot on the floor.
+
+  Chapter: CHAPTER 11 (Chapter 11)
+  Position in Chapter: 75.21%
+  Scene Sentence: When the bishop was placed upon one of the
+
+silver squares, the current passed through Wilson's body, killing him
+
+instantly.
+
+  Chapter: CHAPTER 11 (Chapter 11)
+  Position in Chapter: 75.42%
+  Scene Sentence: The only mark was the electric burn upon his hand--his left
+
+hand, because he was left-handed.
+
+  Chapter: CHAPTER 11 (Chapter 11)
+  Position in Chapter: 75.85%
+  Scene Sentence: The table I examined was a duplicate,
+
+perfectly innocent.
+
+  Chapter: CHAPTER 11 (Chapter 11)
+  Position in Chapter: 76.06%
+  Scene Sentence: It was substituted for the other immediately
+
+after the murder.
+
+  Chapter: CHAPTER 11 (Chapter 11)
+  Position in Chapter: 80.08%
+  Scene Sentence: It took me some time to ferret it out, but I found it at last, and
+
+brought it to Poirot, who sank down in a chair and started reading it
+
+with the greatest attention.
+
+  Chapter: CHAPTER 11 (Chapter 11)
+  Position in Chapter: 82.63%
+  Scene Sentence: "Listen to this, my friend.
+
+  Chapter: CHAPTER 11 (Chapter 11)
+  Position in Chapter: 83.26%
+  Scene Sentence: Then there comes a question as to
+
+Black's best third move.
+
+  Chapter: CHAPTER 11 (Chapter 11)
+  Position in Chapter: 83.69%
+  Scene Sentence: It was
+
+White's third move that killed Gilmour Wilson, 3B-Kt5.
+
+  Chapter: CHAPTER 11 (Chapter 11)
+  Position in Chapter: 85.17%
+  Scene Sentence: But if you assumed the wrong one, presently some little discrepancy
+
+would creep in and show you that you were on the wrong track."
+
+  Chapter: CHAPTER 11 (Chapter 11)
+  Position in Chapter: 85.81%
+  Scene Sentence: "It means that I have been a triple imbecile.
+
+  Chapter: CHAPTER 11 (Chapter 11)
+  Position in Chapter: 89.19%
+  Scene Sentence: "It means that before two equal deductions I chose the wrong one.
+
+  Chapter: CHAPTER 11 (Chapter 11)
+  Position in Chapter: 90.47%
+  Scene Sentence: "Savaronoff _did_ die at the outbreak of the Revolution.
+
+  Chapter: CHAPTER 11 (Chapter 11)
+  Position in Chapter: 90.68%
+  Scene Sentence: The man
+
+who pretended to have escaped with such terrible hardships, the man so
+
+changed 'that his own friends could hardly recognise him,' the man who
+
+successfully laid claim to an enormous fortune--"
+
+
+
+"Yes.
+
+  Chapter: CHAPTER 11 (Chapter 11)
+  Position in Chapter: 91.31%
+  Scene Sentence: No wonder he was frightened when Sonia let him
+
+know she had overheard one of his private conversations about the 'Big
+
+Four.'
+
+  Chapter: CHAPTER 11 (Chapter 11)
+  Position in Chapter: 91.74%
+  Scene Sentence: He guessed I should
+
+get on the right track in the end, so he sent off the honest Ivan
+
+on a tortuous wild goose chase, chloroformed the girl, and got out,
+
+having by now doubtless realised most of the securities left by Madame
+
+Gospoja."
+
+  Chapter: CHAPTER 11 (Chapter 11)
+  Position in Chapter: 91.95%
+  Scene Sentence: "But--but who tried to kill him then?"
+
+  Chapter: CHAPTER 11 (Chapter 11)
+  Position in Chapter: 92.16%
+  Scene Sentence: "Nobody tried to kill _him_.
+
+  Chapter: CHAPTER 11 (Chapter 11)
+  Position in Chapter: 92.80%
+  Scene Sentence: "My friend, Savaronoff was the second greatest chess player in the
+
+world.
+
+  Chapter: CHAPTER 11 (Chapter 11)
+  Position in Chapter: 93.64%
+  Scene Sentence: When that failed, Wilson's
+
+doom was sealed.
+
+  Chapter: CHAPTER 11 (Chapter 11)
+  Position in Chapter: 93.86%
+  Scene Sentence: At all costs he must be prevented from discovering
+
+that the great Savaronoff did not even know how to play chess.
+
+  Chapter: CHAPTER 11 (Chapter 11)
+  Position in Chapter: 94.07%
+  Scene Sentence: Wilson
+
+was fond of the Ruy Lopez opening, and was certain to use it.
+
+  Chapter: CHAPTER 11 (Chapter 11)
+  Position in Chapter: 94.28%
+  Scene Sentence: Number
+
+Four arranged for death to come with the third move, before any
+
+complications of defence set in."
+
+  Chapter: CHAPTER 11 (Chapter 11)
+  Position in Chapter: 94.70%
+  Scene Sentence: I
+
+quite follow your reasoning, and admit that you must be right, but to
+
+kill a man just to sustain his rôle!
+
+  Chapter: CHAPTER 11 (Chapter 11)
+  Position in Chapter: 95.55%
+  Scene Sentence: "_Certainement_, Hastings," he said, "there were other ways, but
+
+none so convincing.
+
+  Chapter: CHAPTER 11 (Chapter 11)
+  Position in Chapter: 95.76%
+  Scene Sentence: Besides, you are assuming that to kill a man is a
+
+thing to avoid, are you not?
+
+  Chapter: CHAPTER 11 (Chapter 11)
+  Position in Chapter: 96.61%
+  Scene Sentence: He enjoys himself as the professor at that match.
+
+  Chapter: CHAPTER 11 (Chapter 11)
+  Position in Chapter: 97.03%
+  Scene Sentence: He sits and
+
+frowns in thought; he gives the impression that he is thinking great
+
+plans, and all the time he laughs in himself.
+
+  Chapter: CHAPTER 11 (Chapter 11)
+  Position in Chapter: 97.46%
+  Scene Sentence: Again,
+
+it would appeal to his mind to foresee the events and to make the man
+
+his own executioner at the exact time that suits Number Four.... Oh,
+
+yes, Hastings, I begin to understand our friend and his psychology."
+
+  Chapter: CHAPTER 11 (Chapter 11)
+  Position in Chapter: 98.94%
+  Scene Sentence: No; if Number Four had not made one small mistake
+
+he would have run no risk."
+
+  Chapter: CHAPTER 12 (Chapter 12)
+  Position in Chapter: 0.00%
+  Scene Sentence: CHAPTER 12
+ THE BAITED TRAP
+
+
+
+
+
+It was mid-January--a typical English winter day in London, damp and
+
+dirty.
+
+  Chapter: CHAPTER 12 (Chapter 12)
+  Position in Chapter: 0.84%
+  Scene Sentence: I was aware of my friend looking at me with a quizzical smile,
+
+the meaning of which I could not fathom.
+
+  Chapter: CHAPTER 12 (Chapter 12)
+  Position in Chapter: 1.69%
+  Scene Sentence: "I was thinking, my friend, that at midsummer, when you first arrived,
+
+you told me that you proposed to be in this country for a couple of
+
+months only."
+
+  Chapter: CHAPTER 12 (Chapter 12)
+  Position in Chapter: 5.91%
+  Scene Sentence: Poirot nodded gently.
+
+  Chapter: CHAPTER 12 (Chapter 12)
+  Position in Chapter: 6.75%
+  Scene Sentence: You are a staunch friend, Hastings.
+
+  Chapter: CHAPTER 12 (Chapter 12)
+  Position in Chapter: 8.86%
+  Scene Sentence: "Yes, yes, she, too, is a loyal friend.
+
+  Chapter: CHAPTER 12 (Chapter 12)
+  Position in Chapter: 10.97%
+  Scene Sentence: "Always so energetic, Hastings!
+
+  Chapter: CHAPTER 12 (Chapter 12)
+  Position in Chapter: 13.08%
+  Scene Sentence: "More than you think, my friend.
+
+  Chapter: CHAPTER 12 (Chapter 12)
+  Position in Chapter: 13.92%
+  Scene Sentence: I brightened up a little.
+
+  Chapter: CHAPTER 12 (Chapter 12)
+  Position in Chapter: 14.35%
+  Scene Sentence: As Poirot put it, things didn't sound so bad.
+
+  Chapter: CHAPTER 12 (Chapter 12)
+  Position in Chapter: 15.19%
+  Scene Sentence: Yes, Hastings, we have done a great deal.
+
+  Chapter: CHAPTER 12 (Chapter 12)
+  Position in Chapter: 18.57%
+  Scene Sentence: You may smile, Hastings--but to penetrate a man's personality, to
+
+know exactly what he will do under any given circumstances--that is
+
+the beginning of success.
+
+  Chapter: CHAPTER 12 (Chapter 12)
+  Position in Chapter: 19.83%
+  Scene Sentence: I
+
+tell you, Hastings, that every day they fear me the more for my chosen
+
+inactivity."
+
+  Chapter: CHAPTER 12 (Chapter 12)
+  Position in Chapter: 20.68%
+  Scene Sentence: There have been no more
+
+attempts on your life, and no ambushes of any kind."
+
+  Chapter: CHAPTER 12 (Chapter 12)
+  Position in Chapter: 24.05%
+  Scene Sentence: "But no!
+
+  Chapter: CHAPTER 12 (Chapter 12)
+  Position in Chapter: 24.89%
+  Scene Sentence: Well, well, I have need of
+
+some matches, I will promenade myself despite the weather.
+
+  Chapter: CHAPTER 12 (Chapter 12)
+  Position in Chapter: 25.74%
+  Scene Sentence: I laughed, and admitted that _The Clue of Crimson_ was at present
+
+engaging my sole attention.
+
+  Chapter: CHAPTER 12 (Chapter 12)
+  Position in Chapter: 26.16%
+  Scene Sentence: Poirot shook his head sadly.
+
+  Chapter: CHAPTER 12 (Chapter 12)
+  Position in Chapter: 29.96%
+  Scene Sentence: It was a cable from Bronsen, my manager out at the South American
+
+ranch, and it ran as follows:--
+
+
+
+    "Mrs. Hastings disappeared yesterday, feared been kidnapped by some
+
+    gang calling itself big four cable instructions have notified police
+
+    but no clue as yet."
+
+  Chapter: CHAPTER 12 (Chapter 12)
+  Position in Chapter: 40.51%
+  Scene Sentence: I saw only one thing--Cinderella in the power
+
+of those devils.
+
+  Chapter: CHAPTER 12 (Chapter 12)
+  Position in Chapter: 41.77%
+  Scene Sentence: It was a trap,
+
+yes, and it meant certain capture and possible death, but it was baited
+
+with the person dearest to me in the whole world, and I dared not
+
+hesitate.
+
+  Chapter: CHAPTER 12 (Chapter 12)
+  Position in Chapter: 43.46%
+  Scene Sentence: Apparently I was
+
+under no supervision, but yet I hesitated.
+
+  Chapter: CHAPTER 12 (Chapter 12)
+  Position in Chapter: 43.88%
+  Scene Sentence: It would have been so easy
+
+for the Chinaman to come up and assure himself that I was keeping to
+
+the letter of the command.
+
+  Chapter: CHAPTER 12 (Chapter 12)
+  Position in Chapter: 52.32%
+  Scene Sentence: I realised anew the excellence of their espionage system--or it might
+
+have been a shrewd guess.
+
+  Chapter: CHAPTER 12 (Chapter 12)
+  Position in Chapter: 58.65%
+  Scene Sentence: Could I not leave some sign which would mean nothing
+
+to my enemies but which Poirot himself would find significant.
+
+  Chapter: CHAPTER 12 (Chapter 12)
+  Position in Chapter: 59.49%
+  Scene Sentence: No fear of Poirot's not seeing them.
+
+  Chapter: CHAPTER 12 (Chapter 12)
+  Position in Chapter: 60.76%
+  Scene Sentence: I had done all I
+
+could--pray Heaven Poirot would read the sign aright.
+
+  Chapter: CHAPTER 12 (Chapter 12)
+  Position in Chapter: 63.71%
+  Scene Sentence: In spite of myself I shivered.
+
+  Chapter: CHAPTER 12 (Chapter 12)
+  Position in Chapter: 65.40%
+  Scene Sentence: I was indeed in the hands of the enemy.
+
+  Chapter: CHAPTER 12 (Chapter 12)
+  Position in Chapter: 69.62%
+  Scene Sentence: A low long subterranean chamber hung with rich oriental
+
+silks, brilliantly lighted and fragrant with perfumes and spices.
+
+  Chapter: CHAPTER 12 (Chapter 12)
+  Position in Chapter: 71.31%
+  Scene Sentence: "You have brought our honoured guest?"
+
+  Chapter: CHAPTER 12 (Chapter 12)
+  Position in Chapter: 72.57%
+  Scene Sentence: At the same moment, the curtains were drawn aside by an unseen hand,
+
+and I was facing an immense cushioned divan on which sat a tall thin
+
+Oriental dressed in wonderfully embroidered robes, and clearly, by the
+
+length of his finger nails, a great man.
+
+  Chapter: CHAPTER 12 (Chapter 12)
+  Position in Chapter: 73.00%
+  Scene Sentence: "Be seated, I pray you, Captain Hastings," he said, with a wave of his
+
+hand. "
+
+  Chapter: CHAPTER 12 (Chapter 12)
+  Position in Chapter: 73.42%
+  Scene Sentence: You acceded to my request to come immediately, I am glad to see."
+
+  Chapter: CHAPTER 12 (Chapter 12)
+  Position in Chapter: 81.01%
+  Scene Sentence: Not--pardon me--a very intelligent suggestion on your
+
+part.
+
+  Chapter: CHAPTER 12 (Chapter 12)
+  Position in Chapter: 82.28%
+  Scene Sentence: Well, you have succeeded.
+
+  Chapter: CHAPTER 12 (Chapter 12)
+  Position in Chapter: 84.39%
+  Scene Sentence: The smiling Oriental caressed his smooth cheek, watching me obliquely
+
+out of his narrow eyes.
+
+  Chapter: CHAPTER 12 (Chapter 12)
+  Position in Chapter: 86.08%
+  Scene Sentence: But through you, we hope to get hold of your friend, M.
+
+Hercule Poirot."
+
+  Chapter: CHAPTER 12 (Chapter 12)
+  Position in Chapter: 86.50%
+  Scene Sentence: "I'm afraid you won't do that," I said, with a short laugh.
+
+  Chapter: CHAPTER 12 (Chapter 12)
+  Position in Chapter: 87.76%
+  Scene Sentence: "I shall do no such thing," I said angrily.
+
+  Chapter: CHAPTER 12 (Chapter 12)
+  Position in Chapter: 89.87%
+  Scene Sentence: "It's no good threatening me, and bullying me.
+
+  Chapter: CHAPTER 12 (Chapter 12)
+  Position in Chapter: 91.56%
+  Scene Sentence: "I will not, and what's more, you daren't kill me.
+
+  Chapter: CHAPTER 12 (Chapter 12)
+  Position in Chapter: 94.09%
+  Scene Sentence: But for the restraining hand of the
+
+other man I should have gone down the yawning gap beneath me.
+
+  Chapter: CHAPTER 12 (Chapter 12)
+  Position in Chapter: 95.78%
+  Scene Sentence: If you refuse again, you go headlong to
+
+eternity, to meet your death in the dark waters below.
+
+  Chapter: CHAPTER 12 (Chapter 12)
+  Position in Chapter: 97.05%
+  Scene Sentence: I admit frankly that I was scared to
+
+death, and in a blue funk.
+
+  Chapter: CHAPTER 12 (Chapter 12)
+  Position in Chapter: 97.47%
+  Scene Sentence: That Chinese devil meant business, I was
+
+sure of that.
+
+  Chapter: CHAPTER 12 (Chapter 12)
+  Position in Chapter: 98.31%
+  Scene Sentence: In spite of
+
+myself, my voice wobbled a little as I answered.
+
+  Chapter: CHAPTER 12 (Chapter 12)
+  Position in Chapter: 99.16%
+  Scene Sentence: To hell with your letter!"
+
+  Chapter: CHAPTER 13 (Chapter 13)
+  Position in Chapter: 0.00%
+  Scene Sentence: CHAPTER 13
+ THE MOUSE WALKS IN
+
+
+
+
+
+Not often in a life-time does a man stand on the edge of eternity,
+
+but when I spoke those words in that East End cellar I was perfectly
+
+certain that they were my last words on earth.
+
+  Chapter: CHAPTER 13 (Chapter 13)
+  Position in Chapter: 0.41%
+  Scene Sentence: I braced myself for
+
+the shock of those black, rushing waters beneath, and experienced in
+
+advance the horror of that breath-choking fall.
+
+  Chapter: CHAPTER 13 (Chapter 13)
+  Position in Chapter: 0.82%
+  Scene Sentence: But to my surprise a low laugh fell on my ears.
+
+  Chapter: CHAPTER 13 (Chapter 13)
+  Position in Chapter: 2.06%
+  Scene Sentence: "You are a brave man, Captain Hastings," he said. "
+
+  Chapter: CHAPTER 13 (Chapter 13)
+  Position in Chapter: 2.47%
+  Scene Sentence: We of the East
+
+appreciate bravery.
+
+  Chapter: CHAPTER 13 (Chapter 13)
+  Position in Chapter: 3.70%
+  Scene Sentence: Death for yourself you have faced--will you face death for another?"
+
+  Chapter: CHAPTER 13 (Chapter 13)
+  Position in Chapter: 4.53%
+  Scene Sentence: I asked hoarsely, a horrible fear creeping over me.
+
+  Chapter: CHAPTER 13 (Chapter 13)
+  Position in Chapter: 4.94%
+  Scene Sentence: "Surely you have not forgotten the lady who is in our power--the Rose
+
+of the Garden."
+
+  Chapter: CHAPTER 13 (Chapter 13)
+  Position in Chapter: 5.35%
+  Scene Sentence: I stared at him in dumb agony.
+
+  Chapter: CHAPTER 13 (Chapter 13)
+  Position in Chapter: 6.58%
+  Scene Sentence: The message I shall write on it depends on you,
+
+and means life or death for your wife."
+
+  Chapter: CHAPTER 13 (Chapter 13)
+  Position in Chapter: 7.41%
+  Scene Sentence: My tormentor continued, smiling
+
+amiably, and speaking with perfect sangfroid:--
+
+
+
+"There, captain, the pen is ready to your hand.
+
+  Chapter: CHAPTER 13 (Chapter 13)
+  Position in Chapter: 9.05%
+  Scene Sentence: "If not, that lady that you love dies--and dies slowly.
+
+  Chapter: CHAPTER 13 (Chapter 13)
+  Position in Chapter: 13.58%
+  Scene Sentence: "Your wife goes free.
+
+  Chapter: CHAPTER 13 (Chapter 13)
+  Position in Chapter: 18.93%
+  Scene Sentence: I was betraying my friend--to what?
+
+  Chapter: CHAPTER 13 (Chapter 13)
+  Position in Chapter: 19.75%
+  Scene Sentence: Cinderella--in the hands of these Chinese devils, dying by
+
+slow torture--
+
+
+
+A groan rose to my lips.
+
+  Chapter: CHAPTER 13 (Chapter 13)
+  Position in Chapter: 20.58%
+  Scene Sentence: Perhaps by careful wording
+
+of the letter, I could convey a warning, and Poirot would be enabled to
+
+avoid the trap.
+
+  Chapter: CHAPTER 13 (Chapter 13)
+  Position in Chapter: 21.40%
+  Scene Sentence: But even that hope was not to remain.
+
+  Chapter: CHAPTER 13 (Chapter 13)
+  Position in Chapter: 21.81%
+  Scene Sentence: The Chinaman's voice rose, suave
+
+and courteous.
+
+  Chapter: CHAPTER 13 (Chapter 13)
+  Position in Chapter: 23.46%
+  Scene Sentence: Luckily I saw through his little game in time, and gave him the
+
+    slip.
+
+  Chapter: CHAPTER 13 (Chapter 13)
+  Position in Chapter: 25.10%
+  Scene Sentence: That's what I promised him if it was
+
+    delivered safely.
+
+  Chapter: CHAPTER 13 (Chapter 13)
+  Position in Chapter: 26.34%
+  Scene Sentence: It's too good
+
+    a chance to miss, and, of course, the boy mightn't find you.
+
+  Chapter: CHAPTER 13 (Chapter 13)
+  Position in Chapter: 27.16%
+  Scene Sentence: And cover
+
+    up those precious moustaches of yours in case any one's watching
+
+    out from the house and might recognise you.
+
+  Chapter: CHAPTER 13 (Chapter 13)
+  Position in Chapter: 27.98%
+  Scene Sentence: The thing was
+
+diabolically clever.
+
+  Chapter: CHAPTER 13 (Chapter 13)
+  Position in Chapter: 29.22%
+  Scene Sentence: The acknowledgment that the Chinaman who had called that
+
+afternoon had endeavoured to "lure me away" discounted any good I might
+
+have done by leaving my "sign" of four books.
+
+  Chapter: CHAPTER 13 (Chapter 13)
+  Position in Chapter: 30.04%
+  Scene Sentence: The
+
+time, too, was cleverly planned.
+
+  Chapter: CHAPTER 13 (Chapter 13)
+  Position in Chapter: 31.28%
+  Scene Sentence: He always displayed a ridiculous distrust
+
+of my capacities.
+
+  Chapter: CHAPTER 13 (Chapter 13)
+  Position in Chapter: 34.57%
+  Scene Sentence: I gave a sigh of relief.
+
+  Chapter: CHAPTER 13 (Chapter 13)
+  Position in Chapter: 35.80%
+  Scene Sentence: He smiled, and shook his head.
+
+  Chapter: CHAPTER 13 (Chapter 13)
+  Position in Chapter: 37.04%
+  Scene Sentence: "But you promised--"
+
+
+
+"If this device fails, I may have need of our white bird--to persuade
+
+you to further efforts."
+
+  Chapter: CHAPTER 13 (Chapter 13)
+  Position in Chapter: 37.45%
+  Scene Sentence: I grew white with anger.
+
+  Chapter: CHAPTER 13 (Chapter 13)
+  Position in Chapter: 38.27%
+  Scene Sentence: If you--"
+
+
+
+He waved a long slim yellow hand.
+
+  Chapter: CHAPTER 13 (Chapter 13)
+  Position in Chapter: 39.92%
+  Scene Sentence: "I have sworn it by my honoured ancestors.
+
+  Chapter: CHAPTER 13 (Chapter 13)
+  Position in Chapter: 40.33%
+  Scene Sentence: Have no fear.
+
+  Chapter: CHAPTER 13 (Chapter 13)
+  Position in Chapter: 45.27%
+  Scene Sentence: "It is well," said my Chinese friend. "
+
+  Chapter: CHAPTER 13 (Chapter 13)
+  Position in Chapter: 45.68%
+  Scene Sentence: Hercule Poirot has fallen into
+
+the trap.
+
+  Chapter: CHAPTER 13 (Chapter 13)
+  Position in Chapter: 48.97%
+  Scene Sentence: Remember the price of failure.
+
+  Chapter: CHAPTER 13 (Chapter 13)
+  Position in Chapter: 51.44%
+  Scene Sentence: But there was no mistaking that walk, and the poise
+
+of that egg-shaped head.
+
+  Chapter: CHAPTER 13 (Chapter 13)
+  Position in Chapter: 51.85%
+  Scene Sentence: It was Poirot, coming to my aid in all good faith, suspecting nothing
+
+amiss.
+
+  Chapter: CHAPTER 13 (Chapter 13)
+  Position in Chapter: 54.32%
+  Scene Sentence: "Remember the price of failure," said my enemy in a low voice.
+
+  Chapter: CHAPTER 13 (Chapter 13)
+  Position in Chapter: 56.38%
+  Scene Sentence: So all is well with you, my friend.
+
+  Chapter: CHAPTER 13 (Chapter 13)
+  Position in Chapter: 59.67%
+  Scene Sentence: In all innocence Poirot prepared
+
+to follow me.
+
+  Chapter: CHAPTER 13 (Chapter 13)
+  Position in Chapter: 64.20%
+  Scene Sentence: I saw the latter spring back, his arm raised, then suddenly a dense
+
+volume of smoke was rising round me, choking me--killing me--
+
+
+
+I felt myself falling--suffocating--this was death--
+
+
+
+       *       *       *       *       *
+
+
+
+I came to myself slowly and painfully--all my senses dazed.
+
+  Chapter: CHAPTER 13 (Chapter 13)
+  Position in Chapter: 66.67%
+  Scene Sentence: My friend--my
+
+poor friend!"
+
+  Chapter: CHAPTER 13 (Chapter 13)
+  Position in Chapter: 67.49%
+  Scene Sentence: I said painfully.
+
+  Chapter: CHAPTER 13 (Chapter 13)
+  Position in Chapter: 70.37%
+  Scene Sentence: "But yes, that was a famous idea of yours--that and the books.
+
+  Chapter: CHAPTER 13 (Chapter 13)
+  Position in Chapter: 72.02%
+  Scene Sentence: It was an idea magnificent and superb that
+
+occurred to you there."
+
+  Chapter: CHAPTER 13 (Chapter 13)
+  Position in Chapter: 72.84%
+  Scene Sentence: "Am I an imbecile?
+
+  Chapter: CHAPTER 13 (Chapter 13)
+  Position in Chapter: 74.90%
+  Scene Sentence: Clearly not for your
+
+_beaux yeux_--equally clearly not because they feared you and
+
+wanted to get you out of the way.
+
+  Chapter: CHAPTER 13 (Chapter 13)
+  Position in Chapter: 75.72%
+  Scene Sentence: You would
+
+be used as a decoy to get the great Hercule Poirot into their clutches.
+
+  Chapter: CHAPTER 13 (Chapter 13)
+  Position in Chapter: 76.13%
+  Scene Sentence: I have long been prepared for something of the kind.
+
+  Chapter: CHAPTER 13 (Chapter 13)
+  Position in Chapter: 76.54%
+  Scene Sentence: I make my little
+
+preparations, and presently, sure enough, the messenger arrives--such
+
+an innocent little street urchin.
+
+  Chapter: CHAPTER 13 (Chapter 13)
+  Position in Chapter: 80.66%
+  Scene Sentence: Not so long ago, I rendered a
+
+service to a very famous chemist, who did a lot of work in connection
+
+with poison gas during the war.
+
+  Chapter: CHAPTER 13 (Chapter 13)
+  Position in Chapter: 81.48%
+  Scene Sentence: Immediately I blow a little
+
+whistle and straightway some of Japp's clever fellows who were watching
+
+the house here long before the boy arrived, and who managed to follow
+
+us all the way to Limehouse, came flying up and took charge of the
+
+situation."
+
+  Chapter: CHAPTER 13 (Chapter 13)
+  Position in Chapter: 82.30%
+  Scene Sentence: "Another piece of luck.
+
+  Chapter: CHAPTER 13 (Chapter 13)
+  Position in Chapter: 82.72%
+  Scene Sentence: Our friend Number Four (who certainly
+
+composed that ingenious letter) permitted himself a little jest at
+
+my moustaches, which rendered it extremely easy for me to adjust my
+
+respirator under the guise of a yellow muffler."
+
+  Chapter: CHAPTER 13 (Chapter 13)
+  Position in Chapter: 83.13%
+  Scene Sentence: "I remember," I cried eagerly, and then with the word "Remember" all
+
+the ghastly horror that I had temporarily forgotten came back to me.
+
+  Chapter: CHAPTER 13 (Chapter 13)
+  Position in Chapter: 86.42%
+  Scene Sentence: Poirot uttered a
+
+cry.
+
+  Chapter: CHAPTER 13 (Chapter 13)
+  Position in Chapter: 86.83%
+  Scene Sentence: "My friend!
+
+  Chapter: CHAPTER 13 (Chapter 13)
+  Position in Chapter: 87.24%
+  Scene Sentence: My friend!
+
+  Chapter: CHAPTER 13 (Chapter 13)
+  Position in Chapter: 87.65%
+  Scene Sentence: But what you must have suffered!
+
+  Chapter: CHAPTER 13 (Chapter 13)
+  Position in Chapter: 88.48%
+  Scene Sentence: But reassure yourself!
+
+  Chapter: CHAPTER 13 (Chapter 13)
+  Position in Chapter: 90.95%
+  Scene Sentence: She is safe and well.
+
+  Chapter: CHAPTER 13 (Chapter 13)
+  Position in Chapter: 93.00%
+  Scene Sentence: Tell me, has it never
+
+occurred to you that an organisation of this kind, with ramifications
+
+all over the world, might easily strike at us through that little girl,
+
+Cinderella, whom you love so well?"
+
+  Chapter: CHAPTER 13 (Chapter 13)
+  Position in Chapter: 94.65%
+  Scene Sentence: Your wife's
+
+letters all seem to have been written from the ranch, but in reality
+
+she has been in a place of safety devised by me for over three months."
+
+  Chapter: CHAPTER 13 (Chapter 13)
+  Position in Chapter: 96.71%
+  Scene Sentence: They tortured you with a lie!"
+
+  Chapter: CHAPTER 13 (Chapter 13)
+  Position in Chapter: 97.53%
+  Scene Sentence: Poirot put his hand on my shoulder.
+
+  Chapter: CHAPTER 13 (Chapter 13)
+  Position in Chapter: 99.59%
+  Scene Sentence: Only this--that in this last adventure of ours, the honours are all
+
+with you, and happy is the man who has such a friend as I have!"
+
+  Chapter: CHAPTER 14 (Chapter 14)
+  Position in Chapter: 0.00%
+  Scene Sentence: CHAPTER 14
+ THE PEROXIDE BLONDE
+
+
+
+
+
+I was very disappointed with the results of Poirot's bomb attack on
+
+the premises in Chinatown.
+
+  Chapter: CHAPTER 14 (Chapter 14)
+  Position in Chapter: 0.48%
+  Scene Sentence: When Japp's men rushed up in response to Poirot's whistle
+
+they found four Chinamen unconscious in the hall, but the man who had
+
+threatened me with death was not among them.
+
+  Chapter: CHAPTER 14 (Chapter 14)
+  Position in Chapter: 0.95%
+  Scene Sentence: Presumably he was out
+
+of the danger zone of the gas bomb, and made good his escape by one of
+
+the many exits which we afterwards discovered.
+
+  Chapter: CHAPTER 14 (Chapter 14)
+  Position in Chapter: 1.43%
+  Scene Sentence: The fullest
+
+investigation by the police failed to bring to light anything to
+
+connect them with the Big Four.
+
+  Chapter: CHAPTER 14 (Chapter 14)
+  Position in Chapter: 2.14%
+  Scene Sentence: By the next day I had, except for a slight headache, completely
+
+recovered from the effects of Poirot's gas bomb.
+
+  Chapter: CHAPTER 14 (Chapter 14)
+  Position in Chapter: 2.86%
+  Scene Sentence: The ground floors and the upper stories of each
+
+were unfurnished and deserted, the broken windows covered by decaying
+
+shutters.
+
+  Chapter: CHAPTER 14 (Chapter 14)
+  Position in Chapter: 3.10%
+  Scene Sentence: Japp had already been prying about in the cellars, and had
+
+discovered the secret of the entrance to the subterranean chamber
+
+where I had spent such an unpleasant half-hour.
+
+  Chapter: CHAPTER 14 (Chapter 14)
+  Position in Chapter: 3.81%
+  Scene Sentence: Although I know very little about Chinese art, I
+
+could appreciate that every article in the room was perfect of its kind.
+
+  Chapter: CHAPTER 14 (Chapter 14)
+  Position in Chapter: 4.29%
+  Scene Sentence: I had cherished high hopes that we would
+
+find documents of importance.
+
+  Chapter: CHAPTER 14 (Chapter 14)
+  Position in Chapter: 4.52%
+  Scene Sentence: A list, perhaps, of some of the more
+
+important agents of the Big Four, or cipher notes of some of their
+
+plans, but we discovered nothing of the kind.
+
+  Chapter: CHAPTER 14 (Chapter 14)
+  Position in Chapter: 5.24%
+  Scene Sentence: Poirot was most childishly delighted with this discovery.
+
+  Chapter: CHAPTER 14 (Chapter 14)
+  Position in Chapter: 5.71%
+  Scene Sentence: I
+
+pointed this out to my friend when we were back in our rooms.
+
+  Chapter: CHAPTER 14 (Chapter 14)
+  Position in Chapter: 6.19%
+  Scene Sentence: He
+
+appears to have a grossly exaggerated idea of your brain power, and to
+
+have absurdly underrated mine, but I do not see how we are better off
+
+for knowing this."
+
+  Chapter: CHAPTER 14 (Chapter 14)
+  Position in Chapter: 6.90%
+  Scene Sentence: But surely now we can prepare ourselves
+
+for some of their methods of attack now that we are warned of some
+
+of our faults.
+
+  Chapter: CHAPTER 14 (Chapter 14)
+  Position in Chapter: 7.14%
+  Scene Sentence: For instance my friend, we know that you should think
+
+before you act.
+
+  Chapter: CHAPTER 14 (Chapter 14)
+  Position in Chapter: 7.62%
+  Scene Sentence: Their notes had contained some absurd references to my supposed
+
+impulsiveness, and had suggested that I was susceptible to the charms
+
+of young women with hair of a certain shade.
+
+  Chapter: CHAPTER 14 (Chapter 14)
+  Position in Chapter: 10.00%
+  Scene Sentence: This last was a favourite axiom of his lately; so much so that I had
+
+begun to hate the sound of it.
+
+  Chapter: CHAPTER 14 (Chapter 14)
+  Position in Chapter: 11.90%
+  Scene Sentence: With Number One we have
+
+never come into personal contact--we know him, as it were, only by
+
+the impress of his mind--and in passing, Hastings, I will tell you
+
+that I begin to understand that mind very well--a mind most subtle and
+
+Oriental--every scheme and plot that we have encountered have emanated
+
+from the brain of Li Chang Yen.
+
+  Chapter: CHAPTER 14 (Chapter 14)
+  Position in Chapter: 12.14%
+  Scene Sentence: Number Two and Number Three are so
+
+powerful, so high up, that they are for the present immune from our
+
+attacks.
+
+  Chapter: CHAPTER 14 (Chapter 14)
+  Position in Chapter: 12.38%
+  Scene Sentence: Nevertheless what is their safeguard is, by a perverse chance,
+
+our safeguard also.
+
+  Chapter: CHAPTER 14 (Chapter 14)
+  Position in Chapter: 13.33%
+  Scene Sentence: "Number Two and Number Three are able to succeed, to go on their
+
+way unscathed, owing to their notoriety and their assured position.
+
+  Chapter: CHAPTER 14 (Chapter 14)
+  Position in Chapter: 13.57%
+  Scene Sentence: Number Four succeeds for the opposite reason--he succeeds by the way
+
+of obscurity.
+
+  Chapter: CHAPTER 14 (Chapter 14)
+  Position in Chapter: 15.24%
+  Scene Sentence: And could either of us say truthfully that we could be sure
+
+of recognising him again?"
+
+  Chapter: CHAPTER 14 (Chapter 14)
+  Position in Chapter: 15.48%
+  Scene Sentence: I was forced to shake my head, as I ran back in my mind over those
+
+five different people who, incredible as it seemed, were one and the
+
+same man.
+
+  Chapter: CHAPTER 14 (Chapter 14)
+  Position in Chapter: 15.71%
+  Scene Sentence: The burly lunatic asylum keeper, the man in the buttoned up
+
+overcoat in Paris, James, the footman, the quiet young medical man in
+
+the Yellow Jasmine case, and the Russian Professor.
+
+  Chapter: CHAPTER 14 (Chapter 14)
+  Position in Chapter: 16.19%
+  Scene Sentence: "No," I said hopelessly. "
+
+  Chapter: CHAPTER 14 (Chapter 14)
+  Position in Chapter: 16.67%
+  Scene Sentence: Poirot smiled.
+
+  Chapter: CHAPTER 14 (Chapter 14)
+  Position in Chapter: 18.81%
+  Scene Sentence: Additions can be built on to a nose by skilful make up, but a large
+
+nose cannot be successfully reduced at a moment's notice.
+
+  Chapter: CHAPTER 14 (Chapter 14)
+  Position in Chapter: 20.24%
+  Scene Sentence: As the keeper, his teeth were broken and
+
+discoloured, in Paris they were even and white, as the doctor they
+
+protruded slightly, and as Savaronoff they had unusually long canines.
+
+  Chapter: CHAPTER 14 (Chapter 14)
+  Position in Chapter: 22.14%
+  Scene Sentence: "Rather a sweeping statement, Hastings, and one which would hardly be
+
+appreciated by the theatrical world.
+
+  Chapter: CHAPTER 14 (Chapter 14)
+  Position in Chapter: 22.86%
+  Scene Sentence: "But certainly.
+
+  Chapter: CHAPTER 14 (Chapter 14)
+  Position in Chapter: 24.52%
+  Scene Sentence: He is a supreme
+
+artist in the way he sinks himself in each part he plays."
+
+  Chapter: CHAPTER 14 (Chapter 14)
+  Position in Chapter: 24.76%
+  Scene Sentence: I was growing interested.
+
+  Chapter: CHAPTER 14 (Chapter 14)
+  Position in Chapter: 25.24%
+  Scene Sentence: "Your reasoning is always brilliant, Hastings."
+
+  Chapter: CHAPTER 14 (Chapter 14)
+  Position in Chapter: 25.71%
+  Scene Sentence: We have wasted a lot of time."
+
+  Chapter: CHAPTER 14 (Chapter 14)
+  Position in Chapter: 26.19%
+  Scene Sentence: No more time has been wasted
+
+than was unavoidable.
+
+  Chapter: CHAPTER 14 (Chapter 14)
+  Position in Chapter: 27.14%
+  Scene Sentence: They have compiled a list for me of men fulfilling the necessary
+
+qualifications--young men round about the age of thirty, of more or
+
+less nondescript appearance, and with a gift for playing character
+
+parts--men, moreover, who have definitely left the stage within the
+
+last three years."
+
+  Chapter: CHAPTER 14 (Chapter 14)
+  Position in Chapter: 29.76%
+  Scene Sentence: Always had a kink of
+
+some kind in his moral make-up.
+
+  Chapter: CHAPTER 14 (Chapter 14)
+  Position in Chapter: 31.90%
+  Scene Sentence: clean-shaven,
+
+hair brown, nose straight, complexion fair, eyes gray.
+
+  Chapter: CHAPTER 14 (Chapter 14)
+  Position in Chapter: 36.67%
+  Scene Sentence: Had bad nervous
+
+breakdown as the result of a motor accident three and a half years
+
+ago, and has not appeared on the stage since.
+
+  Chapter: CHAPTER 14 (Chapter 14)
+  Position in Chapter: 38.57%
+  Scene Sentence: Played at music halls, and also in Repertory plays.
+
+  Chapter: CHAPTER 14 (Chapter 14)
+  Position in Chapter: 42.38%
+  Scene Sentence: I would just
+
+point out to you that Claud Darrell has been in China and America--a
+
+fact not without significance, perhaps, but we must not allow ourselves
+
+to be unduly biased by that point.
+
+  Chapter: CHAPTER 14 (Chapter 14)
+  Position in Chapter: 43.81%
+  Scene Sentence: Friends and relatives of one or the other
+
+will be asked to communicate with my solicitor at his office.
+
+  Chapter: CHAPTER 14 (Chapter 14)
+  Position in Chapter: 44.29%
+  Scene Sentence: Probably it is, as usual, the
+
+wrong number, and they will regret to have troubled us, but it may
+
+be--yes, it may be--that something has arisen."
+
+  Chapter: CHAPTER 14 (Chapter 14)
+  Position in Chapter: 46.43%
+  Scene Sentence: I replaced the receiver and turned to Poirot, my eyes dancing with
+
+excitement.
+
+  Chapter: CHAPTER 14 (Chapter 14)
+  Position in Chapter: 46.90%
+  Scene Sentence: Friend of Claud Darrell's.
+
+  Chapter: CHAPTER 14 (Chapter 14)
+  Position in Chapter: 48.57%
+  Scene Sentence: Her
+
+hair was of an impossible yellow, and was prolific in curls over each
+
+ear, her eyelids were heavily blackened, and she had by no means
+
+forgotten the rouge and the lip salve.
+
+  Chapter: CHAPTER 14 (Chapter 14)
+  Position in Chapter: 49.29%
+  Scene Sentence: M. Poirot, this is
+
+Miss--er---Monro, who has very kindly called to give us some
+
+information."
+
+  Chapter: CHAPTER 14 (Chapter 14)
+  Position in Chapter: 50.00%
+  Scene Sentence: He came forward with great empressement, and shook the lady warmly by
+
+the hand.
+
+  Chapter: CHAPTER 14 (Chapter 14)
+  Position in Chapter: 52.38%
+  Scene Sentence: The whole affair, as Poirot would have said, was marching splendidly.
+
+  Chapter: CHAPTER 14 (Chapter 14)
+  Position in Chapter: 54.76%
+  Scene Sentence: Mademoiselle will perhaps
+
+honour me by coming out to luncheon with me?"
+
+  Chapter: CHAPTER 14 (Chapter 14)
+  Position in Chapter: 55.71%
+  Scene Sentence: Once arrived there, Poirot ordered a most
+
+delectable lunch, and then turned to his guest.
+
+  Chapter: CHAPTER 14 (Chapter 14)
+  Position in Chapter: 56.67%
+  Scene Sentence: The meal started pleasantly.
+
+  Chapter: CHAPTER 14 (Chapter 14)
+  Position in Chapter: 57.14%
+  Scene Sentence: "The poor Mr. Darrell.
+
+  Chapter: CHAPTER 14 (Chapter 14)
+  Position in Chapter: 57.86%
+  Scene Sentence: Poor boy, I do wonder what's become
+
+of him."
+
+  Chapter: CHAPTER 14 (Chapter 14)
+  Position in Chapter: 58.33%
+  Scene Sentence: "Oh, simply ages--not since the war.
+
+  Chapter: CHAPTER 14 (Chapter 14)
+  Position in Chapter: 62.38%
+  Scene Sentence: And I've still a kindly feeling for him.
+
+  Chapter: CHAPTER 14 (Chapter 14)
+  Position in Chapter: 62.62%
+  Scene Sentence: Though,
+
+mind you, he didn't treat me well--no, he didn't--he didn't treat me
+
+well at all.
+
+  Chapter: CHAPTER 14 (Chapter 14)
+  Position in Chapter: 64.05%
+  Scene Sentence: Neither tall nor short, you know, but quite well set up.
+
+  Chapter: CHAPTER 14 (Chapter 14)
+  Position in Chapter: 65.71%
+  Scene Sentence: Ah, Mr. Poirot, jealousy--you wouldn't believe it,
+
+you really wouldn't, what we artists have to suffer through jealousy.
+
+  Chapter: CHAPTER 14 (Chapter 14)
+  Position in Chapter: 66.19%
+  Scene Sentence: Then Poirot led her gently back to the subject of Claud Darrell.
+
+  Chapter: CHAPTER 14 (Chapter 14)
+  Position in Chapter: 66.67%
+  Scene Sentence: Women are such wonderful
+
+observers--they see everything, they notice the little detail that
+
+escapes the mere man.
+
+  Chapter: CHAPTER 14 (Chapter 14)
+  Position in Chapter: 67.14%
+  Scene Sentence: She had observed that he had a
+
+trick of stroking his nose when he was agitated.
+
+  Chapter: CHAPTER 14 (Chapter 14)
+  Position in Chapter: 67.86%
+  Scene Sentence: cried Miss Monro. "
+
+  Chapter: CHAPTER 14 (Chapter 14)
+  Position in Chapter: 70.71%
+  Scene Sentence: I never said a word--but many's the time I smiled to myself.
+
+  Chapter: CHAPTER 14 (Chapter 14)
+  Position in Chapter: 71.19%
+  Scene Sentence: Poirot nodded gently.
+
+  Chapter: CHAPTER 14 (Chapter 14)
+  Position in Chapter: 72.14%
+  Scene Sentence: Flossie Monro shook her head regretfully.
+
+  Chapter: CHAPTER 14 (Chapter 14)
+  Position in Chapter: 73.81%
+  Scene Sentence: Poirot almost sprang from his seat with excitement.
+
+  Chapter: CHAPTER 14 (Chapter 14)
+  Position in Chapter: 74.76%
+  Scene Sentence: Ah, _ma
+
+foi_, but what stupendous luck!
+
+  Chapter: CHAPTER 14 (Chapter 14)
+  Position in Chapter: 76.67%
+  Scene Sentence: Very glad to have met
+
+you and your friend, Mr. Poirot."
+
+  Chapter: CHAPTER 14 (Chapter 14)
+  Position in Chapter: 77.62%
+  Scene Sentence: I think I know where to lay my hand upon
+
+it.
+
+  Chapter: CHAPTER 14 (Chapter 14)
+  Position in Chapter: 81.67%
+  Scene Sentence: Oh, yes, it is
+
+a great chance, this which has come our way!
+
+  Chapter: CHAPTER 14 (Chapter 14)
+  Position in Chapter: 82.38%
+  Scene Sentence: His instructions were clear and definite.
+
+  Chapter: CHAPTER 14 (Chapter 14)
+  Position in Chapter: 84.05%
+  Scene Sentence: There is no doubt that we are watched, you and I, and since
+
+that is so, they will soon know with whom we were lunching to-day.
+
+  Chapter: CHAPTER 14 (Chapter 14)
+  Position in Chapter: 85.95%
+  Scene Sentence: Street accident.
+
+  Chapter: CHAPTER 14 (Chapter 14)
+  Position in Chapter: 88.33%
+  Scene Sentence: We asked for
+
+Miss Monro, and were taken immediately to the accident ward.
+
+  Chapter: CHAPTER 14 (Chapter 14)
+  Position in Chapter: 89.29%
+  Scene Sentence: "She died six minutes ago."
+
+  Chapter: CHAPTER 14 (Chapter 14)
+  Position in Chapter: 90.48%
+  Scene Sentence: Wicked, isn't it?
+
+  Chapter: CHAPTER 14 (Chapter 14)
+  Position in Chapter: 90.95%
+  Scene Sentence: "The stars fight against us," said Poirot, in a low voice.
+
+  Chapter: CHAPTER 14 (Chapter 14)
+  Position in Chapter: 91.67%
+  Scene Sentence: Poor Flossie Monro, with her rouge and her dyed hair.
+
+  Chapter: CHAPTER 14 (Chapter 14)
+  Position in Chapter: 91.90%
+  Scene Sentence: She lay there
+
+very peacefully, with a little smile on her lips.
+
+  Chapter: CHAPTER 14 (Chapter 14)
+  Position in Chapter: 94.29%
+  Scene Sentence: Poirot gave a suppressed cry as he read it over.
+
+  Chapter: CHAPTER 14 (Chapter 14)
+  Position in Chapter: 97.38%
+  Scene Sentence: Locks had been forced, and small tables had even been overthrown, so
+
+violent had been the searcher's haste.
+
+  Chapter: CHAPTER 14 (Chapter 14)
+  Position in Chapter: 97.86%
+  Scene Sentence: Suddenly he stood erect with
+
+a cry, holding out something.
+
+  Chapter: CHAPTER 15 (Chapter 15)
+  Position in Chapter: 0.00%
+  Scene Sentence: CHAPTER 15
+ THE TERRIBLE CATASTROPHE
+
+
+
+
+
+It was after the tragic death of Miss Flossie Monro that I began to
+
+be aware of a change in Poirot.
+
+  Chapter: CHAPTER 15 (Chapter 15)
+  Position in Chapter: 0.27%
+  Scene Sentence: Up to now, his invincible confidence
+
+in himself had stood the test.
+
+  Chapter: CHAPTER 15 (Chapter 15)
+  Position in Chapter: 2.19%
+  Scene Sentence: Once, purely by chance, I happened to see the entries in
+
+his pass-book--he had asked me to verify some small item--and I noticed
+
+the paying out of a huge sum--a huge sum even for Poirot who was
+
+coining money nowadays--to some Russian with apparently every letter of
+
+the alphabet in his name.
+
+  Chapter: CHAPTER 15 (Chapter 15)
+  Position in Chapter: 4.11%
+  Scene Sentence: "This morning, my friend, I should recommend the best suit.
+
+  Chapter: CHAPTER 15 (Chapter 15)
+  Position in Chapter: 4.93%
+  Scene Sentence: That is very exciting.
+
+  Chapter: CHAPTER 15 (Chapter 15)
+  Position in Chapter: 6.85%
+  Scene Sentence: The Right Honourable Sydney Crowther, His Majesty's Secretary of State
+
+for Home Affairs, was a well-known and popular figure.
+
+  Chapter: CHAPTER 15 (Chapter 15)
+  Position in Chapter: 7.12%
+  Scene Sentence: A man of some
+
+fifty years of age, with a quizzical expression and shrewd gray eyes,
+
+he received us with that delightful bonhomie of manner which was well
+
+known to be one of his principal assets.
+
+  Chapter: CHAPTER 15 (Chapter 15)
+  Position in Chapter: 8.49%
+  Scene Sentence: "I have indeed heard of M. Hercule Poirot," he said pleasantly. "
+
+  Chapter: CHAPTER 15 (Chapter 15)
+  Position in Chapter: 9.04%
+  Scene Sentence: "You are too amiable, monsieur," said Poirot, bowing, but his face
+
+flushed with pleasure.
+
+  Chapter: CHAPTER 15 (Chapter 15)
+  Position in Chapter: 10.14%
+  Scene Sentence: Poirot shook him warmly by the hand.
+
+  Chapter: CHAPTER 15 (Chapter 15)
+  Position in Chapter: 11.51%
+  Scene Sentence: There is in the world to-day a vast
+
+organisation--an organisation of crime.
+
+  Chapter: CHAPTER 15 (Chapter 15)
+  Position in Chapter: 12.33%
+  Scene Sentence: These four are banded together to destroy the existing social order,
+
+and to replace it with an anarchy in which they would reign as
+
+dictators."
+
+  Chapter: CHAPTER 15 (Chapter 15)
+  Position in Chapter: 12.88%
+  Scene Sentence: Ryland, mixed up with a thing of
+
+that kind?
+
+  Chapter: CHAPTER 15 (Chapter 15)
+  Position in Chapter: 13.97%
+  Scene Sentence: Familiar as I
+
+was with all the details, they thrilled me anew as I heard the bald
+
+recital of our adventures and escapes.
+
+  Chapter: CHAPTER 15 (Chapter 15)
+  Position in Chapter: 16.16%
+  Scene Sentence: I have been asked not
+
+to give them to the public even now, and so I refrain from doing so,
+
+but they included the extraordinary disasters to submarines which
+
+occurred in a certain month, and also a series of aeroplane accidents
+
+and forced landings.
+
+  Chapter: CHAPTER 15 (Chapter 15)
+  Position in Chapter: 17.81%
+  Scene Sentence: An honoured name.
+
+  Chapter: CHAPTER 15 (Chapter 15)
+  Position in Chapter: 18.36%
+  Scene Sentence: At the mention of the world-famous scientist, successor to the Curies,
+
+M. Desjardeaux positively bounded from his chair, his face purple with
+
+emotion.
+
+  Chapter: CHAPTER 15 (Chapter 15)
+  Position in Chapter: 19.45%
+  Scene Sentence: It is an insult what you say
+
+there!"
+
+  Chapter: CHAPTER 15 (Chapter 15)
+  Position in Chapter: 20.55%
+  Scene Sentence: "M. Poirot is a great man," he observed. "
+
+  Chapter: CHAPTER 15 (Chapter 15)
+  Position in Chapter: 20.82%
+  Scene Sentence: But even the great
+
+man--sometimes he has his little mania, does he not?
+
+  Chapter: CHAPTER 15 (Chapter 15)
+  Position in Chapter: 24.11%
+  Scene Sentence: Mr. Ingles," explained the Home
+
+Secretary, "is the greatest authority we have on the interior of China."
+
+  Chapter: CHAPTER 15 (Chapter 15)
+  Position in Chapter: 24.93%
+  Scene Sentence: Make no mistake, M. Desjardeaux, there is only one
+
+man in China who counts to-day--Li Chang Yen.
+
+  Chapter: CHAPTER 15 (Chapter 15)
+  Position in Chapter: 26.58%
+  Scene Sentence: She is
+
+a true daughter of France, and devoted solely to the cause of science."
+
+  Chapter: CHAPTER 15 (Chapter 15)
+  Position in Chapter: 27.12%
+  Scene Sentence: There was a minute or two's pause, and then my little friend rose to
+
+his feet, with an air of dignity that sat rather oddly upon his quaint
+
+personality.
+
+  Chapter: CHAPTER 15 (Chapter 15)
+  Position in Chapter: 28.22%
+  Scene Sentence: My words will sink in, and each fresh event that comes along
+
+will confirm your wavering faith.
+
+  Chapter: CHAPTER 15 (Chapter 15)
+  Position in Chapter: 29.59%
+  Scene Sentence: He will seek to destroy
+
+me at all costs--and not for nothing is he named 'The Destroyer.'
+
+  Chapter: CHAPTER 15 (Chapter 15)
+  Position in Chapter: 30.41%
+  Scene Sentence: I have got together all my notes on the case,
+
+and my ideas as to how best to meet the menace that any day may break
+
+upon the world, and have placed them in a certain safe deposit.
+
+  Chapter: CHAPTER 15 (Chapter 15)
+  Position in Chapter: 30.68%
+  Scene Sentence: In the
+
+event of my death, M. Crowther, I authorise you to take charge of those
+
+papers and make what use you can of them.
+
+  Chapter: CHAPTER 15 (Chapter 15)
+  Position in Chapter: 30.96%
+  Scene Sentence: And now, messieurs, I wish
+
+you good day."
+
+  Chapter: CHAPTER 15 (Chapter 15)
+  Position in Chapter: 31.23%
+  Scene Sentence: Desjardeaux merely bowed coldly, but Crowther sprang up and held out
+
+his hand.
+
+  Chapter: CHAPTER 15 (Chapter 15)
+  Position in Chapter: 31.78%
+  Scene Sentence: Fantastic as the whole thing seems,
+
+I believe utterly in the truth of what you have told us."
+
+  Chapter: CHAPTER 15 (Chapter 15)
+  Position in Chapter: 32.60%
+  Scene Sentence: I did not expect to convince Desjardeaux, but I have at least
+
+ensured that, if I die, my knowledge does not die with me.
+
+  Chapter: CHAPTER 15 (Chapter 15)
+  Position in Chapter: 35.07%
+  Scene Sentence: "Ah, you are a brave man!"
+
+  Chapter: CHAPTER 15 (Chapter 15)
+  Position in Chapter: 36.16%
+  Scene Sentence: "I don't suppose that I shall be in any more danger in China than you
+
+are in London," he growled.
+
+  Chapter: CHAPTER 15 (Chapter 15)
+  Position in Chapter: 36.44%
+  Scene Sentence: "That is possibly true enough," admitted Poirot. "
+
+  Chapter: CHAPTER 15 (Chapter 15)
+  Position in Chapter: 38.90%
+  Scene Sentence: Do you not know that all celebrated
+
+detectives have brothers who would be even more celebrated then they
+
+are were it not for constitutional indolence?"
+
+  Chapter: CHAPTER 15 (Chapter 15)
+  Position in Chapter: 39.18%
+  Scene Sentence: Poirot employs a peculiar manner sometimes which makes it wellnigh
+
+impossible to know whether he is jesting or in earnest.
+
+  Chapter: CHAPTER 15 (Chapter 15)
+  Position in Chapter: 41.92%
+  Scene Sentence: But his abilities are hardly less than my own--which is
+
+saying a great deal."
+
+  Chapter: CHAPTER 15 (Chapter 15)
+  Position in Chapter: 42.74%
+  Scene Sentence: But not nearly so handsome.
+
+  Chapter: CHAPTER 15 (Chapter 15)
+  Position in Chapter: 45.21%
+  Scene Sentence: But the Duchess's necklace was doomed to wait awhile.
+
+  Chapter: CHAPTER 15 (Chapter 15)
+  Position in Chapter: 46.58%
+  Scene Sentence: "You see, M. Poirot, I've never come across anything of the kind
+
+before.
+
+  Chapter: CHAPTER 15 (Chapter 15)
+  Position in Chapter: 47.40%
+  Scene Sentence: Quite a
+
+pleasant house, and quite pleasant people.
+
+  Chapter: CHAPTER 15 (Chapter 15)
+  Position in Chapter: 48.77%
+  Scene Sentence: At times there seemed really nothing the matter with him,
+
+and then he suddenly has one of these gastric attacks with pain and
+
+vomiting.
+
+  Chapter: CHAPTER 15 (Chapter 15)
+  Position in Chapter: 49.04%
+  Scene Sentence: But the doctor seemed quite satisfied, and it wasn't for me
+
+to say anything.
+
+  Chapter: CHAPTER 15 (Chapter 15)
+  Position in Chapter: 50.68%
+  Scene Sentence: But she still seemed to find it difficult to go on.
+
+  Chapter: CHAPTER 15 (Chapter 15)
+  Position in Chapter: 52.88%
+  Scene Sentence: The nurse threw him a
+
+grateful glance and went on.
+
+  Chapter: CHAPTER 15 (Chapter 15)
+  Position in Chapter: 53.70%
+  Scene Sentence: Our client was in such an agony of outraged
+
+propriety that no one could feel it necessary to ask exactly what she
+
+had seen in the garden.
+
+  Chapter: CHAPTER 15 (Chapter 15)
+  Position in Chapter: 54.25%
+  Scene Sentence: "The attacks got worse and worse.
+
+  Chapter: CHAPTER 15 (Chapter 15)
+  Position in Chapter: 55.34%
+  Scene Sentence: said Poirot helpfully.
+
+  Chapter: CHAPTER 15 (Chapter 15)
+  Position in Chapter: 61.37%
+  Scene Sentence: The nurse's face showed her horror at the mere idea.
+
+  Chapter: CHAPTER 15 (Chapter 15)
+  Position in Chapter: 61.92%
+  Scene Sentence: Mr. Templeton had a very bad
+
+attack after partaking of a bowl of soup.
+
+  Chapter: CHAPTER 15 (Chapter 15)
+  Position in Chapter: 64.38%
+  Scene Sentence: Whilst we waited to hear the result, Poirot amused
+
+himself by verifying the nurse's credentials, somewhat to my surprise.
+
+  Chapter: CHAPTER 15 (Chapter 15)
+  Position in Chapter: 68.77%
+  Scene Sentence: Pray Heaven that we are not too late."
+
+  Chapter: CHAPTER 15 (Chapter 15)
+  Position in Chapter: 69.04%
+  Scene Sentence: It was decided that the simplest plan was for Poirot to represent
+
+himself truly as a detective, but that the ostensible reason of his
+
+visit should be to question Mrs. Templeton about a servant formerly in
+
+her employment whose name he obtained from Nurse Palmer, and who he
+
+could represent as being concerned in a jewel robbery.
+
+  Chapter: CHAPTER 15 (Chapter 15)
+  Position in Chapter: 70.41%
+  Scene Sentence: And then, to test her, Poirot embarked upon a long history of a
+
+poisoning case in which a guilty wife had figured.
+
+  Chapter: CHAPTER 15 (Chapter 15)
+  Position in Chapter: 72.33%
+  Scene Sentence: She's in a very bad state, you know.
+
+  Chapter: CHAPTER 15 (Chapter 15)
+  Position in Chapter: 73.42%
+  Scene Sentence: But she hopes you'll stay and take pot luck, and I'm to do
+
+host.
+
+  Chapter: CHAPTER 15 (Chapter 15)
+  Position in Chapter: 78.08%
+  Scene Sentence: It was all rather horrible.
+
+  Chapter: CHAPTER 15 (Chapter 15)
+  Position in Chapter: 78.90%
+  Scene Sentence: His
+
+face was contorted with pain.
+
+  Chapter: CHAPTER 15 (Chapter 15)
+  Position in Chapter: 80.27%
+  Scene Sentence: No, no, I require no assistance
+
+from you, doctor.
+
+  Chapter: CHAPTER 15 (Chapter 15)
+  Position in Chapter: 84.11%
+  Scene Sentence: Do you remember what
+
+Flossie Monro told us before she died?
+
+  Chapter: CHAPTER 15 (Chapter 15)
+  Position in Chapter: 85.48%
+  Scene Sentence: Incredible as the whole thing seemed, it was
+
+wiser not to delay.
+
+  Chapter: CHAPTER 15 (Chapter 15)
+  Position in Chapter: 87.67%
+  Scene Sentence: Did they intend to play the comedy down
+
+there and keep me interested until they had had time to do--what?
+
+  Chapter: CHAPTER 15 (Chapter 15)
+  Position in Chapter: 92.33%
+  Scene Sentence: I stretched out my hand.
+
+  Chapter: CHAPTER 15 (Chapter 15)
+  Position in Chapter: 92.88%
+  Scene Sentence: Then--a flash of blue flame--an ear-rending crash--and darkness--
+
+
+
+I came to myself to find the familiar face of our old friend Dr.
+
+Ridgeway bending over me.
+
+  Chapter: CHAPTER 15 (Chapter 15)
+  Position in Chapter: 93.15%
+  Scene Sentence: An expression of relief passed over his
+
+features.
+
+  Chapter: CHAPTER 15 (Chapter 15)
+  Position in Chapter: 93.97%
+  Scene Sentence: There's been an
+
+accident, you know."
+
+  Chapter: CHAPTER 15 (Chapter 15)
+  Position in Chapter: 95.34%
+  Scene Sentence: A cold fear clutched at my heart.
+
+  Chapter: CHAPTER 15 (Chapter 15)
+  Position in Chapter: 95.62%
+  Scene Sentence: His evasion woke a horrible fear.
+
+  Chapter: CHAPTER 15 (Chapter 15)
+  Position in Chapter: 96.99%
+  Scene Sentence: "By a miracle you escaped--Poirot--did not!"
+
+  Chapter: CHAPTER 15 (Chapter 15)
+  Position in Chapter: 97.26%
+  Scene Sentence: A cry burst from my lips.
+
+  Chapter: CHAPTER 15 (Chapter 15)
+  Position in Chapter: 97.53%
+  Scene Sentence: "Not dead?
+
+  Chapter: CHAPTER 15 (Chapter 15)
+  Position in Chapter: 99.45%
+  Scene Sentence: Death to the Big Four!"
+
+  Chapter: CHAPTER 16 (Chapter 16)
+  Position in Chapter: 0.88%
+  Scene Sentence: That, as a matter of fact, it was I
+
+who actually precipitated the catastrophe never ceased to fill me with
+
+unavailing remorse.
+
+  Chapter: CHAPTER 16 (Chapter 16)
+  Position in Chapter: 1.18%
+  Scene Sentence: It was, as Doctor Ridgeway said, a perfect miracle
+
+that I had not been killed, but had escaped with a slight concussion.
+
+  Chapter: CHAPTER 16 (Chapter 16)
+  Position in Chapter: 2.06%
+  Scene Sentence: From the very first moment of regaining consciousness I had only one
+
+purpose in mind--to avenge Poirot's death, and to hunt down the Big
+
+Four remorselessly.
+
+  Chapter: CHAPTER 16 (Chapter 16)
+  Position in Chapter: 2.36%
+  Scene Sentence: I had thought that Ridgeway would have been of one mind with me about
+
+this, but to my surprise the good doctor seemed unaccountably lukewarm.
+
+  Chapter: CHAPTER 16 (Chapter 16)
+  Position in Chapter: 5.90%
+  Scene Sentence: To that only one answer was possible, and, shaking his head sadly, he
+
+said no more.
+
+  Chapter: CHAPTER 16 (Chapter 16)
+  Position in Chapter: 7.37%
+  Scene Sentence: Whilst appreciating the offer of my services,
+
+he gently and considerately declined them.
+
+  Chapter: CHAPTER 16 (Chapter 16)
+  Position in Chapter: 10.62%
+  Scene Sentence: I had an advertisement
+
+to this effect inserted in a number of morning newspapers, and I was
+
+sitting in a small restaurant in Soho, and judging of the effect of the
+
+advertisement, when a small paragraph in another part of the paper gave
+
+me a nasty shock.
+
+  Chapter: CHAPTER 16 (Chapter 16)
+  Position in Chapter: 11.21%
+  Scene Sentence: Although the weather was perfectly smooth, it was
+
+feared that the unfortunate gentleman must have fallen overboard.
+
+  Chapter: CHAPTER 16 (Chapter 16)
+  Position in Chapter: 11.80%
+  Scene Sentence: The news was unpleasant.
+
+  Chapter: CHAPTER 16 (Chapter 16)
+  Position in Chapter: 12.09%
+  Scene Sentence: I read into Ingles's death a sinister motive.
+
+  Chapter: CHAPTER 16 (Chapter 16)
+  Position in Chapter: 12.39%
+  Scene Sentence: Not for one moment did I believe the theory of an accident.
+
+  Chapter: CHAPTER 16 (Chapter 16)
+  Position in Chapter: 12.68%
+  Scene Sentence: Ingles had
+
+been murdered, and his death was only too clearly the handiwork of that
+
+accursed Big Four.
+
+  Chapter: CHAPTER 16 (Chapter 16)
+  Position in Chapter: 16.22%
+  Scene Sentence: Then, with a certain significance, he repeated his operations with
+
+the salt on his own plate.
+
+  Chapter: CHAPTER 16 (Chapter 16)
+  Position in Chapter: 18.29%
+  Scene Sentence: Reading my
+
+thoughts, he smiled and gently shook his head.
+
+  Chapter: CHAPTER 16 (Chapter 16)
+  Position in Chapter: 19.17%
+  Scene Sentence: Let me assure you that my way of retreat is
+
+well assured.
+
+  Chapter: CHAPTER 16 (Chapter 16)
+  Position in Chapter: 19.47%
+  Scene Sentence: Your ideas are inclined to be a little crude, Captain
+
+Hastings, if I may say so."
+
+  Chapter: CHAPTER 16 (Chapter 16)
+  Position in Chapter: 19.76%
+  Scene Sentence: "You devil," I said, choking with rage, "you incarnate devil!"
+
+  Chapter: CHAPTER 16 (Chapter 16)
+  Position in Chapter: 20.35%
+  Scene Sentence: Your late lamented friend would have
+
+told you that a man who keeps calm has always a great advantage."
+
+  Chapter: CHAPTER 16 (Chapter 16)
+  Position in Chapter: 20.94%
+  Scene Sentence: The man you murdered so foully.
+
+  Chapter: CHAPTER 16 (Chapter 16)
+  Position in Chapter: 21.53%
+  Scene Sentence: "I came here for an excellent and peaceful purpose.
+
+  Chapter: CHAPTER 16 (Chapter 16)
+  Position in Chapter: 23.01%
+  Scene Sentence: I laughed scornfully.
+
+  Chapter: CHAPTER 16 (Chapter 16)
+  Position in Chapter: 24.19%
+  Scene Sentence: There was a cold menace in his tone.
+
+  Chapter: CHAPTER 16 (Chapter 16)
+  Position in Chapter: 27.43%
+  Scene Sentence: Needless to say, I paid no heed to the warning given me.
+
+  Chapter: CHAPTER 16 (Chapter 16)
+  Position in Chapter: 28.91%
+  Scene Sentence: Neither of them knew him at all intimately, and no new light
+
+was thrown upon the problem of his identity and present whereabouts.
+
+  Chapter: CHAPTER 16 (Chapter 16)
+  Position in Chapter: 29.50%
+  Scene Sentence: I
+
+was crossing Hyde Park, lost in thought, when a voice, rich with a
+
+persuasive foreign inflection, hailed me.
+
+  Chapter: CHAPTER 16 (Chapter 16)
+  Position in Chapter: 30.68%
+  Scene Sentence: Exquisitely dressed in black, with wonderful pearls, I recognised
+
+the lady first known to us as Countess Vera Rossakoff, and afterwards
+
+under a different alias as an agent of the Big Four.
+
+  Chapter: CHAPTER 16 (Chapter 16)
+  Position in Chapter: 30.97%
+  Scene Sentence: Poirot, for some
+
+reason or other, had always had a sneaking fondness for the countess.
+
+  Chapter: CHAPTER 16 (Chapter 16)
+  Position in Chapter: 31.27%
+  Scene Sentence: Something in her very flamboyance attracted the little man.
+
+  Chapter: CHAPTER 16 (Chapter 16)
+  Position in Chapter: 31.86%
+  Scene Sentence: That she was arrayed against us, on the side of our bitterest enemies,
+
+never seemed to weigh in his judgment. "
+
+  Chapter: CHAPTER 16 (Chapter 16)
+  Position in Chapter: 33.04%
+  Scene Sentence: And do not
+
+try to have me arrested either, for that would be stupid.
+
+  Chapter: CHAPTER 16 (Chapter 16)
+  Position in Chapter: 33.63%
+  Scene Sentence: You are stupid now, when
+
+you persist in disregarding the warning we sent you.
+
+  Chapter: CHAPTER 16 (Chapter 16)
+  Position in Chapter: 35.40%
+  Scene Sentence: The countess shrugged her shoulders--magnificent shoulders, and a
+
+magnificent gesture.
+
+  Chapter: CHAPTER 16 (Chapter 16)
+  Position in Chapter: 35.69%
+  Scene Sentence: "For my part, I think that, too, stupid.
+
+  Chapter: CHAPTER 16 (Chapter 16)
+  Position in Chapter: 35.99%
+  Scene Sentence: I would leave you here to play
+
+about happily.
+
+  Chapter: CHAPTER 16 (Chapter 16)
+  Position in Chapter: 36.28%
+  Scene Sentence: But the chiefs, you see, are fearful that some word of
+
+yours may give great help to those more intelligent than yourself.
+
+  Chapter: CHAPTER 16 (Chapter 16)
+  Position in Chapter: 36.87%
+  Scene Sentence: The countess appeared to have a flattering idea of my abilities.
+
+  Chapter: CHAPTER 16 (Chapter 16)
+  Position in Chapter: 37.46%
+  Scene Sentence: Doubtless this attitude of hers was assumed
+
+expressly to annoy me and to give me the idea that I was unimportant.
+
+  Chapter: CHAPTER 16 (Chapter 16)
+  Position in Chapter: 37.76%
+  Scene Sentence: "It would, of course, be quite easy to--remove you," she continued,
+
+"but I am quite sentimental sometimes.
+
+  Chapter: CHAPTER 16 (Chapter 16)
+  Position in Chapter: 39.23%
+  Scene Sentence: He was clever--but clever!
+
+  Chapter: CHAPTER 16 (Chapter 16)
+  Position in Chapter: 39.53%
+  Scene Sentence: Had it not been a case
+
+of four against one I honestly believe he might have been too much for
+
+us.
+
+  Chapter: CHAPTER 16 (Chapter 16)
+  Position in Chapter: 43.07%
+  Scene Sentence: I was in real danger of my life.
+
+  Chapter: CHAPTER 16 (Chapter 16)
+  Position in Chapter: 43.36%
+  Scene Sentence: Though I had no
+
+intention of abandoning the struggle, I saw that it behoved me to walk
+
+warily and adopt every possible precaution.
+
+  Chapter: CHAPTER 16 (Chapter 16)
+  Position in Chapter: 43.66%
+  Scene Sentence: Whilst I was reviewing all these facts and seeking for the best line of
+
+action, the telephone bell rang.
+
+  Chapter: CHAPTER 16 (Chapter 16)
+  Position in Chapter: 48.08%
+  Scene Sentence: Wherever a Chinaman was, there might be the
+
+hand of Li Chang Yen.
+
+  Chapter: CHAPTER 16 (Chapter 16)
+  Position in Chapter: 48.67%
+  Scene Sentence: Was the whole thing a ruse on the part of my enemies?
+
+  Chapter: CHAPTER 16 (Chapter 16)
+  Position in Chapter: 48.97%
+  Scene Sentence: A little reflection convinced me that at any rate a visit to the
+
+hospital would do no harm.
+
+  Chapter: CHAPTER 16 (Chapter 16)
+  Position in Chapter: 50.15%
+  Scene Sentence: On arriving at St. Giles' Hospital, and making my business known, I
+
+was taken at once to the accident ward, to the bedside of the man in
+
+question.
+
+  Chapter: CHAPTER 16 (Chapter 16)
+  Position in Chapter: 55.16%
+  Scene Sentence: He must have been with Ingles on his way to China, and after the
+
+catastrophe he had returned to England with a message, possibly, for
+
+me.
+
+  Chapter: CHAPTER 16 (Chapter 16)
+  Position in Chapter: 57.23%
+  Scene Sentence: "He's just conscious, but I doubt if he has the force to speak.
+
+  Chapter: CHAPTER 16 (Chapter 16)
+  Position in Chapter: 57.52%
+  Scene Sentence: He lost
+
+a terrible lot of blood, you know.
+
+  Chapter: CHAPTER 16 (Chapter 16)
+  Position in Chapter: 58.11%
+  Scene Sentence: Nevertheless, he administered a hypodermic injection, and I stayed by
+
+the bed, hoping against hope for a word--a sign--that might be of the
+
+utmost value to me in my work.
+
+  Chapter: CHAPTER 16 (Chapter 16)
+  Position in Chapter: 62.24%
+  Scene Sentence: I leaned over the bed, but the broken sounds conveyed no sort of
+
+meaning to me.
+
+  Chapter: CHAPTER 16 (Chapter 16)
+  Position in Chapter: 63.13%
+  Scene Sentence: I stared in amazement, as
+
+the possible juxtaposition of the two suggested itself to me.
+
+  Chapter: CHAPTER 16 (Chapter 16)
+  Position in Chapter: 65.19%
+  Scene Sentence: The man was dead.
+
+  Chapter: CHAPTER 16 (Chapter 16)
+  Position in Chapter: 68.44%
+  Scene Sentence: A
+
+letter was lying on the table, and I tore it open carelessly enough.
+
+  Chapter: CHAPTER 16 (Chapter 16)
+  Position in Chapter: 69.32%
+  Scene Sentence: "DEAR SIR (it ran),--As instructed by our late client, M.
+
+    Hercule Poirot, we forward you the enclosed letter.
+
+  Chapter: CHAPTER 16 (Chapter 16)
+  Position in Chapter: 69.62%
+  Scene Sentence: This letter was
+
+    placed in our hands a week before his death, with instructions that
+
+    in the event of his demise, it should be sent to you at a certain
+
+    date after his death.
+
+  Chapter: CHAPTER 16 (Chapter 16)
+  Position in Chapter: 71.09%
+  Scene Sentence: With a heavy heart,
+
+yet a certain eagerness, I tore it open.
+
+  Chapter: CHAPTER 16 (Chapter 16)
+  Position in Chapter: 73.45%
+  Scene Sentence: To say more is unnecessary,
+
+    to any one who has the acute intelligence of my friend Hastings.
+
+  Chapter: CHAPTER 16 (Chapter 16)
+  Position in Chapter: 76.11%
+  Scene Sentence: In the meantime my
+
+enemies, convinced that I was obeying their warning, would cease to
+
+trouble their heads about me.
+
+  Chapter: CHAPTER 16 (Chapter 16)
+  Position in Chapter: 76.40%
+  Scene Sentence: I could return, unsuspected, and work
+
+havoc in their midst.
+
+  Chapter: CHAPTER 16 (Chapter 16)
+  Position in Chapter: 79.65%
+  Scene Sentence: I enjoyed a passable dinner, made up my
+
+mind as to the majority of my fellow passengers, and had a rubber or
+
+two of Bridge.
+
+  Chapter: CHAPTER 16 (Chapter 16)
+  Position in Chapter: 80.83%
+  Scene Sentence: He gave a sigh of relief as I sat up.
+
+  Chapter: CHAPTER 16 (Chapter 16)
+  Position in Chapter: 82.60%
+  Scene Sentence: Is
+
+there anything wrong with the ship?"
+
+  Chapter: CHAPTER 16 (Chapter 16)
+  Position in Chapter: 82.89%
+  Scene Sentence: "I expect you know what's the matter better than I do," he replied
+
+dryly. "
+
+  Chapter: CHAPTER 16 (Chapter 16)
+  Position in Chapter: 83.19%
+  Scene Sentence: Special instructions from the Admiralty.
+
+  Chapter: CHAPTER 16 (Chapter 16)
+  Position in Chapter: 83.48%
+  Scene Sentence: There's a destroyer
+
+waiting to take you off."
+
+  Chapter: CHAPTER 16 (Chapter 16)
+  Position in Chapter: 85.55%
+  Scene Sentence: Utterly unable to conceal my amazement I did as I was told.
+
+  Chapter: CHAPTER 16 (Chapter 16)
+  Position in Chapter: 85.84%
+  Scene Sentence: A boat
+
+was lowered, and I was conveyed aboard the destroyer.
+
+  Chapter: CHAPTER 16 (Chapter 16)
+  Position in Chapter: 87.02%
+  Scene Sentence: The whole thing was like a dream.
+
+  Chapter: CHAPTER 16 (Chapter 16)
+  Position in Chapter: 92.92%
+  Scene Sentence: Then my vision cleared and I saw a figure waiting to
+
+welcome me with outstretched hands.
+
+  Chapter: CHAPTER 16 (Chapter 16)
+  Position in Chapter: 94.10%
+  Scene Sentence: "But yes, but yes, it is indeed I!
+
+  Chapter: CHAPTER 16 (Chapter 16)
+  Position in Chapter: 94.40%
+  Scene Sentence: Not so easy to kill Hercule Poirot!"
+
+  Chapter: CHAPTER 16 (Chapter 16)
+  Position in Chapter: 94.99%
+  Scene Sentence: "A _ruse de guerre_, my friend, a _ruse de guerre_.
+
+  Chapter: CHAPTER 16 (Chapter 16)
+  Position in Chapter: 95.28%
+  Scene Sentence: All is
+
+now ready for our grand coup."
+
+  Chapter: CHAPTER 16 (Chapter 16)
+  Position in Chapter: 96.46%
+  Scene Sentence: As it was, it was perfect.
+
+  Chapter: CHAPTER 16 (Chapter 16)
+  Position in Chapter: 97.64%
+  Scene Sentence: I was willing to risk my own life, but I had qualms about
+
+continually risking yours.
+
+  Chapter: CHAPTER 16 (Chapter 16)
+  Position in Chapter: 97.94%
+  Scene Sentence: So, after the explosion, I have an idea of
+
+great brilliancy.
+
+  Chapter: CHAPTER 16 (Chapter 16)
+  Position in Chapter: 98.53%
+  Scene Sentence: I
+
+am dead, you will return to South America.
+
+  Chapter: CHAPTER 16 (Chapter 16)
+  Position in Chapter: 99.41%
+  Scene Sentence: But, at all events, here you are--that
+
+is the great thing.
+
+  Chapter: CHAPTER 16 (Chapter 16)
+  Position in Chapter: 99.71%
+  Scene Sentence: And now we lie here--_perdu_--till the moment
+
+comes for the last grand coup--the final overthrowing of the Big Four."
+
+  Chapter: CHAPTER 17 (Chapter 17)
+  Position in Chapter: 0.00%
+  Scene Sentence: CHAPTER 17
+ NUMBER FOUR WINS A TRICK
+
+
+
+
+
+From our quiet retreat in the Ardennes we watched the progress
+
+of affairs in the great world.
+
+  Chapter: CHAPTER 17 (Chapter 17)
+  Position in Chapter: 0.81%
+  Scene Sentence: He never showed these reports to me,
+
+but I could usually tell from his manner whether its contents had been
+
+satisfactory or otherwise.
+
+  Chapter: CHAPTER 17 (Chapter 17)
+  Position in Chapter: 1.21%
+  Scene Sentence: He never wavered in his belief that our
+
+present plan was the only one likely to be crowned by success.
+
+  Chapter: CHAPTER 17 (Chapter 17)
+  Position in Chapter: 1.62%
+  Scene Sentence: "As a minor point, Hastings," he remarked one day, "I was in continual
+
+fear of your death lying at my door.
+
+  Chapter: CHAPTER 17 (Chapter 17)
+  Position in Chapter: 2.43%
+  Scene Sentence: But now I am well satisfied.
+
+  Chapter: CHAPTER 17 (Chapter 17)
+  Position in Chapter: 4.86%
+  Scene Sentence: "And then, _mon ami_, grand resurrection of Hercule Poirot!
+
+  Chapter: CHAPTER 17 (Chapter 17)
+  Position in Chapter: 5.67%
+  Scene Sentence: I realised that Poirot's vanity was of the case-hardened variety which
+
+could withstand all attacks.
+
+  Chapter: CHAPTER 17 (Chapter 17)
+  Position in Chapter: 6.48%
+  Scene Sentence: But I might have
+
+known that it was impossible to diminish Hercule Poirot's enthusiasm
+
+for his own methods.
+
+  Chapter: CHAPTER 17 (Chapter 17)
+  Position in Chapter: 6.88%
+  Scene Sentence: "See you, Hastings, it is like the little trick that you play with the
+
+cards.
+
+  Chapter: CHAPTER 17 (Chapter 17)
+  Position in Chapter: 10.12%
+  Scene Sentence: "By awaiting the supreme moment.
+
+  Chapter: CHAPTER 17 (Chapter 17)
+  Position in Chapter: 12.96%
+  Scene Sentence: His speaking of some one being got out of the way reminded me of Ingles
+
+and his tragic death, and I remembered that I had never told Poirot
+
+about the dying Chinaman in St. Giles' Hospital.
+
+  Chapter: CHAPTER 17 (Chapter 17)
+  Position in Chapter: 19.84%
+  Scene Sentence: Cara Zia is very important, very
+
+important indeed."
+
+  Chapter: CHAPTER 17 (Chapter 17)
+  Position in Chapter: 22.27%
+  Scene Sentence: As usual, Poirot refused to say anything more--a most irritating trick
+
+of his.
+
+  Chapter: CHAPTER 17 (Chapter 17)
+  Position in Chapter: 22.67%
+  Scene Sentence: But I noticed that his manner became extremely cheerful, as
+
+though he had scored some point or other.
+
+  Chapter: CHAPTER 17 (Chapter 17)
+  Position in Chapter: 23.08%
+  Scene Sentence: The days went on, pleasant if a trifle monotonous.
+
+  Chapter: CHAPTER 17 (Chapter 17)
+  Position in Chapter: 24.29%
+  Scene Sentence: A car drove up to the villa early one morning, such an unusual event in
+
+our peaceful life that I hurried down to satisfy my curiosity.
+
+  Chapter: CHAPTER 17 (Chapter 17)
+  Position in Chapter: 25.51%
+  Scene Sentence: "This is Captain Harvey, Hastings, one of the most famous members of
+
+your Intelligence Service."
+
+  Chapter: CHAPTER 17 (Chapter 17)
+  Position in Chapter: 25.91%
+  Scene Sentence: "Not famous at all, I'm afraid," said the young man, laughing
+
+pleasantly.
+
+  Chapter: CHAPTER 17 (Chapter 17)
+  Position in Chapter: 27.13%
+  Scene Sentence: We both laughed.
+
+  Chapter: CHAPTER 17 (Chapter 17)
+  Position in Chapter: 29.96%
+  Scene Sentence: "Li Chang Yen has shown his hand.
+
+  Chapter: CHAPTER 17 (Chapter 17)
+  Position in Chapter: 37.25%
+  Scene Sentence: I am glad
+
+that Desjardeaux is convinced at last. _
+
+  Chapter: CHAPTER 17 (Chapter 17)
+  Position in Chapter: 38.46%
+  Scene Sentence: In verity, my friend, I am serious."
+
+  Chapter: CHAPTER 17 (Chapter 17)
+  Position in Chapter: 39.68%
+  Scene Sentence: It was not until we were in the train, speeding towards Paris that he
+
+admitted that he was secretly glad of my decision.
+
+  Chapter: CHAPTER 17 (Chapter 17)
+  Position in Chapter: 40.89%
+  Scene Sentence: Without you,
+
+I might well fail.
+
+  Chapter: CHAPTER 17 (Chapter 17)
+  Position in Chapter: 41.70%
+  Scene Sentence: "There is danger, then?"
+
+  Chapter: CHAPTER 17 (Chapter 17)
+  Position in Chapter: 43.72%
+  Scene Sentence: "Because it was, my friend.
+
+  Chapter: CHAPTER 17 (Chapter 17)
+  Position in Chapter: 47.37%
+  Scene Sentence: But as a matter
+
+of fact it is a well-known and very beautiful summer resort, four
+
+thousand feet up, in the heart of the Dolomites."
+
+  Chapter: CHAPTER 17 (Chapter 17)
+  Position in Chapter: 52.63%
+  Scene Sentence: I believe that she has, to a certain extent, succeeded
+
+in liberating atomic energy and harnessing it to her purpose.
+
+  Chapter: CHAPTER 17 (Chapter 17)
+  Position in Chapter: 53.04%
+  Scene Sentence: Her
+
+experiments with the nitrogen of the air have been very remarkable,
+
+and she has also experimented in the concentration of wireless energy,
+
+so that a beam of great intensity can be focused upon some given
+
+spot.
+
+  Chapter: CHAPTER 17 (Chapter 17)
+  Position in Chapter: 58.30%
+  Scene Sentence: I did not know whether this was due to precaution or merely his
+
+exaggerated fear of catching a chill.
+
+  Chapter: CHAPTER 17 (Chapter 17)
+  Position in Chapter: 59.11%
+  Scene Sentence: It was a really wonderful drive.
+
+  Chapter: CHAPTER 17 (Chapter 17)
+  Position in Chapter: 59.51%
+  Scene Sentence: For the first part of the
+
+way we wound in and out of huge cliffs, with a trickling waterfall on
+
+one hand.
+
+  Chapter: CHAPTER 17 (Chapter 17)
+  Position in Chapter: 60.32%
+  Scene Sentence: The
+
+whole place was wild and lovely.
+
+  Chapter: CHAPTER 17 (Chapter 17)
+  Position in Chapter: 63.56%
+  Scene Sentence: There is a place called the
+
+Felsenlabyrynth--all big boulders piled about in a most fantastic
+
+way--a path winds through them.
+
+  Chapter: CHAPTER 17 (Chapter 17)
+  Position in Chapter: 65.18%
+  Scene Sentence: Let us go down and sit upon the
+
+terrace and enjoy the sunlight."
+
+  Chapter: CHAPTER 17 (Chapter 17)
+  Position in Chapter: 66.80%
+  Scene Sentence: The sunlight was marvellous--in fact the glare was almost too great
+
+for me.
+
+  Chapter: CHAPTER 17 (Chapter 17)
+  Position in Chapter: 72.47%
+  Scene Sentence: Presently, when the offending waiter was serving us with soup, Poirot
+
+spoke to him.
+
+  Chapter: CHAPTER 17 (Chapter 17)
+  Position in Chapter: 72.87%
+  Scene Sentence: "An unfortunate accident, that.
+
+  Chapter: CHAPTER 17 (Chapter 17)
+  Position in Chapter: 76.11%
+  Scene Sentence: I felt Poirot's hand on my knee, as he
+
+whispered excitedly:
+
+
+
+"Look, Hastings, look. _
+
+  Chapter: CHAPTER 17 (Chapter 17)
+  Position in Chapter: 78.14%
+  Scene Sentence: His face, clean-shaven and puffily fat, was
+
+of a pasty, unhealthy sallowness, with heavy pouches under the eyes
+
+and deep lines running from his nose to the corners of his mouth.
+
+  Chapter: CHAPTER 17 (Chapter 17)
+  Position in Chapter: 81.78%
+  Scene Sentence: And we have this great advantage--he does not know that we recognise
+
+him.
+
+  Chapter: CHAPTER 17 (Chapter 17)
+  Position in Chapter: 84.21%
+  Scene Sentence: He recognises the only man he fears, miraculously
+
+resurrected from the dead, at the very minute when the plans of the Big
+
+Four are in the balance.
+
+  Chapter: CHAPTER 17 (Chapter 17)
+  Position in Chapter: 86.23%
+  Scene Sentence: He dare take no
+
+risks.
+
+  Chapter: CHAPTER 17 (Chapter 17)
+  Position in Chapter: 88.66%
+  Scene Sentence: "Shall we have our coffee on the terrace, my friend?
+
+  Chapter: CHAPTER 17 (Chapter 17)
+  Position in Chapter: 91.09%
+  Scene Sentence: I resolved to keep thoroughly on the
+
+alert.
+
+  Chapter: CHAPTER 17 (Chapter 17)
+  Position in Chapter: 95.95%
+  Scene Sentence: I sensed the presence of danger.
+
+  Chapter: CHAPTER 17 (Chapter 17)
+  Position in Chapter: 96.36%
+  Scene Sentence: Meanwhile Number Four chatted away in a perfectly natural manner.
+
+  Chapter: CHAPTER 18 (Chapter 18)
+  Position in Chapter: 3.10%
+  Scene Sentence: By sheer audacity, Number Four had won the day.
+
+  Chapter: CHAPTER 18 (Chapter 18)
+  Position in Chapter: 3.79%
+  Scene Sentence: Then, in the confusion of the
+
+darkness, his accomplices, who had probably been guests sitting at the
+
+next table, had thrust gags in our mouths and hurried us away, taking
+
+us through the hotel to baffle pursuit.
+
+  Chapter: CHAPTER 18 (Chapter 18)
+  Position in Chapter: 4.83%
+  Scene Sentence: At last we
+
+emerged in the open, on the mountain-side, and I saw just in front of
+
+us an extraordinary conglomeration of fantastic rocks and boulders.
+
+  Chapter: CHAPTER 18 (Chapter 18)
+  Position in Chapter: 8.97%
+  Scene Sentence: We were
+
+defeated--hopelessly defeated and outnumbered.
+
+  Chapter: CHAPTER 18 (Chapter 18)
+  Position in Chapter: 10.00%
+  Scene Sentence: To meet you again is an unexpected
+
+pleasure.
+
+  Chapter: CHAPTER 18 (Chapter 18)
+  Position in Chapter: 15.52%
+  Scene Sentence: Madame Olivier gave a faint cry on seeing us.
+
+  Chapter: CHAPTER 18 (Chapter 18)
+  Position in Chapter: 16.55%
+  Scene Sentence: This is a pleasant surprise.
+
+  Chapter: CHAPTER 18 (Chapter 18)
+  Position in Chapter: 21.03%
+  Scene Sentence: Our valued and trusted lieutenant.
+
+  Chapter: CHAPTER 18 (Chapter 18)
+  Position in Chapter: 21.38%
+  Scene Sentence: An old
+
+friend of yours is here, my dear lady."
+
+  Chapter: CHAPTER 18 (Chapter 18)
+  Position in Chapter: 24.83%
+  Scene Sentence: Me, like the great Napoleon, I am
+
+on the side of the big battalions."
+
+  Chapter: CHAPTER 18 (Chapter 18)
+  Position in Chapter: 25.86%
+  Scene Sentence: He was very like him, extraordinarily like him.
+
+  Chapter: CHAPTER 18 (Chapter 18)
+  Position in Chapter: 26.55%
+  Scene Sentence: But the
+
+voice was different, and the eyes instead of being green were dark, and
+
+surely the moustaches--those famous moustaches--?
+
+  Chapter: CHAPTER 18 (Chapter 18)
+  Position in Chapter: 27.24%
+  Scene Sentence: She stepped
+
+forward, her voice ringing with excitement.
+
+  Chapter: CHAPTER 18 (Chapter 18)
+  Position in Chapter: 28.62%
+  Scene Sentence: They came off in her hand,
+
+and then, indeed, the truth was plain.
+
+  Chapter: CHAPTER 18 (Chapter 18)
+  Position in Chapter: 30.00%
+  Scene Sentence: "I know," I cried suddenly, and then stopped dead, afraid I had ruined
+
+everything.
+
+  Chapter: CHAPTER 18 (Chapter 18)
+  Position in Chapter: 30.34%
+  Scene Sentence: But the man I will still refer to as Poirot had turned to me
+
+encouragingly.
+
+  Chapter: CHAPTER 18 (Chapter 18)
+  Position in Chapter: 35.17%
+  Scene Sentence: It is you who do
+
+not realise that a man may be willing to purchase success by his life.
+
+  Chapter: CHAPTER 18 (Chapter 18)
+  Position in Chapter: 35.52%
+  Scene Sentence: There were men who laid down their lives for their country in the war.
+
+  Chapter: CHAPTER 18 (Chapter 18)
+  Position in Chapter: 36.21%
+  Scene Sentence: It struck me just then that although perfectly willing to lay down my
+
+life I might have been consulted in the matter.
+
+  Chapter: CHAPTER 18 (Chapter 18)
+  Position in Chapter: 36.90%
+  Scene Sentence: "And in what way will your laying down your life benefit the world?"
+
+  Chapter: CHAPTER 18 (Chapter 18)
+  Position in Chapter: 41.03%
+  Scene Sentence: Madame Olivier laughed suddenly.
+
+  Chapter: CHAPTER 18 (Chapter 18)
+  Position in Chapter: 41.38%
+  Scene Sentence: "You are wrong.
+
+  Chapter: CHAPTER 18 (Chapter 18)
+  Position in Chapter: 41.72%
+  Scene Sentence: There is one way we can escape, and, like Samson of
+
+old, destroy our enemies at the same time.
+
+  Chapter: CHAPTER 18 (Chapter 18)
+  Position in Chapter: 45.52%
+  Scene Sentence: Inside I caught a glimpse of a perfectly equipped laboratory which
+
+reminded me of the one in Paris.
+
+  Chapter: CHAPTER 18 (Chapter 18)
+  Position in Chapter: 46.55%
+  Scene Sentence: "There is no danger of their escaping," he said grimly. "
+
+  Chapter: CHAPTER 18 (Chapter 18)
+  Position in Chapter: 46.90%
+  Scene Sentence: But still you
+
+had better have this."
+
+  Chapter: CHAPTER 18 (Chapter 18)
+  Position in Chapter: 47.93%
+  Scene Sentence: Suddenly she laughed.
+
+  Chapter: CHAPTER 18 (Chapter 18)
+  Position in Chapter: 48.28%
+  Scene Sentence: "You are very clever, M. Achille Poirot," she said mockingly.
+
+  Chapter: CHAPTER 18 (Chapter 18)
+  Position in Chapter: 51.38%
+  Scene Sentence: She laughed again.
+
+  Chapter: CHAPTER 18 (Chapter 18)
+  Position in Chapter: 52.76%
+  Scene Sentence: I am a man of intelligence.
+
+  Chapter: CHAPTER 18 (Chapter 18)
+  Position in Chapter: 53.45%
+  Scene Sentence: In
+
+exchange for life and liberty, I offer you your heart's desire."
+
+  Chapter: CHAPTER 18 (Chapter 18)
+  Position in Chapter: 55.86%
+  Scene Sentence: Can you give me revenge upon my enemies?
+
+  Chapter: CHAPTER 18 (Chapter 18)
+  Position in Chapter: 56.21%
+  Scene Sentence: Can
+
+you give me back youth and beauty and a gay heart?
+
+  Chapter: CHAPTER 18 (Chapter 18)
+  Position in Chapter: 56.55%
+  Scene Sentence: Can you bring the
+
+dead to life again?"
+
+  Chapter: CHAPTER 18 (Chapter 18)
+  Position in Chapter: 57.93%
+  Scene Sentence: She laughed sardonically.
+
+  Chapter: CHAPTER 18 (Chapter 18)
+  Position in Chapter: 60.69%
+  Scene Sentence: On the faith of--on the faith of Hercule Poirot himself."
+
+  Chapter: CHAPTER 18 (Chapter 18)
+  Position in Chapter: 62.41%
+  Scene Sentence: "I asked you before, M. Poirot, could you restore the dead to life?"
+
+  Chapter: CHAPTER 18 (Chapter 18)
+  Position in Chapter: 64.14%
+  Scene Sentence: I will bring the
+
+dead to life._"
+
+  Chapter: CHAPTER 18 (Chapter 18)
+  Position in Chapter: 64.48%
+  Scene Sentence: She stared at him as though fascinated.
+
+  Chapter: CHAPTER 18 (Chapter 18)
+  Position in Chapter: 65.86%
+  Scene Sentence: She went out of the room, and returned with it in her hand.
+
+  Chapter: CHAPTER 18 (Chapter 18)
+  Position in Chapter: 66.90%
+  Scene Sentence: The Countess Vera Rossakoff
+
+was no fool.
+
+  Chapter: CHAPTER 18 (Chapter 18)
+  Position in Chapter: 68.97%
+  Scene Sentence: No sooner
+
+had she looked at it than she uttered a cry and swayed as though about
+
+to fall.
+
+  Chapter: CHAPTER 18 (Chapter 18)
+  Position in Chapter: 71.38%
+  Scene Sentence: "Yes, yes, I will trust you.
+
+  Chapter: CHAPTER 18 (Chapter 18)
+  Position in Chapter: 72.07%
+  Scene Sentence: Catching him by the hand, she drew him quickly and silently out of
+
+the room.
+
+  Chapter: CHAPTER 18 (Chapter 18)
+  Position in Chapter: 73.10%
+  Scene Sentence: Again and again the passage divided, but
+
+she led us on, never faltering or seeming to doubt her way, and with
+
+increasing speed.
+
+  Chapter: CHAPTER 18 (Chapter 18)
+  Position in Chapter: 76.21%
+  Scene Sentence: We forced them aside, pushed our way through.
+
+  Chapter: CHAPTER 18 (Chapter 18)
+  Position in Chapter: 77.24%
+  Scene Sentence: Even as we emerged, three men fell upon
+
+us, but released us again with a cry of astonishment.
+
+  Chapter: CHAPTER 18 (Chapter 18)
+  Position in Chapter: 80.69%
+  Scene Sentence: "But yes, my friend, it is I. Brother Achille has gone home again--to
+
+the land of myths.
+
+  Chapter: CHAPTER 18 (Chapter 18)
+  Position in Chapter: 82.41%
+  Scene Sentence: It was invaluable, the
+
+assistance you rendered me, half the success of the coup is due to you!
+
+  Chapter: CHAPTER 18 (Chapter 18)
+  Position in Chapter: 83.79%
+  Scene Sentence: "And let you go into danger without me by your side?
+
+  Chapter: CHAPTER 18 (Chapter 18)
+  Position in Chapter: 84.14%
+  Scene Sentence: You have a pretty
+
+idea of me there!
+
+  Chapter: CHAPTER 18 (Chapter 18)
+  Position in Chapter: 85.52%
+  Scene Sentence: "The countess has a great deal more perspicacity than you have, my dear
+
+Hastings.
+
+  Chapter: CHAPTER 18 (Chapter 18)
+  Position in Chapter: 86.21%
+  Scene Sentence: When she said, 'You are very clever, M. Achille Poirot,' I
+
+knew that she had guessed the truth.
+
+  Chapter: CHAPTER 18 (Chapter 18)
+  Position in Chapter: 86.90%
+  Scene Sentence: "All that rigmarole about bringing the dead to life?"
+
+  Chapter: CHAPTER 18 (Chapter 18)
+  Position in Chapter: 87.93%
+  Scene Sentence: "But yes!
+
+  Chapter: CHAPTER 18 (Chapter 18)
+  Position in Chapter: 89.66%
+  Scene Sentence: The poor little fellow was nearly dead of starvation.
+
+  Chapter: CHAPTER 18 (Chapter 18)
+  Position in Chapter: 90.00%
+  Scene Sentence: I placed him in a
+
+safe place, with kindly people, and took a snapshot of him in his new
+
+surroundings.
+
+  Chapter: CHAPTER 18 (Chapter 18)
+  Position in Chapter: 90.69%
+  Scene Sentence: "You are wonderful, Poirot; absolutely wonderful!"
+
+  Chapter: CHAPTER 18 (Chapter 18)
+  Position in Chapter: 91.03%
+  Scene Sentence: "I was glad to do it, too.
+
+  Chapter: CHAPTER 18 (Chapter 18)
+  Position in Chapter: 91.38%
+  Scene Sentence: For I had admired the countess.
+
+  Chapter: CHAPTER 18 (Chapter 18)
+  Position in Chapter: 94.48%
+  Scene Sentence: It reported
+
+the death, by suicide, of Li Chang Yen, who had engineered the recent
+
+revolution which had failed so disastrously.
+
+  Chapter: CHAPTER 18 (Chapter 18)
+  Position in Chapter: 95.52%
+  Scene Sentence: When he received the news of the
+
+disaster here, he took the simplest way out.
+
+  Chapter: CHAPTER 18 (Chapter 18)
+  Position in Chapter: 95.86%
+  Scene Sentence: A great brain, my friend,
+
+a great brain.
+
+  Chapter: CHAPTER 18 (Chapter 18)
+  Position in Chapter: 96.21%
+  Scene Sentence: But I wish I had seen the face of the man who was Number
+
+Four.... Supposing that, after all--but I romance.
+
+  Chapter: CHAPTER 18 (Chapter 18)
+  Position in Chapter: 96.55%
+  Scene Sentence: He is dead.
+
+  Chapter: CHAPTER 18 (Chapter 18)
+  Position in Chapter: 96.90%
+  Scene Sentence: Yes,
+
+_mon ami_, together we have faced and routed the Big Four; and now
+
+you will return to your charming wife, and I--I shall retire.
+
+  Chapter: CHAPTER 18 (Chapter 18)
+  Position in Chapter: 97.24%
+  Scene Sentence: The great
+
+case of my life is over.
+
+  Chapter: CHAPTER 18 (Chapter 18)
+  Position in Chapter: 99.31%
+  Scene Sentence: I
+
+hope ... small men always admire big, flamboyant women--
+
+
+
+"Marry and range myself," he said again. "
+
+--------------------------------------------------
+Plot Progression:
+ segment_index  avg_sentiment  crime_keyword_count  character_mention_count  plot_event
+             0       0.018767                   18                      569           3
+             1       0.032281                   25                      631           4
+             2       0.058010                   15                      604           1
+             3       0.048465                   18                      595           1
+             4      -0.022475                   29                      670           2
+             5       0.032454                   12                      579           3
+             6       0.031854                   13                      533           0
+             7       0.034387                   20                      667           2
+             8       0.008716                   25                      564           3
+             9       0.055501                   18                      616           1
+==================================================

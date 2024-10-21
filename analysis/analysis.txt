@@ -1,0 +1,42 @@
+
+Analysis:
+Novel: clean_novel1
+Actual Antagonist: Dr. James Sheppard
+Predicted Antagonist: Dr. James Sheppard
+The model correctly identified the antagonist.
+--------------------------------------------------
+Novel: clean_novel2
+Actual Antagonist: Alfred Inglethorp
+Predicted Antagonist: Alfred Inglethorp
+The model correctly identified the antagonist.
+--------------------------------------------------
+Novel: clean_novel4
+Actual Antagonist: Marthe Daubreuil
+Predicted Antagonist: Marthe Daubreuil
+The model correctly identified the antagonist.
+--------------------------------------------------
+Novel: clean_novel5
+Actual Antagonist: Sir Eustace Pedler
+Predicted Antagonist: Sir Eustace Pedler
+The model correctly identified the antagonist.
+--------------------------------------------------
+Novel: clean_novel6
+Actual Antagonist: Major Richard Knighton
+Predicted Antagonist: Major Richard Knighton
+The model correctly identified the antagonist.
+--------------------------------------------------
+Novel: clean_novel7
+Actual Antagonist: Claude Darrell
+Predicted Antagonist: Claude Darrell
+The model correctly identified the antagonist.
+--------------------------------------------------
+Novel: clean_novel8
+Actual Antagonist: Mr. Brown
+Predicted Antagonist: Mr. Brown
+The model correctly identified the antagonist.
+--------------------------------------------------
+Novel: clean_novel9
+Actual Antagonist: King Victor
+Predicted Antagonist: King Victor
+The model correctly identified the antagonist.
+--------------------------------------------------
