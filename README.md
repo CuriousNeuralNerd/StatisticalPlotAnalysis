@@ -37,3 +37,11 @@ The project is implemented in **Python 3.10** and makes use of the following lib
 Install the required libraries using:
 ```bash
 pip install -r requirements.txt
+
+Ensure that the spaCy English model is downloaded:
+```bash
+python -m spacy download en_core_web_sm
+
+### Files
+
+- **data/:**
