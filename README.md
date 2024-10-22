@@ -1,4 +1,4 @@
-# StatisticalPlotAnalysis for COSC 524 Natural Language Processing - Project 1
+# Statistical Plot Analysis for COSC 524 Natural Language Processing - Project 1
 
 
 ## Project Overview
