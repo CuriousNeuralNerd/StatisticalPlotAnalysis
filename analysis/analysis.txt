@@ -1,41 +1,65 @@
 
 Analysis:
 Novel: clean_novel1
+Actual Protagonist: Hercule Poirot
+Predicted Protagonist: Hercule Poirot
+The model correctly identified the protagonist.
 Actual Antagonist: Dr. James Sheppard
 Predicted Antagonist: Dr. James Sheppard
 The model correctly identified the antagonist.
 --------------------------------------------------
 Novel: clean_novel2
+Actual Protagonist: Hercule Poirot
+Predicted Protagonist: Hercule Poirot
+The model correctly identified the protagonist.
 Actual Antagonist: Alfred Inglethorp
 Predicted Antagonist: Alfred Inglethorp
 The model correctly identified the antagonist.
 --------------------------------------------------
 Novel: clean_novel4
+Actual Protagonist: Hercule Poirot
+Predicted Protagonist: Hercule Poirot
+The model correctly identified the protagonist.
 Actual Antagonist: Marthe Daubreuil
 Predicted Antagonist: Marthe Daubreuil
 The model correctly identified the antagonist.
 --------------------------------------------------
 Novel: clean_novel5
+Actual Protagonist: Anne Beddingfeld
+Predicted Protagonist: Anne Beddingfeld
+The model correctly identified the protagonist.
 Actual Antagonist: Sir Eustace Pedler
 Predicted Antagonist: Sir Eustace Pedler
 The model correctly identified the antagonist.
 --------------------------------------------------
 Novel: clean_novel6
+Actual Protagonist: Hercule Poirot
+Predicted Protagonist: Hercule Poirot
+The model correctly identified the protagonist.
 Actual Antagonist: Major Richard Knighton
 Predicted Antagonist: Major Richard Knighton
 The model correctly identified the antagonist.
 --------------------------------------------------
 Novel: clean_novel7
+Actual Protagonist: Hercule Poirot
+Predicted Protagonist: Hercule Poirot
+The model correctly identified the protagonist.
 Actual Antagonist: Claude Darrell
 Predicted Antagonist: Claude Darrell
 The model correctly identified the antagonist.
 --------------------------------------------------
 Novel: clean_novel8
+Actual Protagonist: Tuppence Cowley
+Predicted Protagonist: Tuppence Cowley
+The model correctly identified the protagonist.
 Actual Antagonist: Mr. Brown
 Predicted Antagonist: Mr. Brown
 The model correctly identified the antagonist.
 --------------------------------------------------
 Novel: clean_novel9
+Actual Protagonist: Anthony Cade
+Predicted Protagonist: Anthony Cade
+The model correctly identified the protagonist.
 Actual Antagonist: King Victor
 Predicted Antagonist: King Victor
 The model correctly identified the antagonist.
