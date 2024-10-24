@@ -19,7 +19,7 @@ from nltk.sentiment import SentimentIntensityAnalyzer
 from tqdm import tqdm
 
 # Enable GPU support for spaCy
-spacy.require_gpu()
+#spacy.require_gpu()
 
 # Download necessary NLTK data files
 nltk.download('vader_lexicon')
@@ -134,9 +134,18 @@ def analyze_novel(novel):
         'Ursula Bourne': ['Ursula', 'Miss Bourne', 'Mrs. Paton'],
         'Parker': ['Parker'],
         'Inspector Raglan': ['Raglan', 'The inspector'],
+        'Ashley Ferrars' : ['Ashley Ferrars', 'Ferrars'],
+        'Geoffrey Raymond' : ['Geoffrey Raymond', 'Colonel Geoffrey Raymond', 'Raymond'],
+        'Caroline Sheppard' : ['Caroline Sheppard', 'Caroline', 'Miss Caroline'],
         # The Mysterious Affair at Styles
         'Emily Inglethorp': ['Emily Inglethorp', 'Mrs. Inglethorp', 'Emily'],
         'Alfred Inglethorp': ['Alfred Inglethorp', 'Alfred', 'Mr. Inglethorp'],
+        "John Cavendish": ["John Cavendish"],
+        "Mary Cavendish": ["Mary Cavendish", "Mary"],
+        "Evelyn Howard": ["Evelyn Howard", "Miss Howard"],
+        "Dr. Bauerstein": ["Dr. Bauerstein", "Bauerstein"],
+        # The Case of the Missing Will
+        "Miss Violet Marsh": ["Miss Violet Marsh"],
         # The Murder on the Links
         'Jack Renauld': ['Jack', 'Mr. Renauld'],
         'Paul Renauld': ['Paul Renauld', 'Paul', 'Mr. Renauld', 'Georges Conneau'],
@@ -250,6 +259,9 @@ def analyze_novel(novel):
     # If no major characters found, use top N characters
     if not overall_major_characters:
         overall_major_characters = [char for char, count in overall_character_counts.most_common(5)]
+    print("="*50)
+    print(overall_major_characters)
+    print("="*50)
 
     # Analyze sentiments associated with each major character
     character_sentiments = {}
