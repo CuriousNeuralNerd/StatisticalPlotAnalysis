@@ -18,8 +18,10 @@ from nltk.corpus import stopwords
 from nltk.sentiment import SentimentIntensityAnalyzer
 from tqdm import tqdm
 
+print("bruh")
+
 # Enable GPU support for spaCy
-spacy.require_gpu()
+#spacy.require_gpu()
 
 # Download necessary NLTK data files
 nltk.download('vader_lexicon')
@@ -97,6 +99,13 @@ for path in novel_paths:
         'title': os.path.basename(path).replace('.txt', ''),
         'chapters': chapters
     })
+
+#print()
+#print('yo')
+#print(type(novels_data[0]['chapters'][0]['text']))
+#print()
+#print(novels_data[0]['chapters'][0]['text'])
+#print()
 
 # List of crime-related keywords
 crime_keywords = [
@@ -185,6 +194,19 @@ def analyze_novel(novel):
 
     cumulative_sentences = 0
     cumulative_sentence_counts = []
+
+    ## MIKO CODE
+    # Create list of all sentences then print to file
+    chapter_texts_nonewline = [chapter['text'].replace('\n', ' ').replace('\r', ' ').replace('   ', ' ').replace('  ', ' ') for chapter in chapters]
+    docs2 = list(nlp.pipe(chapter_texts_nonewline))
+    all_sents = []
+    for d in docs2:
+        all_sents = all_sents + list(d.sents)
+
+    with open( 'sentences/' + title + '_sentences.txt', 'w') as f:
+        for line in all_sents:
+            f.write(f"{line}\n")
+
 
     for chapter_idx, (chapter, doc) in enumerate(zip(chapters, docs)):
         chapter_title = chapter['title']
@@ -634,6 +656,8 @@ for analysis in analyses:
 
 # Analysis
 # -----------------------
+
+print('bruh2')
 
 # Save analysis outputs to a file
 analysis_filename = os.path.join('analysis', 'analysis.txt')
