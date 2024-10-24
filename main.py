@@ -144,8 +144,9 @@ def analyze_novel(novel):
         "Mary Cavendish": ["Mary Cavendish", "Mary"],
         "Evelyn Howard": ["Evelyn Howard", "Miss Howard"],
         "Dr. Bauerstein": ["Dr. Bauerstein", "Bauerstein"],
+        "Cynthia Murdoch": ["Mademoiselle Cynthia", "Miss Cynthia", "Cynthia Murdoch"]
         # The Case of the Missing Will
-        "Miss Violet Marsh": ["Miss Violet Marsh"],
+        #"Miss Violet Marsh": ["Miss Violet Marsh"],
         # The Murder on the Links
         'Jack Renauld': ['Jack', 'Mr. Renauld'],
         'Paul Renauld': ['Paul Renauld', 'Paul', 'Mr. Renauld', 'Georges Conneau'],
@@ -154,17 +155,26 @@ def analyze_novel(novel):
         # The Man in the Brown Suit
         'Anne Beddingfeld': ['Anne Beddingfeld', 'Anne', 'Miss Beddingfeld'],
         'Sir Eustace Pedler': ['Sir Eustace Pedler', 'Sir Eustace', 'Pedler', 'The Colonel'],
+        'Anita Grünberg' : ['Anita Grünberg', 'Anita'],
+        'John Eardsley' : ['John Eardsley', 'John Harold Eardsley'],
         # The Mystery of the Blue Train
         'Major Richard Knighton': ['Major Richard Knighton', 'Knighton', 'Major Knighton'],
+        'Rufus Van Aldin' : ['Rufus Van Aldin', 'Van Aldin', 'Mr. Van Aldin'],
+        'Mirelle' : ['Mirelle'],
+        'Joseph Aarons' : ['Mr. Aarons', 'Joseph Aarons'],
         # The Big Four
         'Captain Hastings': ['Hastings', 'Captain Hastings'],
         'Claude Darrell': ['The Destroyer', 'Number Four', 'Claude Darrell'],
+        'Inspector Japp' : ['Inspector Japp', 'Japp'],
         # The Secret Adversary
         'Tuppence Cowley': ['Tuppence Cowley', 'Tuppence', 'Miss Cowley', 'Prudence Cowley'],
         'Mr. Brown': ['Mr. Brown', 'Sir James Peel Edgerton', 'The secret adversary'],
+        'Thomas Beresford' : ['Thomas Beresford'],
+        'Julius P. Hersheimmer' : ['Julius P. Hersheimmer', 'Julius Hersheimmer', 'Mr. Hersheimmer'],
         # The Secret of Chimneys
         'Anthony Cade': ['Anthony Cade', 'Anthony', 'Mr. Cade', 'James McGrath'],
         'King Victor': ['Baron Lolopretjzyl', 'King Victor', 'Victor', 'The Baron'],
+        'Hiram P. Fish': ['Hiram P. Fish', 'Hiram Fish', 'Mr. Fish'],
     }
 
     # Map character aliases to standard names
