@@ -11,13 +11,14 @@ import seaborn as sns
 from collections import Counter, defaultdict
 from sklearn.model_selection import cross_val_score, KFold, cross_val_predict
 from sklearn.ensemble import RandomForestClassifier
+from sklearn.neural_network import MLPRegressor
 from sklearn.metrics import classification_report
 from sklearn.preprocessing import LabelEncoder
 from sklearn.cluster import KMeans
 from nltk.corpus import stopwords
 from nltk.sentiment import SentimentIntensityAnalyzer
 from tqdm import tqdm
-
+import pprint
 
 # Enable GPU support for spaCy
 ##spacy.require_gpu()
@@ -90,6 +91,9 @@ novel_paths = [
 
 # Placeholder for novel data
 novels_data = []
+
+novels_X_data = []
+novels_y_data = []
 
 # Process each novel
 for path in novel_paths:
@@ -430,10 +434,11 @@ def analyze_novel(novel):
     # Plot Progression Model Implementation
     # -------------------------------------
     # Segment the novel into equal parts
-    #num_segments = 10  # You can adjust the number of segments
     num_segments = 100  # You can adjust the number of segments
     total_sentences = len(overall_sentences)
     segment_size = total_sentences // num_segments
+
+    novel_reveal_segment_idx = 0
 
     segments = []
     for i in range(num_segments):
@@ -451,13 +456,22 @@ def analyze_novel(novel):
         segment_text_lower = segment_text.lower()
         crime_keyword_count = sum(segment_text_lower.count(kw) for kw in crime_keywords)
 
+        # Frequency of reveal keywords
+        segment_text_lower = segment_text.lower()
+        reveal_keyword_count = sum(segment_text_lower.count(kw) for kw in reveal_keywords)
+
         # Number of character mentions
         # Use regex for person names
         person_names = re.findall(r'\b[A-Z][a-z]+\b(?:\s+[A-Z][a-z]+\b)*', segment_text)
         segment_characters = [standardize_name(name) for name in person_names]
         segment_character_count = len(segment_characters)
 
-        is_reveal_segment = False
+        # character cooccurrence count in segment
+        co_occurrence_count = sum(cumulative_sent_chars[start_idx:end_idx])
+
+        # check if reveal within segment
+        if start_idx <= novel_reveal_sentence_index < end_idx:
+            novel_reveal_segment_idx = i
 
         # Store the features
         segments.append({
@@ -467,16 +481,22 @@ def analyze_novel(novel):
             'avg_sentiment': avg_sentiment,
             'crime_keyword_count': crime_keyword_count,
             'character_mention_count': segment_character_count,
-            'is_reveal_segment' : is_reveal_segment
+            'reveal_keyword_count': reveal_keyword_count,
+            'co_occurrence_count': co_occurrence_count
         })
 
+    
     # Use KMeans clustering to cluster segments into plot events
     # (This is a simplification due to lack of labeled data)
     segment_features = pd.DataFrame(segments)
-    X_segments = segment_features[['avg_sentiment', 'crime_keyword_count', 'character_mention_count']]
+
+    X_segments = segment_features[['avg_sentiment', 'crime_keyword_count', 'character_mention_count', 'reveal_keyword_count', 'co_occurrence_count']]
     num_clusters = 5  # Assuming 5 different plot events
     kmeans = KMeans(n_clusters=num_clusters, random_state=rState, n_init=10)
     segment_features['plot_event'] = kmeans.fit_predict(X_segments)
+
+    
+
 
     # Add plot progression data to analysis
     analysis['plot_progression'] = segment_features
@@ -506,6 +526,8 @@ def analyze_novel(novel):
         'cumulative_sent_chars': cumulative_sent_chars,
         'novel_reveal_sentence_index': novel_reveal_sentence_index,
         'reveal_keyword_positions' : reveal_keyword_positions,
+        'novel_reveal_segment_idx' : novel_reveal_segment_idx,
+        'segments' : segments
     })
     return analysis
 
@@ -586,7 +608,51 @@ rf_model_ant.fit(X_ant_train, y_ant_train)
 y_ant_pred_test = rf_model_ant.predict(X_ant_test)
 y_ant_pred = rf_model_ant.predict(X_ant)
 
+# Plot Progression Model
+mlp = MLPRegressor((100,50))
+X_plot_progression = []
+y_plot_progression = []
+for analysis in analyses:
+    segments = analysis['segments']
+    avg_sentiment_list = []
+    reveal_list = []
+    crime_list = []
+    #character_mention_list = []
+    co_occurrence_list = []
 
+    for segment in segments:
+        avg_sentiment_list.append(segment['avg_sentiment'])
+        crime_list.append(segment['crime_keyword_count'])
+        #avg_sentiment_list.append(segment['character_mention_count'])
+        reveal_list.append(segment['reveal_keyword_count'])
+        co_occurrence_list.append(segment['co_occurrence_count'])
+    
+    x_plot_progression_novel = avg_sentiment_list + reveal_list + crime_list + co_occurrence_list
+    X_plot_progression.append(x_plot_progression_novel)
+    y_plot_progression.append(analysis['novel_reveal_segment_idx'])
+#pprint.pprint(X_plot_progression)
+X_plot_progression = np.array(X_plot_progression)
+y_plot_progression = np.array(y_plot_progression)
+
+X_train = X_plot_progression[1:]
+y_train = y_plot_progression[1:]
+X_test = X_plot_progression[:1]
+y_test = y_plot_progression[:1]
+
+mlp.fit(X_plot_progression, y_plot_progression)
+y_plot_pred = mlp.predict(X_plot_progression)
+print(y_plot_pred)
+print(y_plot_progression)
+
+n_splits = 3
+kf = KFold(n_splits=n_splits, shuffle=True, random_state=rState)
+accuracies = cross_val_score(mlp, X_plot_progression, y_plot_progression, cv=kf)
+#y_pred = cross_val_predict(mlp, X_plot_progression, y_plot_progression, cv=kf)
+#report = classification_report(y_plot_progression, y_pred)
+#print("Plot Progression Model Cross-Validation Report:")
+#print(report)
+print(f"Plot Progression Model Cross-Validation Mean Accuracy: {np.mean(accuracies):.4f}")
+print(f"Plot Progression Model Cross-Validation Accuracies: {accuracies}")
 
 # Output the novel titles with their predicted antagonists and protagonists
 for analysis in analyses:
