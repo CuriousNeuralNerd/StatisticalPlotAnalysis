@@ -9,7 +9,7 @@ import matplotlib.pyplot as plt
 import networkx as nx
 import seaborn as sns
 from collections import Counter, defaultdict
-from sklearn.model_selection import cross_val_score, KFold
+from sklearn.model_selection import cross_val_score, KFold, cross_val_predict
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.metrics import classification_report
 from sklearn.preprocessing import LabelEncoder
@@ -517,29 +517,40 @@ def prepare_data_for_modeling(analyses):
 
 # Train Random Forest models to predict the antagonist and protagonist
 # Antagonist Model
+analyses_train = analyses[0:5]
+analyses_test = analyses[5:]
 X_ant, y_ant, titles_ant, names = prepare_data_for_modeling(analyses)
+X_ant_train, y_ant_train, titles_ant_train, names_train = prepare_data_for_modeling(analyses_train)
+X_ant_test, y_ant_test, titles_ant_test, names_test = prepare_data_for_modeling(analyses_test)
 rf_model_ant = RandomForestClassifier(n_estimators=100, random_state=rState)
 
 if len(X_ant) >= 2:
     n_splits = min(5, len(X_ant))
     kf = KFold(n_splits=n_splits, shuffle=True, random_state=rState)
     accuracies = cross_val_score(rf_model_ant, X_ant, y_ant, cv=kf, scoring='accuracy')
+    y_pred = cross_val_predict(rf_model_ant, X_ant, y_ant, cv=kf)
+    report = classification_report(y_ant, y_pred)
+    print("Antagonist Model Cross-Validation Report:")
+    print(report)
     print(f"Antagonist Model Cross-Validation Mean Accuracy: {np.mean(accuracies):.4f}")
     print(f"Antagonist Model Cross-Validation Accuracies: {accuracies}")
 
-rf_model_ant.fit(X_ant, y_ant)
+rf_model_ant.fit(X_ant_train, y_ant_train)
+y_ant_pred_test = rf_model_ant.predict(X_ant_test)
 y_ant_pred = rf_model_ant.predict(X_ant)
-#y_ant_pred = label_encoder_ant.inverse_transform(y_ant_pred_encoded)
 
 
 
 # Output the novel titles with their predicted antagonists and protagonists
-for analysis, antagonist_pred in zip(analyses, y_ant_pred):
+for analysis in analyses:
     title = analysis['title']
+    predicted_antagonist = "NONE"
+    for j in range(len(y_ant_pred)):
+        if titles_ant[j] == title and y_ant_pred[j] == 1:
+            predicted_antagonist = names[j]
     # Prepare report content
     report_content = f"Novel: {title}\n"
-    #report_content += f"Predicted Protagonist: {protagonist_pred}\n"
-    report_content += f"Predicted Antagonist: {antagonist_pred}\n"
+    report_content += f"Predicted Antagonist: {predicted_antagonist}\n"
     report_content += "-" * 50 + "\n"
 
     # Include major scenes
@@ -563,8 +574,7 @@ for analysis, antagonist_pred in zip(analyses, y_ant_pred):
 
 # Print Classification Reports
 print("Antagonist Classification Report:")
-#report_ant = classification_report(y_ant, y_ant_pred, target_names=label_encoder_ant.classes_)
-report_ant = classification_report(y_ant, y_ant_pred)
+report_ant = classification_report(y_ant_test, y_ant_pred_test)
 print(report_ant)
 # Save report to file
 report_filename_ant = os.path.join('reports', 'antagonist_classification_report.txt')
@@ -646,15 +656,15 @@ for analysis in analyses:
 analysis_filename = os.path.join('analysis', 'analysis.txt')
 with open(analysis_filename, 'w') as f:
     f.write("\nAnalysis:\n")
-    for i, analysis in enumerate(analyses):
+    for i, analysis in enumerate(analyses_test):
         title = analysis['title']
         actual_antagonist = analysis['antagonist']
         f.write(f"Novel: {title}\n")
         predicted_antagonist = "NONE"
-        for j in range(len(y_ant_pred)):
+        for j in range(len(y_ant_pred_test)):
             if titles_ant[j] == title:
-                f.write(f"  {names[j]} antagonist prediction: {y_ant_pred[j]}\n")
-                if y_ant_pred[j] == 1:
+                f.write(f"  {names[j]} antagonist prediction: {y_ant_pred_test[j]}\n")
+                if y_ant_pred_test[j] == 1:
                     predicted_antagonist = names[j]
         f.write(f"Actual Antagonist: {actual_antagonist}\n")
         f.write(f"Predicted Antagonist: {predicted_antagonist}\n")
