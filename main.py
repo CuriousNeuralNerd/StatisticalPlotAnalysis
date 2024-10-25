@@ -204,6 +204,7 @@ def analyze_novel(novel):
 
     cumulative_sentences = 0
     cumulative_sentence_counts = []
+    cumulative_sent_chars = []
 
     for chapter_idx, (chapter, doc) in enumerate(zip(chapters, docs)):
         chapter_title = chapter['title']
@@ -223,6 +224,10 @@ def analyze_novel(novel):
             person_names = re.findall(r'\b[A-Z][a-z]+\b(?:\s+[A-Z][a-z]+\b)*', sent_text)
             sent_ents = [standardize_name(name) for name in person_names]
             sent_chars = set(name for name in sent_ents if name.lower() not in stop_words)
+            if "Mr" in sent_chars:
+                sent_chars.remove("Mr")
+            if "Mrs" in sent_chars:
+                sent_chars.remove("Mrs")
 
             # Record first mention position for each character
             for char in sent_chars:
@@ -248,6 +253,9 @@ def analyze_novel(novel):
             # Compute sentiment for the sentence
             sentiment = sia.polarity_scores(sent_text)['compound']
             overall_sentiments.append(sentiment)
+
+        # get the counts of characters for each sentence if it was more than one - to convey the character interaction
+        cumulative_sent_chars.extend([len(s) if len(s) != 1 else 0 for s in sent_characters])
 
         # Character co-occurrence
         for sent_chars in sent_characters:
@@ -515,7 +523,7 @@ def prepare_data_for_modeling(analyses):
     y = pd.Series(labels)
     return X, y, titles, names
 
-# Train Random Forest models to predict the antagonist and protagonist
+# Train Random Forest models to predict the antagonist
 # Antagonist Model
 analyses_train = analyses[0:5]
 analyses_test = analyses[5:]
