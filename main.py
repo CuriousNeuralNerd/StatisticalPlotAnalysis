@@ -114,6 +114,13 @@ crime_keywords = [
     'crime', 'police', 'escape', 'lie', 'disguise', 'alibi', 'false accusation'
 ]
 
+reveal_keywords = [
+    'reveal', 'revealed', 'prove', 'proved', 'show', 'shown', 'demonstrate',
+    'demonstrated', 'truth', 'justice', 'unmask', 'unmasked', 'unmasking',
+    'disclose', 'disclosed', 'admit', 'admitted', 'confess', 'unveil', 'unveiled',
+    'expose', 'exposed', 'disclose', 'disclosed',
+]
+
 # Stop words for filtering
 stop_words = set(stopwords.words('english'))
 
@@ -195,6 +202,7 @@ def analyze_novel(novel):
     character_first_mention = {}
     crime_first_mention = None
     crime_keyword_positions = []
+    reveal_keyword_positions = []
 
     # Character interaction co-occurrence matrix
     co_occurrence_counts = defaultdict(int)
@@ -300,6 +308,10 @@ def analyze_novel(novel):
                         'sentence': cumulative_sentences + sent_idx + 1
                     }
                 crime_keyword_positions.append(cumulative_sentences + sent_idx + 1)
+
+            # Check for reveal-related keywords
+            if any(reveal_word in sent_text.lower() for reveal_word in reveal_keywords):
+                reveal_keyword_positions.append(cumulative_sentences + sent_idx + 1)
 
             # Compute sentiment for the sentence
             sentiment = sia.polarity_scores(sent_text)['compound']
@@ -442,7 +454,8 @@ def analyze_novel(novel):
     # Plot Progression Model Implementation
     # -------------------------------------
     # Segment the novel into equal parts
-    num_segments = 10  # You can adjust the number of segments
+    #num_segments = 10  # You can adjust the number of segments
+    num_segments = 100  # You can adjust the number of segments
     total_sentences = len(overall_sentences)
     segment_size = total_sentences // num_segments
 
@@ -468,6 +481,8 @@ def analyze_novel(novel):
         segment_characters = [standardize_name(name) for name in person_names]
         segment_character_count = len(segment_characters)
 
+        is_reveal_segment = False
+
         # Store the features
         segments.append({
             'segment_index': i,
@@ -475,7 +490,8 @@ def analyze_novel(novel):
             'end_sentence': end_idx,
             'avg_sentiment': avg_sentiment,
             'crime_keyword_count': crime_keyword_count,
-            'character_mention_count': segment_character_count
+            'character_mention_count': segment_character_count,
+            'is_reveal_segment' : is_reveal_segment
         })
 
     # Use KMeans clustering to cluster segments into plot events
@@ -510,7 +526,9 @@ def analyze_novel(novel):
         'overall_sentiments': overall_sentiments,
         'chapters': chapters,
         'crime_keyword_positions': crime_keyword_positions,
+
         'novel_reveal_sentence_index': novel_reveal_sentence_index,
+        'reveal_keyword_positions' : reveal_keyword_positions,
     })
     return analysis
 
@@ -683,7 +701,7 @@ for analysis in analyses:
     title = analysis['title']
     crime_positions = analysis.get('crime_keyword_positions', [])
     plt.figure(figsize=(12, 6))
-    sns.histplot(crime_positions, bins=20, kde=False)
+    sns.histplot(crime_positions, bins=30, kde=False)
     plt.xlabel('Sentence Index')
     plt.ylabel('Frequency')
     plt.title(f"Crime-related Keyword Frequency Distribution for {title}")
@@ -691,10 +709,30 @@ for analysis in analyses:
     # Add vertical line representing reveal sentence
     reveal_sentence_index = analysis['novel_reveal_sentence_index']
     #plt.axvline(x = reveal_sentence_index, color = 'b', label = 'axvline - full height')
-    plt.axvline(x = reveal_sentence_index, color = 'b')
+    plt.axvline(x = reveal_sentence_index, color = 'r')
     # Save plot
 
     plot_filename = os.path.join('plots', f"{title}_crime_keyword_distribution.png")
+    plt.savefig(plot_filename)
+    plt.close()
+
+# reveal-related Keyword Frequency Distribution
+for analysis in analyses:
+    title = analysis['title']
+    reveal_positions = analysis.get('reveal_keyword_positions', [])
+    plt.figure(figsize=(12, 6))
+    sns.histplot(reveal_positions, bins=30, kde=False)
+    plt.xlabel('Sentence Index')
+    plt.ylabel('Frequency')
+    plt.title(f"Reveal-related Keyword Frequency Distribution for {title}")
+
+    # Add vertical line representing reveal sentence
+    reveal_sentence_index = analysis['novel_reveal_sentence_index']
+    #plt.axvline(x = reveal_sentence_index, color = 'b', label = 'axvline - full height')
+    plt.axvline(x = reveal_sentence_index, color = 'r')
+    # Save plot
+
+    plot_filename = os.path.join('plots', f"{title}_reveal_keyword_distribution.png")
     plt.savefig(plot_filename)
     plt.close()
 
