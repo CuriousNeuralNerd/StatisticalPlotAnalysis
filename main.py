@@ -503,7 +503,7 @@ def analyze_novel(novel):
         'chapters': chapters,
         'crime_keyword_positions': crime_keyword_positions,
         'char_centralities': char_centralities,
-
+        'cumulative_sent_chars': cumulative_sent_chars,
         'novel_reveal_sentence_index': novel_reveal_sentence_index,
         'reveal_keyword_positions' : reveal_keyword_positions,
     })
@@ -703,6 +703,30 @@ for analysis in analyses:
     # Save plot
 
     plot_filename = os.path.join('plots', f"{title}_reveal_keyword_distribution.png")
+    plt.savefig(plot_filename)
+    plt.close()
+
+# character co-occurrence Distribution
+for analysis in analyses:
+    title = analysis['title']
+    cumulative_sent_chars = analysis.get('cumulative_sent_chars', [])
+    co_occurrence_positions = []
+    for i in range(len(cumulative_sent_chars)):
+        if cumulative_sent_chars[i] > 0:
+            co_occurrence_positions.append(i)
+    plt.figure(figsize=(12, 6))
+    sns.histplot(co_occurrence_positions, bins=30, kde=False)
+    plt.xlabel('Sentence Index')
+    plt.ylabel('Frequency')
+    plt.title(f"Character Co-occurrence Frequency Distribution for {title}")
+
+    # Add vertical line representing reveal sentence
+    reveal_sentence_index = analysis['novel_reveal_sentence_index']
+    #plt.axvline(x = reveal_sentence_index, color = 'b', label = 'axvline - full height')
+    plt.axvline(x = reveal_sentence_index, color = 'r')
+    # Save plot
+
+    plot_filename = os.path.join('plots', f"{title}_char_cooccurrence_distribution.png")
     plt.savefig(plot_filename)
     plt.close()
 
