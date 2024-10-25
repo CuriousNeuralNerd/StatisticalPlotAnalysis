@@ -144,7 +144,7 @@ def analyze_novel(novel):
         "Mary Cavendish": ["Mary Cavendish", "Mary"],
         "Evelyn Howard": ["Evelyn Howard", "Miss Howard"],
         "Dr. Bauerstein": ["Dr. Bauerstein", "Bauerstein"],
-        "Cynthia Murdoch": ["Mademoiselle Cynthia", "Miss Cynthia", "Cynthia Murdoch"]
+        "Cynthia Murdoch": ["Mademoiselle Cynthia", "Miss Cynthia", "Cynthia Murdoch"],
         # The Case of the Missing Will
         #"Miss Violet Marsh": ["Miss Violet Marsh"],
         # The Murder on the Links
@@ -264,11 +264,8 @@ def analyze_novel(novel):
     overall_character_counts = Counter(overall_character_entities)
     # Set a frequency threshold to filter out incidental mentions and misclassifications
     frequency_threshold = 5
-    overall_major_characters = [char for char, count in overall_character_counts.items() if count >= frequency_threshold]
+    overall_major_characters = [char for char, count in overall_character_counts.items() if char in character_aliases]
 
-    # If no major characters found, use top N characters
-    if not overall_major_characters:
-        overall_major_characters = [char for char, count in overall_character_counts.most_common(5)]
     print("="*50)
     print(overall_major_characters)
     print("="*50)
@@ -356,6 +353,10 @@ def analyze_novel(novel):
     G = nx.Graph()
     for pair, weight in co_occurrence_counts.items():
         G.add_edge(pair[0], pair[1], weight=weight)
+    char_centralities = {}
+    for char in overall_major_characters:
+        if G.has_node(char):
+            char_centralities[char] = nx.degree_centrality(G)[char]
     if G.has_node(antagonist):
         antagonist_centrality = nx.degree_centrality(G)[antagonist]
     else:
@@ -456,7 +457,8 @@ def analyze_novel(novel):
         'protagonist_centrality': protagonist_centrality,
         'overall_sentiments': overall_sentiments,
         'chapters': chapters,
-        'crime_keyword_positions': crime_keyword_positions
+        'crime_keyword_positions': crime_keyword_positions,
+        'char_centralities': char_centralities
     })
     return analysis
 
@@ -467,13 +469,12 @@ for novel in tqdm(novels_data, desc="Analyzing Novels"):
     analyses.append(analysis)
 
 # Prepare data for antagonist and protagonist prediction
-def prepare_data_for_modeling(analyses, role='antagonist'):
+def prepare_data_for_modeling(analyses):
     """
-    Prepares feature matrix X and label vector y for the antagonist/protagonist prediction model.
+    Prepares feature matrix X and label vector y for the antagonist prediction model.
 
     Args:
         analyses (list): List of analysis dictionaries for each novel.
-        role (str): 'antagonist' or 'protagonist'.
 
     Returns:
         X (DataFrame): Feature matrix.
@@ -483,71 +484,61 @@ def prepare_data_for_modeling(analyses, role='antagonist'):
     features = []
     labels = []
     titles = []
+    names = []
 
     for analysis in analyses:
-        if analysis['protagonist'] and analysis['antagonist']:
-            character = analysis[role]
+        protagonist = analysis['protagonist']
+        for character in analysis['major_characters']:
+            if analysis['protagonist'] == character:
+                continue
+
             features.append([
-                len(analysis['major_characters']),
+                #len(analysis['major_characters']),
                 analysis['character_sentiments'].get(character, 0),
                 analysis['character_crime_cooccurrence'].get(character, 0),
-                analysis[f'{role}_first_mention']['sentence'],  # Position of first mention
-                analysis['interaction_with_protagonist'] if role == 'antagonist' else analysis['interaction_with_others'],
-                analysis[f'{role}_centrality']                  # Centrality measure
+                analysis['character_first_mention'][character]['sentence'],  # Position of first mention
+                analysis['co_occurrence_counts'].get(tuple(sorted([protagonist, character])), 0), # interaction with protagonist
+                analysis['char_centralities'].get(character, 0)                  # Centrality measure
             ])
-            labels.append(character)
+            labels.append(int(character==analysis['antagonist']))
+            names.append(character)
             titles.append(analysis['title'])
 
     X = pd.DataFrame(features, columns=[
-        'num_characters',
-        f'{role}_sentiment',
+        #'num_characters',
+        'character_sentiment',
         'crime_cooccurrence',
-        f'{role}_first_mention',
-        f'interaction_with_{"protagonist" if role == "antagonist" else "others"}',
-        f'{role}_centrality'
+        'character_first_mention',
+        'interaction_with_protagonist',
+        'character_centrality'
     ])
     y = pd.Series(labels)
-    return X, y, titles
+    return X, y, titles, names
 
 # Train Random Forest models to predict the antagonist and protagonist
 # Antagonist Model
-X_ant, y_ant, titles_ant = prepare_data_for_modeling(analyses, role='antagonist')
-label_encoder_ant = LabelEncoder()
-y_ant_encoded = label_encoder_ant.fit_transform(y_ant)
+X_ant, y_ant, titles_ant, names = prepare_data_for_modeling(analyses)
 rf_model_ant = RandomForestClassifier(n_estimators=100, random_state=rState)
 
 if len(X_ant) >= 2:
     n_splits = min(5, len(X_ant))
     kf = KFold(n_splits=n_splits, shuffle=True, random_state=rState)
-    accuracies = cross_val_score(rf_model_ant, X_ant, y_ant_encoded, cv=kf, scoring='accuracy')
-    print(f"Antagonist Model Cross-Validation Accuracy: {np.mean(accuracies):.4f}")
+    accuracies = cross_val_score(rf_model_ant, X_ant, y_ant, cv=kf, scoring='accuracy')
+    print(f"Antagonist Model Cross-Validation Mean Accuracy: {np.mean(accuracies):.4f}")
+    print(f"Antagonist Model Cross-Validation Accuracies: {accuracies}")
 
-rf_model_ant.fit(X_ant, y_ant_encoded)
-y_ant_pred_encoded = rf_model_ant.predict(X_ant)
-y_ant_pred = label_encoder_ant.inverse_transform(y_ant_pred_encoded)
+rf_model_ant.fit(X_ant, y_ant)
+y_ant_pred = rf_model_ant.predict(X_ant)
+#y_ant_pred = label_encoder_ant.inverse_transform(y_ant_pred_encoded)
 
-# Protagonist Model
-X_prot, y_prot, titles_prot = prepare_data_for_modeling(analyses, role='protagonist')
-label_encoder_prot = LabelEncoder()
-y_prot_encoded = label_encoder_prot.fit_transform(y_prot)
-rf_model_prot = RandomForestClassifier(n_estimators=100, random_state=rState)
 
-if len(X_prot) >= 2:
-    n_splits = min(5, len(X_prot))
-    kf = KFold(n_splits=n_splits, shuffle=True, random_state=rState)
-    accuracies = cross_val_score(rf_model_prot, X_prot, y_prot_encoded, cv=kf, scoring='accuracy')
-    print(f"Protagonist Model Cross-Validation Accuracy: {np.mean(accuracies):.4f}")
-
-rf_model_prot.fit(X_prot, y_prot_encoded)
-y_prot_pred_encoded = rf_model_prot.predict(X_prot)
-y_prot_pred = label_encoder_prot.inverse_transform(y_prot_pred_encoded)
 
 # Output the novel titles with their predicted antagonists and protagonists
-for analysis, antagonist_pred, protagonist_pred in zip(analyses, y_ant_pred, y_prot_pred):
+for analysis, antagonist_pred in zip(analyses, y_ant_pred):
     title = analysis['title']
     # Prepare report content
     report_content = f"Novel: {title}\n"
-    report_content += f"Predicted Protagonist: {protagonist_pred}\n"
+    #report_content += f"Predicted Protagonist: {protagonist_pred}\n"
     report_content += f"Predicted Antagonist: {antagonist_pred}\n"
     report_content += "-" * 50 + "\n"
 
@@ -572,7 +563,8 @@ for analysis, antagonist_pred, protagonist_pred in zip(analyses, y_ant_pred, y_p
 
 # Print Classification Reports
 print("Antagonist Classification Report:")
-report_ant = classification_report(y_ant, y_ant_pred, target_names=label_encoder_ant.classes_)
+#report_ant = classification_report(y_ant, y_ant_pred, target_names=label_encoder_ant.classes_)
+report_ant = classification_report(y_ant, y_ant_pred)
 print(report_ant)
 # Save report to file
 report_filename_ant = os.path.join('reports', 'antagonist_classification_report.txt')
@@ -580,14 +572,7 @@ with open(report_filename_ant, 'w') as f:
     f.write("Antagonist Classification Report:\n")
     f.write(report_ant)
 
-print("Protagonist Classification Report:")
-report_prot = classification_report(y_prot, y_prot_pred, target_names=label_encoder_prot.classes_)
-print(report_prot)
-# Save report to file
-report_filename_prot = os.path.join('reports', 'protagonist_classification_report.txt')
-with open(report_filename_prot, 'w') as f:
-    f.write("Protagonist Classification Report:\n")
-    f.write(report_prot)
+
 
 # Generate Visualizations
 # Character Interaction Network
@@ -663,17 +648,14 @@ with open(analysis_filename, 'w') as f:
     f.write("\nAnalysis:\n")
     for i, analysis in enumerate(analyses):
         title = analysis['title']
-        actual_antagonist = y_ant.iloc[i]
-        predicted_antagonist = y_ant_pred[i]
-        actual_protagonist = y_prot.iloc[i]
-        predicted_protagonist = y_prot_pred[i]
+        actual_antagonist = analysis['antagonist']
         f.write(f"Novel: {title}\n")
-        f.write(f"Actual Protagonist: {actual_protagonist}\n")
-        f.write(f"Predicted Protagonist: {predicted_protagonist}\n")
-        if actual_protagonist == predicted_protagonist:
-            f.write("The model correctly identified the protagonist.\n")
-        else:
-            f.write("The model failed to identify the correct protagonist.\n")
+        predicted_antagonist = "NONE"
+        for j in range(len(y_ant_pred)):
+            if titles_ant[j] == title:
+                f.write(f"  {names[j]} antagonist prediction: {y_ant_pred[j]}\n")
+                if y_ant_pred[j] == 1:
+                    predicted_antagonist = names[j]
         f.write(f"Actual Antagonist: {actual_antagonist}\n")
         f.write(f"Predicted Antagonist: {predicted_antagonist}\n")
         if actual_antagonist == predicted_antagonist:

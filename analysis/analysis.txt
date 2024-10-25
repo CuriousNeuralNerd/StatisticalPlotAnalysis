@@ -1,65 +1,103 @@
 
 Analysis:
 Novel: clean_novel1
-Actual Protagonist: Hercule Poirot
-Predicted Protagonist: Hercule Poirot
-The model correctly identified the protagonist.
+  Ashley Ferrars antagonist prediction: 0
+  Caroline Sheppard antagonist prediction: 0
+  Dr. James Sheppard antagonist prediction: 1
+  Roger Ackroyd antagonist prediction: 0
+  Ralph Paton antagonist prediction: 0
+  Flora Ackroyd antagonist prediction: 0
+  Parker antagonist prediction: 0
+  Geoffrey Raymond antagonist prediction: 0
+  Inspector Raglan antagonist prediction: 0
+  Captain Hastings antagonist prediction: 0
+  Ursula Bourne antagonist prediction: 0
+  Inspector Japp antagonist prediction: 0
 Actual Antagonist: Dr. James Sheppard
 Predicted Antagonist: Dr. James Sheppard
 The model correctly identified the antagonist.
 --------------------------------------------------
 Novel: clean_novel2
-Actual Protagonist: Hercule Poirot
-Predicted Protagonist: Hercule Poirot
-The model correctly identified the protagonist.
+  John Cavendish antagonist prediction: 0
+  Captain Hastings antagonist prediction: 0
+  Jack Renauld antagonist prediction: 0
+  Alfred Inglethorp antagonist prediction: 1
+  Mary Cavendish antagonist prediction: 0
+  Evelyn Howard antagonist prediction: 0
+  Emily Inglethorp antagonist prediction: 0
+  Dr. Bauerstein antagonist prediction: 0
+  Cynthia Murdoch antagonist prediction: 0
+  Inspector Japp antagonist prediction: 0
 Actual Antagonist: Alfred Inglethorp
 Predicted Antagonist: Alfred Inglethorp
 The model correctly identified the antagonist.
 --------------------------------------------------
 Novel: clean_novel4
-Actual Protagonist: Hercule Poirot
-Predicted Protagonist: Hercule Poirot
-The model correctly identified the protagonist.
+  Captain Hastings antagonist prediction: 0
+  Inspector Japp antagonist prediction: 0
+  John Cavendish antagonist prediction: 0
+  Jack Renauld antagonist prediction: 0
+  Madame Daubreuil antagonist prediction: 0
+  Paul Renauld antagonist prediction: 0
+  Dr. James Sheppard antagonist prediction: 0
+  Marthe Daubreuil antagonist prediction: 1
+  Mary Cavendish antagonist prediction: 0
+  Joseph Aarons antagonist prediction: 0
 Actual Antagonist: Marthe Daubreuil
 Predicted Antagonist: Marthe Daubreuil
 The model correctly identified the antagonist.
 --------------------------------------------------
 Novel: clean_novel5
-Actual Protagonist: Anne Beddingfeld
-Predicted Protagonist: Anne Beddingfeld
-The model correctly identified the protagonist.
+  Emily Inglethorp antagonist prediction: 0
+  Sir Eustace Pedler antagonist prediction: 1
+  Mary Cavendish antagonist prediction: 0
+  Dr. James Sheppard antagonist prediction: 0
+  Caroline Sheppard antagonist prediction: 0
+  John Eardsley antagonist prediction: 0
+  Anita Grünberg antagonist prediction: 0
+  Parker antagonist prediction: 0
 Actual Antagonist: Sir Eustace Pedler
 Predicted Antagonist: Sir Eustace Pedler
 The model correctly identified the antagonist.
 --------------------------------------------------
 Novel: clean_novel6
-Actual Protagonist: Hercule Poirot
-Predicted Protagonist: Hercule Poirot
-The model correctly identified the protagonist.
+  Rufus Van Aldin antagonist prediction: 0
+  Major Richard Knighton antagonist prediction: 1
+  Mirelle antagonist prediction: 0
+  Dr. James Sheppard antagonist prediction: 0
+  Inspector Japp antagonist prediction: 0
+  Mary Cavendish antagonist prediction: 0
+  Joseph Aarons antagonist prediction: 0
+  Captain Hastings antagonist prediction: 0
 Actual Antagonist: Major Richard Knighton
 Predicted Antagonist: Major Richard Knighton
 The model correctly identified the antagonist.
 --------------------------------------------------
 Novel: clean_novel7
-Actual Protagonist: Hercule Poirot
-Predicted Protagonist: Hercule Poirot
-The model correctly identified the protagonist.
+  Captain Hastings antagonist prediction: 0
+  Inspector Japp antagonist prediction: 0
+  Claude Darrell antagonist prediction: 1
+  Inspector Raglan antagonist prediction: 0
+  Dr. James Sheppard antagonist prediction: 0
+  Joseph Aarons antagonist prediction: 0
 Actual Antagonist: Claude Darrell
 Predicted Antagonist: Claude Darrell
 The model correctly identified the antagonist.
 --------------------------------------------------
 Novel: clean_novel8
-Actual Protagonist: Tuppence Cowley
-Predicted Protagonist: Tuppence Cowley
-The model correctly identified the protagonist.
+  Dr. James Sheppard antagonist prediction: 0
+  Inspector Japp antagonist prediction: 0
+  Julius P. Hersheimmer antagonist prediction: 0
+  Mr. Brown antagonist prediction: 1
+  Thomas Beresford antagonist prediction: 0
 Actual Antagonist: Mr. Brown
 Predicted Antagonist: Mr. Brown
 The model correctly identified the antagonist.
 --------------------------------------------------
 Novel: clean_novel9
-Actual Protagonist: Anthony Cade
-Predicted Protagonist: Anthony Cade
-The model correctly identified the protagonist.
+  Dr. James Sheppard antagonist prediction: 0
+  King Victor antagonist prediction: 1
+  Hiram P. Fish antagonist prediction: 0
 Actual Antagonist: King Victor
 Predicted Antagonist: King Victor
 The model correctly identified the antagonist.
