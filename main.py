@@ -18,8 +18,9 @@ from nltk.corpus import stopwords
 from nltk.sentiment import SentimentIntensityAnalyzer
 from tqdm import tqdm
 
+
 # Enable GPU support for spaCy
-#spacy.require_gpu()
+##spacy.require_gpu()
 
 # Download necessary NLTK data files
 nltk.download('vader_lexicon')
@@ -73,10 +74,10 @@ def load_and_preprocess_text(file_path):
             end = chapter_starts[idx + 1] if idx + 1 < len(chapter_starts) else len(text)
             chapter_text = text[start:end].strip()
             chapter_title = chapter_titles[idx]
-            chapters.append({'title': chapter_title, 'text': chapter_text})
+            chapters.append({'title': chapter_title, 'text': chapter_text.replace('\n', ' ').replace('\r', ' ').replace('   ', ' ').replace('  ', ' ') })
     else:
         # If no chapters are found, treat the entire text as one chapter
-        chapters.append({'title': 'Chapter 1', 'text': text})
+        chapters.append({'title': 'Chapter 1', 'text': text.replace('\n', ' ').replace('\r', ' ').replace('   ', ' ').replace('  ', ' ') })
 
     return chapters
 
@@ -105,8 +106,26 @@ crime_keywords = [
     'crime', 'police', 'escape', 'lie', 'disguise', 'alibi', 'false accusation'
 ]
 
+reveal_keywords = [
+    'reveal', 'revealed', 'prove', 'proved', 'show', 'shown', 'demonstrate',
+    'demonstrated', 'truth', 'justice', 'unmask', 'unmasked', 'unmasking',
+    'disclose', 'disclosed', 'admit', 'admitted', 'confess', 'unveil', 'unveiled',
+    'expose', 'exposed', 'disclose', 'disclosed',
+]
+
 # Stop words for filtering
 stop_words = set(stopwords.words('english'))
+
+novel_reveal_sentences = {
+    'clean_novel1' :  'A person who was at the Three Boars earlier that day, a person who knew Ackroyd well enough to know that he had purchased a dictaphone, a person who was of a mechanical turn of mind, who had the opportunity to take the dagger from the silver table before Miss Flora arrived, who had with him a receptacle suitable for hiding the dictaphone—such as a black bag, and who had the study to himself for a few minutes after the crime was discovered while Parker was telephoning for the police.',
+    'clean_novel2' : 'let me introduce you to the murderer, Mr. Alfred Inglethorp!',
+    'clean_novel4' : 'Puzzled and uncomprehending, I knelt down, and lifting the fold of cloth, looked into the dead beautiful face of Marthe Daubreuil!',
+    'clean_novel5' : 'How long have you known that I was the',
+    'clean_novel6' : 'As I expect you know, the French police want you rather urgently, Major Knighton--or shall we say--Monsieur le Marquis?"',
+    'clean_novel7' : 'Number One is a Chinaman, Li Chang Yen; Number Two is the American multi-millionaire, Abe Ryland; Number Three is a Frenchwoman; Number Four I have every reason to believe is an obscure English actor called Claud Darrell.',
+    'clean_novel8' : 'I am Mr. Brown_....” Stupefied, unbelieving, they stared at him.',
+    'clean_novel9' : 'On the floor, the pistol still clasped in her hand, and an expression of deadly malignity on her face, lay—Mademoiselle Brun.'
+}
 
 def analyze_novel(novel):
     """
@@ -194,6 +213,7 @@ def analyze_novel(novel):
     character_first_mention = {}
     crime_first_mention = None
     crime_keyword_positions = []
+    reveal_keyword_positions = []
 
     # Character interaction co-occurrence matrix
     co_occurrence_counts = defaultdict(int)
@@ -217,6 +237,7 @@ def analyze_novel(novel):
         # Extract named entities and map to standardized character names
         character_entities = []
         sent_characters = [set() for _ in sentences]
+        num_sent_characters = []
         for sent_idx, sent in enumerate(sentences):
             sent_text = sent.text.strip()
             # Extract characters in the sentence
@@ -237,8 +258,15 @@ def analyze_novel(novel):
                         'sentence': cumulative_sentences + sent_idx + 1
                     }
 
+
+            sent = str(sent)
+                    
+            if novel_reveal_sentences[title] in sent:
+                novel_reveal_sentence_index = cumulative_sentences + sent_idx + 1
+
             character_entities.extend(sent_chars)
             sent_characters[sent_idx] = sent_chars
+
 
             # Check for crime-related keywords
             if any(crime_word in sent_text.lower() for crime_word in crime_keywords):
@@ -249,6 +277,10 @@ def analyze_novel(novel):
                         'sentence': cumulative_sentences + sent_idx + 1
                     }
                 crime_keyword_positions.append(cumulative_sentences + sent_idx + 1)
+
+            # Check for reveal-related keywords
+            if any(reveal_word in sent_text.lower() for reveal_word in reveal_keywords):
+                reveal_keyword_positions.append(cumulative_sentences + sent_idx + 1)
 
             # Compute sentiment for the sentence
             sentiment = sia.polarity_scores(sent_text)['compound']
@@ -398,7 +430,8 @@ def analyze_novel(novel):
     # Plot Progression Model Implementation
     # -------------------------------------
     # Segment the novel into equal parts
-    num_segments = 10  # You can adjust the number of segments
+    #num_segments = 10  # You can adjust the number of segments
+    num_segments = 100  # You can adjust the number of segments
     total_sentences = len(overall_sentences)
     segment_size = total_sentences // num_segments
 
@@ -424,6 +457,8 @@ def analyze_novel(novel):
         segment_characters = [standardize_name(name) for name in person_names]
         segment_character_count = len(segment_characters)
 
+        is_reveal_segment = False
+
         # Store the features
         segments.append({
             'segment_index': i,
@@ -431,7 +466,8 @@ def analyze_novel(novel):
             'end_sentence': end_idx,
             'avg_sentiment': avg_sentiment,
             'crime_keyword_count': crime_keyword_count,
-            'character_mention_count': segment_character_count
+            'character_mention_count': segment_character_count,
+            'is_reveal_segment' : is_reveal_segment
         })
 
     # Use KMeans clustering to cluster segments into plot events
@@ -466,7 +502,10 @@ def analyze_novel(novel):
         'overall_sentiments': overall_sentiments,
         'chapters': chapters,
         'crime_keyword_positions': crime_keyword_positions,
-        'char_centralities': char_centralities
+        'char_centralities': char_centralities,
+
+        'novel_reveal_sentence_index': novel_reveal_sentence_index,
+        'reveal_keyword_positions' : reveal_keyword_positions,
     })
     return analysis
 
@@ -632,12 +671,38 @@ for analysis in analyses:
     title = analysis['title']
     crime_positions = analysis.get('crime_keyword_positions', [])
     plt.figure(figsize=(12, 6))
-    sns.histplot(crime_positions, bins=20, kde=False)
+    sns.histplot(crime_positions, bins=30, kde=False)
     plt.xlabel('Sentence Index')
     plt.ylabel('Frequency')
     plt.title(f"Crime-related Keyword Frequency Distribution for {title}")
+
+    # Add vertical line representing reveal sentence
+    reveal_sentence_index = analysis['novel_reveal_sentence_index']
+    #plt.axvline(x = reveal_sentence_index, color = 'b', label = 'axvline - full height')
+    plt.axvline(x = reveal_sentence_index, color = 'r')
     # Save plot
+
     plot_filename = os.path.join('plots', f"{title}_crime_keyword_distribution.png")
+    plt.savefig(plot_filename)
+    plt.close()
+
+# reveal-related Keyword Frequency Distribution
+for analysis in analyses:
+    title = analysis['title']
+    reveal_positions = analysis.get('reveal_keyword_positions', [])
+    plt.figure(figsize=(12, 6))
+    sns.histplot(reveal_positions, bins=30, kde=False)
+    plt.xlabel('Sentence Index')
+    plt.ylabel('Frequency')
+    plt.title(f"Reveal-related Keyword Frequency Distribution for {title}")
+
+    # Add vertical line representing reveal sentence
+    reveal_sentence_index = analysis['novel_reveal_sentence_index']
+    #plt.axvline(x = reveal_sentence_index, color = 'b', label = 'axvline - full height')
+    plt.axvline(x = reveal_sentence_index, color = 'r')
+    # Save plot
+
+    plot_filename = os.path.join('plots', f"{title}_reveal_keyword_distribution.png")
     plt.savefig(plot_filename)
     plt.close()
 
@@ -652,6 +717,7 @@ for analysis in analyses:
     plt.ylabel('Value')
     plt.title(f"Plot Progression Analysis for {title}")
     plt.legend()
+
     # Save plot
     plot_filename = os.path.join('plots', f"{title}_plot_progression.png")
     plt.savefig(plot_filename)
@@ -659,6 +725,7 @@ for analysis in analyses:
 
 # Analysis
 # -----------------------
+
 
 # Save analysis outputs to a file
 analysis_filename = os.path.join('analysis', 'analysis.txt')
