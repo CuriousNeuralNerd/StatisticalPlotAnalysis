@@ -75,10 +75,10 @@ def load_and_preprocess_text(file_path):
             end = chapter_starts[idx + 1] if idx + 1 < len(chapter_starts) else len(text)
             chapter_text = text[start:end].strip()
             chapter_title = chapter_titles[idx]
-            chapters.append({'title': chapter_title, 'text': chapter_text})
+            chapters.append({'title': chapter_title, 'text': chapter_text.replace('\n', ' ').replace('\r', ' ').replace('   ', ' ').replace('  ', ' ') })
     else:
         # If no chapters are found, treat the entire text as one chapter
-        chapters.append({'title': 'Chapter 1', 'text': text})
+        chapters.append({'title': 'Chapter 1', 'text': text.replace('\n', ' ').replace('\r', ' ').replace('   ', ' ').replace('  ', ' ') })
 
     return chapters
 
@@ -116,6 +116,17 @@ crime_keywords = [
 
 # Stop words for filtering
 stop_words = set(stopwords.words('english'))
+
+novel_reveal_sentences = {
+    'clean_novel1' :  'A person who was at the Three Boars earlier that day, a person who knew Ackroyd well enough to know that he had purchased a dictaphone, a person who was of a mechanical turn of mind, who had the opportunity to take the dagger from the silver table before Miss Flora arrived, who had with him a receptacle suitable for hiding the dictaphone—such as a black bag, and who had the study to himself for a few minutes after the crime was discovered while Parker was telephoning for the police.',
+    'clean_novel2' : 'let me introduce you to the murderer, Mr. Alfred Inglethorp!',
+    'clean_novel4' : 'Puzzled and uncomprehending, I knelt down, and lifting the fold of cloth, looked into the dead beautiful face of Marthe Daubreuil!',
+    'clean_novel5' : 'How long have you known that I was the',
+    'clean_novel6' : 'As I expect you know, the French police want you rather urgently, Major Knighton--or shall we say--Monsieur le Marquis?"',
+    'clean_novel7' : 'Number One is a Chinaman, Li Chang Yen; Number Two is the American multi-millionaire, Abe Ryland; Number Three is a Frenchwoman; Number Four I have every reason to believe is an obscure English actor called Claud Darrell.',
+    'clean_novel8' : 'I am Mr. Brown_....” Stupefied, unbelieving, they stared at him.',
+    'clean_novel9' : 'On the floor, the pistol still clasped in her hand, and an expression of deadly malignity on her face, lay—Mademoiselle Brun.'
+}
 
 def analyze_novel(novel):
     """
@@ -197,15 +208,23 @@ def analyze_novel(novel):
 
     ## MIKO CODE
     # Create list of all sentences then print to file
-    chapter_texts_nonewline = [chapter['text'].replace('\n', ' ').replace('\r', ' ').replace('   ', ' ').replace('  ', ' ') for chapter in chapters]
-    docs2 = list(nlp.pipe(chapter_texts_nonewline))
-    all_sents = []
-    for d in docs2:
-        all_sents = all_sents + list(d.sents)
+    #chapter_texts_nonewline = [chapter['text'].replace('\n', ' ').replace('\r', ' ').replace('   ', ' ').replace('  ', ' ') for chapter in chapters]
+    #docs2 = list(nlp.pipe(chapter_texts_nonewline))
+    #all_sents = []
+    #for d in docs2:
+        #all_sents = all_sents + list(d.sents)
 
-    with open( 'sentences/' + title + '_sentences.txt', 'w') as f:
-        for line in all_sents:
-            f.write(f"{line}\n")
+    #with open( 'sentences/' + title + '_sentences.txt', 'w') as f:
+        #for line in all_sents:
+            #f.write(f"{line}\n")
+            
+    #all_sents_2 = []
+    #for d in docs:
+        #all_sents_2 = all_sents_2 + list(d.sents)
+
+    #with open( 'sentences/' + title + '_sentences_2.txt', 'w') as f:
+        #for line in all_sents_2:
+            #f.write(f"{line}\n")
 
 
     for chapter_idx, (chapter, doc) in enumerate(zip(chapters, docs)):
@@ -234,6 +253,40 @@ def analyze_novel(novel):
                         'chapter': chapter_idx + 1,
                         'sentence': cumulative_sentences + sent_idx + 1
                     }
+
+
+            sent = str(sent)
+            # Record if reveal sentence is found
+            #print(novel_reveal_sentences[title])
+            #print(sent)
+            #print(novel_reveal_sentences[title])
+            #print(sent)
+            #print(novel_reveal_sentences[title])
+            #print(len(sent))
+            #print(type((sent)))
+
+
+            #if(len(sent) == 115):
+                ##print(sent)
+                ##print(novel_reveal_sentences[title])
+
+                #if(sent[54:-1] == novel_reveal_sentences[title]):
+                    #print("sentences are the same")
+
+                #if novel_reveal_sentences[title] in sent:
+                    #print("Sentence found for")
+                    #print(title)
+                    #print('sentence is:')
+                    #print(sent)
+                    
+            if novel_reveal_sentences[title] in sent:
+                print('here')
+                novel_reveal_sentence_index = cumulative_sentences + sent_idx + 1
+                print(f'novel reveal sentence location is: {novel_reveal_sentence_index}')
+                #print("Sentence found for")
+                #print(title)
+                #print('sentence is:')
+                #print(sent)
 
             character_entities.extend(sent_chars)
             sent_characters[sent_idx] = sent_chars
@@ -456,7 +509,8 @@ def analyze_novel(novel):
         'protagonist_centrality': protagonist_centrality,
         'overall_sentiments': overall_sentiments,
         'chapters': chapters,
-        'crime_keyword_positions': crime_keyword_positions
+        'crime_keyword_positions': crime_keyword_positions,
+        'novel_reveal_sentence_index': novel_reveal_sentence_index,
     })
     return analysis
 
@@ -633,7 +687,13 @@ for analysis in analyses:
     plt.xlabel('Sentence Index')
     plt.ylabel('Frequency')
     plt.title(f"Crime-related Keyword Frequency Distribution for {title}")
+
+    # Add vertical line representing reveal sentence
+    reveal_sentence_index = analysis['novel_reveal_sentence_index']
+    #plt.axvline(x = reveal_sentence_index, color = 'b', label = 'axvline - full height')
+    plt.axvline(x = reveal_sentence_index, color = 'b')
     # Save plot
+
     plot_filename = os.path.join('plots', f"{title}_crime_keyword_distribution.png")
     plt.savefig(plot_filename)
     plt.close()
@@ -649,6 +709,7 @@ for analysis in analyses:
     plt.ylabel('Value')
     plt.title(f"Plot Progression Analysis for {title}")
     plt.legend()
+
     # Save plot
     plot_filename = os.path.join('plots', f"{title}_plot_progression.png")
     plt.savefig(plot_filename)
