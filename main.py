@@ -18,7 +18,6 @@ from nltk.corpus import stopwords
 from nltk.sentiment import SentimentIntensityAnalyzer
 from tqdm import tqdm
 
-print("bruh")
 
 # Enable GPU support for spaCy
 #spacy.require_gpu()
@@ -99,13 +98,6 @@ for path in novel_paths:
         'title': os.path.basename(path).replace('.txt', ''),
         'chapters': chapters
     })
-
-#print()
-#print('yo')
-#print(type(novels_data[0]['chapters'][0]['text']))
-#print()
-#print(novels_data[0]['chapters'][0]['text'])
-#print()
 
 # List of crime-related keywords
 crime_keywords = [
@@ -215,25 +207,6 @@ def analyze_novel(novel):
     cumulative_sentence_counts = []
 
     ## MIKO CODE
-    # Create list of all sentences then print to file
-    #chapter_texts_nonewline = [chapter['text'].replace('\n', ' ').replace('\r', ' ').replace('   ', ' ').replace('  ', ' ') for chapter in chapters]
-    #docs2 = list(nlp.pipe(chapter_texts_nonewline))
-    #all_sents = []
-    #for d in docs2:
-        #all_sents = all_sents + list(d.sents)
-
-    #with open( 'sentences/' + title + '_sentences.txt', 'w') as f:
-        #for line in all_sents:
-            #f.write(f"{line}\n")
-            
-    #all_sents_2 = []
-    #for d in docs:
-        #all_sents_2 = all_sents_2 + list(d.sents)
-
-    #with open( 'sentences/' + title + '_sentences_2.txt', 'w') as f:
-        #for line in all_sents_2:
-            #f.write(f"{line}\n")
-
 
     for chapter_idx, (chapter, doc) in enumerate(zip(chapters, docs)):
         chapter_title = chapter['title']
@@ -246,6 +219,7 @@ def analyze_novel(novel):
         # Extract named entities and map to standardized character names
         character_entities = []
         sent_characters = [set() for _ in sentences]
+        num_sent_characters = []
         for sent_idx, sent in enumerate(sentences):
             sent_text = sent.text.strip()
             # Extract characters in the sentence
@@ -264,40 +238,13 @@ def analyze_novel(novel):
 
 
             sent = str(sent)
-            # Record if reveal sentence is found
-            #print(novel_reveal_sentences[title])
-            #print(sent)
-            #print(novel_reveal_sentences[title])
-            #print(sent)
-            #print(novel_reveal_sentences[title])
-            #print(len(sent))
-            #print(type((sent)))
-
-
-            #if(len(sent) == 115):
-                ##print(sent)
-                ##print(novel_reveal_sentences[title])
-
-                #if(sent[54:-1] == novel_reveal_sentences[title]):
-                    #print("sentences are the same")
-
-                #if novel_reveal_sentences[title] in sent:
-                    #print("Sentence found for")
-                    #print(title)
-                    #print('sentence is:')
-                    #print(sent)
                     
             if novel_reveal_sentences[title] in sent:
-                print('here')
                 novel_reveal_sentence_index = cumulative_sentences + sent_idx + 1
-                print(f'novel reveal sentence location is: {novel_reveal_sentence_index}')
-                #print("Sentence found for")
-                #print(title)
-                #print('sentence is:')
-                #print(sent)
 
             character_entities.extend(sent_chars)
             sent_characters[sent_idx] = sent_chars
+
 
             # Check for crime-related keywords
             if any(crime_word in sent_text.lower() for crime_word in crime_keywords):
@@ -316,6 +263,7 @@ def analyze_novel(novel):
             # Compute sentiment for the sentence
             sentiment = sia.polarity_scores(sent_text)['compound']
             overall_sentiments.append(sentiment)
+        
 
         # Character co-occurrence
         for sent_chars in sent_characters:
@@ -756,7 +704,6 @@ for analysis in analyses:
 # Analysis
 # -----------------------
 
-print('bruh2')
 
 # Save analysis outputs to a file
 analysis_filename = os.path.join('analysis', 'analysis.txt')
