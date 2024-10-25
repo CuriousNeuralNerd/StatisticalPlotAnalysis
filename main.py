@@ -15,6 +15,7 @@ from sklearn.neural_network import MLPRegressor
 from sklearn.metrics import classification_report
 from sklearn.preprocessing import LabelEncoder
 from sklearn.cluster import KMeans
+from sklearn.metrics import make_scorer, mean_squared_error
 from nltk.corpus import stopwords
 from nltk.sentiment import SentimentIntensityAnalyzer
 from tqdm import tqdm
@@ -609,7 +610,7 @@ y_ant_pred_test = rf_model_ant.predict(X_ant_test)
 y_ant_pred = rf_model_ant.predict(X_ant)
 
 # Plot Progression Model
-mlp = MLPRegressor((100,50))
+mlp = MLPRegressor((100,50), random_state=rState)
 X_plot_progression = []
 y_plot_progression = []
 for analysis in analyses:
@@ -630,7 +631,7 @@ for analysis in analyses:
     x_plot_progression_novel = avg_sentiment_list + reveal_list + crime_list + co_occurrence_list
     X_plot_progression.append(x_plot_progression_novel)
     y_plot_progression.append(analysis['novel_reveal_segment_idx'])
-#pprint.pprint(X_plot_progression)
+
 X_plot_progression = np.array(X_plot_progression)
 y_plot_progression = np.array(y_plot_progression)
 
@@ -639,20 +640,20 @@ y_train = y_plot_progression[1:]
 X_test = X_plot_progression[:1]
 y_test = y_plot_progression[:1]
 
+
+
+n_splits = 3
+kf = KFold(n_splits=n_splits, shuffle=True, random_state=rState)
+mse_scorer = make_scorer(mean_squared_error, greater_is_better=False)
+mse_scores = cross_val_score(mlp, X_plot_progression, y_plot_progression, cv=kf, scoring=mse_scorer)
+
+print(f"Plot Progression Model Cross-Validation Mean MSE Score: {np.mean(mse_scores):.4f}")
+print(f"Plot Progression Model Cross-Validation MSE Scores: {mse_scores}")
+
 mlp.fit(X_plot_progression, y_plot_progression)
 y_plot_pred = mlp.predict(X_plot_progression)
 print(y_plot_pred)
 print(y_plot_progression)
-
-n_splits = 3
-kf = KFold(n_splits=n_splits, shuffle=True, random_state=rState)
-accuracies = cross_val_score(mlp, X_plot_progression, y_plot_progression, cv=kf)
-#y_pred = cross_val_predict(mlp, X_plot_progression, y_plot_progression, cv=kf)
-#report = classification_report(y_plot_progression, y_pred)
-#print("Plot Progression Model Cross-Validation Report:")
-#print(report)
-print(f"Plot Progression Model Cross-Validation Mean Accuracy: {np.mean(accuracies):.4f}")
-print(f"Plot Progression Model Cross-Validation Accuracies: {accuracies}")
 
 # Output the novel titles with their predicted antagonists and protagonists
 for analysis in analyses:
