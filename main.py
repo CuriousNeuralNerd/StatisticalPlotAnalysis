@@ -650,10 +650,10 @@ mse_scores = cross_val_score(mlp, X_plot_progression, y_plot_progression, cv=kf,
 print(f"Plot Progression Model Cross-Validation Mean MSE Score: {np.mean(mse_scores):.4f}")
 print(f"Plot Progression Model Cross-Validation MSE Scores: {mse_scores}")
 
-mlp.fit(X_plot_progression, y_plot_progression)
-y_plot_pred = mlp.predict(X_plot_progression)
+mlp.fit(X_train, y_train)
+y_plot_pred = mlp.predict(X_test)
 print(y_plot_pred)
-print(y_plot_progression)
+print(y_test)
 
 # Output the novel titles with their predicted antagonists and protagonists
 for analysis in analyses:
