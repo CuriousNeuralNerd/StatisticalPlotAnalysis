@@ -1,24 +1,11 @@
 import re
 
 def clean_novel(novel_text):
-    """
-    Cleans the novel text by:
-    - Removing all content before the "*** Start" marker and up to the next "***".
-    - Replacing Roman numerals beside "CHAPTER" with the corresponding numbers.
-    - Removing all content after the "*** THE END ***" marker.
-
-    Args:
-        novel_text (str): The raw text of the novel.
-
-    Returns:
-        str: The cleaned text of the novel.
-    """
-    # Step 1: Remove everything before "*** START ..." and up to the next "***"
-    # This will match everything before "*** START" and remove until the next "***".
+    # Remove everything before "*** START ..." and up to the next "***"
     start_pattern = r".*?\*\*\* START.*?\*\*\*"
     cleaned_text = re.sub(start_pattern, '', novel_text, count=1, flags=re.IGNORECASE | re.DOTALL)
 
-    # Step 2: Replace Roman numerals with numbers for "CHAPTER" headings
+    # Replace roman numerals with standard numbers for "CHAPTER" headings
     roman_to_num = {
         'I': 1, 'II': 2, 'III': 3, 'IV': 4, 'V': 5,
         'VI': 6, 'VII': 7, 'VIII': 8, 'IX': 9, 'X': 10,
@@ -34,11 +21,11 @@ def clean_novel(novel_text):
         chapter_num = match.group(1)
         return f"CHAPTER {roman_to_num.get(chapter_num, chapter_num)}"
     
-     # This regex now matches Roman numerals up to "XL" (40)
+     # Use regex to matche roman numerals up to "XL" (40)
     chapter_pattern = r"CHAPTER (X{0,3}(IX|IV|V?I{0,3}))"
     cleaned_text = re.sub(chapter_pattern, replace_roman, cleaned_text)
 
-    # Step 3: Remove everything after "*** THE END ***"
+    # Remove everything after "*** THE END ***"
     end_pattern = r"\*\*\* THE END \*\*\*.*"
     cleaned_text = re.sub(end_pattern, '', cleaned_text, flags=re.IGNORECASE | re.DOTALL)
 
@@ -46,13 +33,7 @@ def clean_novel(novel_text):
 
 
 def process_and_save_novels(input_paths, output_paths):
-    """
-    Processes and cleans the novel text from input files and saves the cleaned text to output files.
 
-    Args:
-        input_paths (list of str): List of file paths of the raw novel text files.
-        output_paths (list of str): List of file paths where the cleaned novels should be saved.
-    """
     for input_path, output_path in zip(input_paths, output_paths):
         # Read the novel text from the file
         with open(input_path, 'r', encoding='utf-8') as f:

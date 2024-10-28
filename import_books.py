@@ -3,18 +3,11 @@ import requests
 
 
 def download_novel(url, save_path):
-    """
-    Downloads the text of a novel from the given URL and saves it to the specified path.
-    
-    Args:
-        url (str): The URL of the novel.
-        save_path (str): The local path where the novel will be saved.
-    """
     response = requests.get(url)
     with open(save_path, 'w', encoding='utf-8') as f:
         f.write(response.text)
 
-# List of URLs and corresponding local paths
+# URLs to novel paths
 novel_urls = [
     'https://www.gutenberg.org/cache/epub/69087/pg69087.txt',
     'https://www.gutenberg.org/cache/epub/863/pg863.txt',
@@ -30,7 +23,7 @@ novel_urls = [
     'https://www.gutenberg.org/cache/epub/67160/pg67160.txt'
 ]
 
-# Corresponding local paths
+# Local paths
 novel_save_paths = [
     'data/novel1.txt', 'data/novel2.txt', 'data/novel3.txt', 
     'data/novel4.txt', 'data/novel5.txt', 'data/novel6.txt',
