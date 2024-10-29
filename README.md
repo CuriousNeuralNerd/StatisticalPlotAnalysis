@@ -9,17 +9,24 @@ This project, **Statistical Analysis of Agatha Christie's Novels**, is the first
 
 The project consists of the following main tasks:
 
-1. **Data Exploration**: Loading and preprocessing the novels, splitting the text into chapters, and extracting relevant features from the text (characters, sentiments, crime-related keywords, etc.).
+1. **Data Exploration**: 
+   - **Loading and Preprocessing:** Novels are loaded from text files, split into chapters, and preprocessed. We extract relevant features, including character names, sentiments, and crime-related keywords.
    
-2. **Feature Engineering**: Extracting a variety of features related to plot structure, such as character introduction times, co-occurrences between characters, sentiment analysis, and event-based markers.
+2. **Feature Engineering**:
+   - **Character Features:** Includes the time of first mention, co-occurrences, and interactions between characters.
+   - **Sentiment Features:** Sentiment analysis tracks changes in tone associated with characters and scenes.
+   - **Event-Based Features:** Includes occurrences of crime-related keywords (e.g., “murder,” “confession”) and reveal-related keywords to identify key moments in the plot.
 
 3. **Statistical Modeling**:
-   - **Perpetrator Prediction Model**: Uses features such as character mentions, interactions with the protagonist, and sentiment analysis to predict the primary antagonist of the novel.
-   - **Plot Progression Model**: Segments the novel into parts and clusters them into distinct plot events based on features like sentiment shifts and crime-related keywords.
+   - **Perpetrator Prediction Model**: A supervised machine learning model (Random Forest) predicts the antagonist based on features such as character mentions, interactions with the protagonist, and sentiment analysis.
+   - **Plot Progression Model**: This model segments the novel into events and identifies plot progression by clustering similar sections based on sentiment shifts, crime-related keywords, and reveal keywords. KMeans clustering is used to group events, while a neural network (MLP) evaluates the reveal point.
 
-4. **Evaluation**: Cross-validation is performed on the models to ensure generalizability, and the results are evaluated using metrics such as accuracy, precision, recall, and F1-score. The models’ predictions are compared to the actual outcomes.
+4. **Evaluation**:
+   - Antagonist Prediction Model: Evaluated using cross-validation with metrics such as accuracy, precision, recall, and F1-score.
+   - Plot Progression Model: Evaluated using cross-validation with Mean Squared Error (MSE) to assess accuracy in predicting reveal points.
 
-5. **Visualization**: Character interaction networks, sentiment trends, and plot progression events are visualized to highlight key insights from the novels and the models' outputs.
+5. **Visualization**: 
+   - Character interaction networks, sentiment trends, and plot progression events are visualized to highlight insights from the novels and the models' outputs.
 
 ---
 
@@ -47,7 +54,7 @@ python -m spacy download en_core_web_sm
 ### Files
 
 - **data/:**  Contains the text files of cleaned novels to be analyzed.
-- **plots/:** Stores generated plots, such as character interaction networks and sentiment over time.
+- **plots/:** Stores generated plots, including character interaction networks, sentiment over time, and keyword distributions.
 - **reports/:** Contains detailed analysis reports for each novel, including the results of the perpetrator prediction and plot progression models.
 - **analysis/:** Stores a summary of the overall analysis, including predictions and model performance.
 
@@ -73,7 +80,7 @@ python -m spacy download en_core_web_sm
   
 3. **Generated Outputs:**
 
-   - **Plots:** The generated plots (e.g., character interaction networks, sentiment over time, crime keyword distributions) are saved in the `plots/` directory.
+   - **Plots:** The generated plots (e.g., sentiment over time, keyword frequency distributions) are saved in the `plots/` directory.
    - **Reports:** Detailed reports for each novel, including the predicted protagonist and antagonist, major scenes, and plot progression, are saved in the `reports/` directory.
 
 ---
@@ -82,37 +89,49 @@ python -m spacy download en_core_web_sm
 
 ### Data Exploration
 
-The text of each novel is preprocessed to clean and structure it for analysis. The novel is split into chapters using regular expressions. We then extract various features from the text:
+Each novel's text undergoes preprocessing to clean and structure it for analysis. The text is split into chapters and then into sentences, with the following key elements extracted:
 
-   - **Character Mentions:** Extracts the names of key characters and tracks their first mention and frequency of appearances.
+   - **Character Mentions:** Key characters are identified and standardized, with their first mention and frequency tracked across the text.
    - **Sentiment Analysis:** Each sentence is analyzed for sentiment using the VADER sentiment analyzer to determine shifts in tone throughout the novel.
-   - **Crime-Related Keywords:** The frequency and distribution of crime-related keywords (e.g., "murder", "confession") are tracked to identify key events in the plot.
+   - **Crime and Reveal Keywords:** The frequency and distribution of the keywords (e.g., "murder", "reveal") are tracked to identify key events in the plot.
 
 ### Feature Engineering
 
 For each novel, several features are extracted to be used in our models:
 
    - **Character Features:** Time of first mention, interactions between characters, and co-occurrences in the same scenes.
-   - **Sentiment Features:** Sentiment scores associated with characters and scenes.
-   - **Event-Based Features:** Crime-related keywords and the locations of their occurrences in the plot.
+   - **Sentiment Features:** Sentiment scores are calculated per sentence and associated with characters and scenes.
+   - **Event-Based Features:** Frequency and locations of crime-related and reveal-related keywords are tracked across chapters.
 
 ### Statistical Modeling
 
 1. **Perpetrator Prediction Model:** A supervised machine learning model (Random Forest) is trained to predict the antagonist based on features such as:
 
-   - When and where each character is first mentioned.
-   - The number of interactions they have with the protagonist.
-   - Sentiment analysis of sentences involving each character.
-
-2. **Plot Progression Model:** This model uses features like sentiment changes, crime keyword frequency, and character mentions to segment the plot into different events and identify key turning points. KMeans clustering is used to group similar events.
+   - **Character Sentiment:** Tracks the sentiment associated with each character, as antagonists may have distinctive sentiment patterns.
+   - **Crime Keyword Co-occurrence:** Measures how often a character appears in sentences with crime-related keywords, indicating involvement in key plot moments.
+   - **First Mention Position:** Records the chapter and sentence index of each character’s first mention, as early introductions can signal importance in the plot.
+   - **Protagonist Interactions:** Counts interactions with the protagonist, as antagonists often have significant or adversarial connections with them.
+   - **Network Centrality:** Calculates each character's centrality within the interaction network, where higher centrality might imply greater narrative importance.
+     
+The model is evaluated using cross-validation metrics like accuracy, precision, recall, and F1-score.
+   
+2. **Plot Progression Model:** This model uses features like sentiment changes, crime and reveal keyword frequency, and character mentions to segment the plot into different events and identify key turning points.
+   
+   - **Clustering:** Uses KMeans to identify plot segments based on sentiment, character mentions, and keyword frequencies.
+   - **Neural Network (MLP):** Predicts the key reveal point by assessing segment features against known reveal moments
 
 ### Evaluation and Reporting
 
-The models are evaluated using cross-validation, and metrics such as accuracy, precision, recall, and F1-score are calculated. The results are saved in the `reports/` directory. Additionally, visualizations are created to show:
+Models are evaluated as follows:
 
-- **Character Interaction Networks:** Graphs showing which characters interact with each other.
-- **Sentiment Trends:** Line plots of sentiment scores throughout the novel.
-- **Crime Keyword Distributions:** Histograms showing the distribution of crime-related keywords.
+   - **Antagonist Prediction Model:** Cross-validated using metrics such as accuracy, precision, recall, and F1-score. Results are saved in the reports/ directory.
+   - **Plot Progression Model:** Evaluated with cross-validation using Mean Squared Error (MSE).
+
+Visualizations are created for:
+
+   - **Character Interaction Networks:** Graphs displaying character co-occurrences.
+   - **Sentiment Trends:** Line plots of sentiment scores throughout each novel.
+   - **Crime and Reveal Keyword Distributions:** Histograms showing the distribution of these keywords across the text.
 
 ---
 
@@ -122,7 +141,7 @@ Each report generated contains the following:
 
 - **Protagonist and Antagonist Predictions:** The model's prediction of the antagonist, compared with the actual antagonist from the novel.
 - **Major Scenes:** Key scenes identified by the plot progression model based on significant shifts in sentiment and event-based markers.
-- **Plot Progression Visualization:** Shows how sentiment and crime-related events change over the course of the novel.
+- **Plot Progression Visualization:** Shows how sentiment and crime and reveal-related events change over the course of the novel.
 
 ---
 
